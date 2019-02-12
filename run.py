@@ -4,7 +4,8 @@ from group import group
 def run():
     data = scrape()
     group_data = group(data)
-    #  Define more tasks here
+    # define more tasks here
+    print("Run Completed Successfully")
 
 if __name__ == '__main__' :
     run()
