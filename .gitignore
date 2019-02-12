@@ -1,4 +1,3 @@
 # Remove random metadata from IDE
 .vscode
-PlayByPlay.csv
 *.pyc
