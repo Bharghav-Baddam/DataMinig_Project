@@ -15,26 +15,34 @@ def group(all_data):
         # Loop over each receiver
         for receiver_id, grouped_content_receivers in grouped_receivers:
                 receiver_group = []
-                # Add like receivers to the same array
-                for content in grouped_content_receivers:
-                        receiver_group.append(content)
-                # Associate the receiver with the passer
+                # Sort and group each throw to the receiver by quarter
+                sorted_quarters = sorted(grouped_content_receivers, key = takeQuarter)
+                grouped_quarters = groupby(sorted_quarters, lambda item: item['qtr'])
+                # Loop over each quarter:
+                for quarter_id, grouped_content_quarter in grouped_quarters:
+                        quarter_group = []
+                        # Sort and group each throw to the receiver by complete or incomplete
+                        sorted_completions = sorted(grouped_content_quarter, key = takeCompletion)
+                        grouped_completions = groupby(sorted_completions, lambda item: item['complete_pass'])
+                        # Loop over each completion (1) or non completion (0)
+                        for completion_id, grouped_content_completion in grouped_completions:
+                                completion_group = []
+                                for final_content in grouped_content_completion:
+                                        completion_group.append(final_content)
+                                quarter_group.append(completion_group)
+                        receiver_group.append(quarter_group)
                 passer_group.append(receiver_group)
-        # Add the passer to the list of passers
         grouped_data.append(passer_group)            
     print("Data Grouping Completed")
     
     # Return an array with the following structure
     # - Passer
     # -- Receiver
-    # --- Play
-    # --- Play
-    # --- Play
-    # -- Receiver
-    # --- Play
-    # - Passer
-    # .....
-    # ..... etc
+    # --- Quarter
+    # ---- Completion (Yes or No)
+    # ----- Play
+    # ----- Play
+    # .... etc
     
     return grouped_data
 
@@ -43,3 +51,9 @@ def takePasser(elem):
 
 def takeReceiver(elem):
         return elem['receiver_player_id']
+
+def takeQuarter(elem):
+        return elem['qtr']
+
+def takeCompletion(elem):
+        return elem['complete_pass']
