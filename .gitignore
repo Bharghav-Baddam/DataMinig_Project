@@ -3,3 +3,4 @@
 *.pyc
 # Remove any analysis documents
 analysis.txt
+statistics.txt
