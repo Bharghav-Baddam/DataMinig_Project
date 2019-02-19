@@ -41,6 +41,7 @@ def group(all_data):
                                 f.write("-- -- -- Completion : " + completion_string + "\n")
                                 completion_group = []
                                 for final_content in grouped_content_completion:
+                                        f.write("-- -- -- -- Yards Gained : " + final_content['yards_gained'] + " // Pass Type: " + final_content['pass_length'] + "\n")
                                         completion_group.append(final_content)
                                 quarter_group.append(completion_group)
                         receiver_group.append(quarter_group)
