@@ -3,7 +3,7 @@ from group import group
 
 def run():
     data = scrape()
-    group_data = group(data)
+    group(data)
     # define more tasks here
     print("Run Completed Successfully")
 
