@@ -1,59 +1,65 @@
 from itertools import groupby, ifilter
 import itertools
+import os
+import json
+
+# File Structure
+# -Teams
+# --Quarter
+# ---W/L/T ?
+
+team_directory = os.curdir + "/Teams"
 
 def group(all_data):
-    grouped_data = []
-    # Sort and group by the passer
-    sorted_passers = sorted(all_data, key = takePasser) 
-    grouped_passers = groupby(sorted_passers, lambda item: item['passer_player_name'])
-    # Loop over each passer
-    for passer_name, grouped_content in grouped_passers: 
-        passer_group = []
-        # Sort and group each receiver that exists for the passer
-        sorted_receivers = sorted(grouped_content, key = takeReceiver)
-        grouped_receivers = groupby(sorted_receivers, lambda item: item['receiver_player_name'])
-        # Loop over each receiver
-        for receiver_name, grouped_content_receivers in grouped_receivers:
-                receiver_group = []
-                # Sort and group each throw to the receiver by quarter
-                sorted_quarters = sorted(grouped_content_receivers, key = takeQuarter)
-                grouped_quarters = groupby(sorted_quarters, lambda item: item['qtr'])
-                # Loop over each quarter:
-                for quarter_id, grouped_content_quarter in grouped_quarters:
+        try:  # create a new directory to store the files
+                os.mkdir(team_directory)
+        except OSError as file_error:  # if the directory exists then don't create a new one and don't crash
+                pass # directory exists   
+        grouped_data = []
+        # Sort and group by teams
+        sorted_teams = sorted(all_data, key = takeTeam) 
+        grouped_teams = groupby(sorted_teams, lambda item: item['Team'])
+        # Loop over each team
+        for team_name, grouped_content in grouped_teams: 
+                try:  # create a new directory to store the files
+                        os.mkdir(team_directory + "/" + team_name)
+                except OSError as file_error:  # if the directory exists then don't create a new one and don't crash
+                        pass # directory exists   
+                team_group = []
+                # Sort and group by each quarter for the team
+                sorted_quarters = sorted(grouped_content, key = takeQuarter)
+                grouped_quarters = groupby(sorted_quarters, lambda item: item['Quarter'])
+                # Loop over each quarter
+                for quarter_id, grouped_content_quarters in grouped_quarters:
+                        try:  # create a new directory to store the files
+                                os.mkdir(team_directory + "/" + team_name + "/" + quarter_id)
+                        except OSError as file_error:  # if the directory exists then don't create a new one and don't crash
+                                pass # directory exists
                         quarter_group = []
-                        # Sort and group each throw to the receiver by complete or incomplete
-                        sorted_completions = sorted(grouped_content_quarter, key = takeCompletion)
-                        grouped_completions = groupby(sorted_completions, lambda item: item['complete_pass'])
-                        # Loop over each completion (1) or non completion (0)
-                        for completion_id, grouped_content_completion in grouped_completions:
-                                completion_group = []
-                                for final_content in grouped_content_completion:
-                                        completion_group.append(final_content)
-                                quarter_group.append(completion_group)
-                        receiver_group.append(quarter_group)
-                passer_group.append(receiver_group)
-        grouped_data.append(passer_group)            
-    print("Data Grouping Completed")
-    
-    # Return an array with the following structure
-    # - Passer
-    # -- Receiver
-    # --- Quarter
-    # ---- Completion (Yes or No)
-    # ----- Play
-    # ----- Play
-    # .... etc
-    
-    return grouped_data
+                        # Sort and group by win/loss/tie
+                        sorted_winnin_lossing_tied = sorted(grouped_content_quarters, key = takeDifferential)
+                        grouped_winnin_lossing_tied = groupby(sorted_winnin_lossing_tied, lambda item: item['Winning_Losing_Tied'])
+                        for win_loss_tie_id, grouped_winnin_lossing_tied_content in grouped_winnin_lossing_tied:
+                                try:  # create a new directory to store the files
+                                        os.mkdir(team_directory + "/" + team_name + "/" + quarter_id + "/" + win_loss_tie_id)
+                                except OSError as file_error:  # if the directory exists then don't create a new one and don't crash
+                                        pass # directory exists
+                                win_lose_tie = []
+                                for final_content in grouped_winnin_lossing_tied_content:
+                                        win_lose_tie.append(final_content)
+                                with open(team_directory + "/" + team_name + "/" + quarter_id + "/" + win_loss_tie_id + "/" + 'data.json', 'w') as data_dump:
+                                        json.dump(win_lose_tie, data_dump)  # write the items list to the file
+                                quarter_group.append(win_lose_tie)
+                        team_group.append(quarter_group)
+                grouped_data.append(team_group)
+        print("Data Dump Complete")
+        return grouped_data
 
-def takePasser(elem):
-        return elem['passer_player_id']
-
-def takeReceiver(elem):
-        return elem['receiver_player_id']
+def takeTeam(elem):
+        return elem['Team']
 
 def takeQuarter(elem):
-        return elem['qtr']
+        return elem['Quarter']
 
-def takeCompletion(elem):
-        return elem['complete_pass']
+def takeDifferential(elem):
+        return elem['Winning_Losing_Tied']
