@@ -6,7 +6,7 @@ def scrape():
         with open('Data.csv', 'rb') as csvfile:
                 reader = csv.DictReader(csvfile, delimiter=',', quotechar='"')
                 for row in reader:
-                        if (row.get('passer_player_name') != 'NA' and row.get('receiver_player_name') != 'NA'):
+                        if ((row.get('passer_player_name') != 'NA' and row.get('receiver_player_name') != 'NA') or row.get('rusher_player_name') != 'NA'):
                                 score = int(row.get('total_home_score')) - int(row.get('total_away_score'))
                                 win_loss_tie = ""
                                 if (row.get('home_team') != row.get('posteam')):
