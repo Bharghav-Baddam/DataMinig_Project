@@ -86,12 +86,7 @@ team_name = raw_input("Enter team name: ")
 qtr = raw_input("Enter QTR (1-5): ")
 win_lose = raw_input("Enter scenario (Winning/Losing/Tied): ")
 
-pref = "st"
-if qtr == 2:
-    pref = "nd"
-elif qtr == 3 or qtr == 4:
-    pref = "th"
-print("Checking for when " + team_name + " is playing in the " + qtr + pref + " and is " + win_lose)
+print("Checking for when " + team_name + " is playing in Quarter " + qtr + " and is " + win_lose)
 with open('../Teams/{}/{}/{}/data.json'.format(team_name, str(qtr), win_lose), 'r') as f:
     raw_data = json.load(f)
 counter = int(raw_input("Enter number of consecutive plays to train model: "))
@@ -133,6 +128,6 @@ for i in seq:
 
 print(sequence)
 num_forward = int(raw_input("Input number of future plays to predict: "))
-print('Analyzing ' + str(num_forward) + ' plays into the future')
+print('Analyzing ' + str(num_forward) + ' play(s) into the future')
 pred = mm.predict(sequence, num_forward)
 print(pred)
