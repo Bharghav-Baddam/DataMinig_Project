@@ -100,7 +100,7 @@ for play in raw_data:
         indices.update({term:receiver_number})
         receiver_number = receiver_number + 1
     temp_y.append(indices.get(term))
-    temp_x.append(int(play['Yards_Away_From_Scoring']))
+    temp_x.append(int(play['Yards_Gained']))
     count = count+1
     if(count == orig):
         count = 0
@@ -136,7 +136,22 @@ model = hmm.GaussianHMM(receiver_number, "full")
 model.startprob_ = startprob
 model.transmat_ = transmat
 model.means_  = means
-model.covars_ = covars
+
+new_covars = []
+for c in covars:
+    outermost = []
+    for i in c:
+        outer = []
+        for j in i:
+            if j == 0:
+                outer.append(0.00001) # HMM hates zeros. Replace them with a minimal value
+            else:
+                outer.append(j)
+        outermost.append(outer)
+    new_covars.append(outermost)
+
+model.covars_ = new_covars
+
 
 test = hmm_predict_further_states(model, final_testing, num_forward)
 print(test)
