@@ -1,7 +1,14 @@
+from __future__ import print_function
 import numpy as np
 from hmmlearn import hmm
 import types
 import json
+
+def get_key(dictionary, val): 
+    for key, value in dictionary.items(): 
+         if val == value: 
+             return key 
+    return ""
 
 class markovmodel:
     #transmat: None
@@ -154,7 +161,13 @@ model.covars_ = new_covars
 
 
 test = hmm_predict_further_states(model, final_testing, num_forward)
-print(test)
+print("Prediction: ")
+for p in test:
+    name = get_key(indices, p)
+    if name == 'NA':
+        name = 'Run Play'
+    print(name, end='  ')
+print('\n')
 cons = hmm_predict_future_features(model, final_testing, num_forward)
 print([round(con[0], 2) for con in cons])
 print("\n")

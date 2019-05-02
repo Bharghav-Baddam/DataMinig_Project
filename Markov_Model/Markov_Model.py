@@ -6,6 +6,12 @@ import copy
 import json
 import datetime
 
+def get_key(dictionary, val): 
+    for key, value in dictionary.items(): 
+         if val == value: 
+             return key 
+    return ""
+
 def get_all_sequences(m, n):
     i = 1
     S = []
@@ -130,4 +136,10 @@ print(sequence)
 num_forward = int(raw_input("Input number of future plays to predict: "))
 print('Analyzing ' + str(num_forward) + ' play(s) into the future')
 pred = mm.predict(sequence, num_forward)
-print(pred)
+print("Prediction: ")
+for p in pred:
+    name = get_key(indices, p)
+    if name == 'NA':
+        name = 'Run Play'
+    print(name, end='  ')
+print('\n')
