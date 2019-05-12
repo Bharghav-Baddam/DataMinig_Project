@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.4  0.4  P.Manning -> D.Thomas
+ 0.4  1.0  D.Thomas -> P.Manning
+ 0.2  0.2  P.Manning -> O.Daniels
+ 0.2  1.0  O.Daniels -> P.Manning

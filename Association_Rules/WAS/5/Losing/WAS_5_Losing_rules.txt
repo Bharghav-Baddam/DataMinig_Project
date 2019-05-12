@@ -1,0 +1,15 @@
+Supp Conf  Rule
+ 0.1  1.0  M.Sellers -> J.Campbell
+ 0.1  0.5  J.Campbell -> M.Sellers
+ 0.1  1.0  S.Moss -> J.Campbell
+ 0.1  0.5  J.Campbell -> S.Moss
+ 0.1  1.0  K.Cousins -> R.Grant
+ 0.1  1.0  R.Grant -> K.Cousins
+ 0.1  1.0  P.Garcon -> R.Griffin
+ 0.1  0.2  R.Griffin -> P.Garcon
+ 0.1  0.2  R.Griffin -> J.Reed
+ 0.1  1.0  J.Reed -> R.Griffin
+ 0.1  0.2  R.Griffin -> L.Paulsen
+ 0.1  1.0  L.Paulsen -> R.Griffin
+ 0.1  0.2  R.Griffin -> L.Hankerson
+ 0.1  1.0  L.Hankerson -> R.Griffin

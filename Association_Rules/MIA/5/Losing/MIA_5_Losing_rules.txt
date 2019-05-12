@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.1  1.0  D.Parker -> R.Tannehill
+ 0.1  0.1  R.Tannehill -> D.Parker
+ 0.1  0.1  R.Tannehill -> A.Fasano
+ 0.1  1.0  A.Fasano -> R.Tannehill
+ 0.3  0.3  R.Tannehill -> J.Landry
+ 0.3  1.0  J.Landry -> R.Tannehill
+ 0.3  0.3  R.Tannehill -> B.Hartline
+ 0.3  1.0  B.Hartline -> R.Tannehill
+ 0.1  0.1  R.Tannehill -> D.Sims
+ 0.1  1.0  D.Sims -> R.Tannehill

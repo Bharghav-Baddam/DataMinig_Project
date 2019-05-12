@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 0.1  0.1  K.Cousins -> D.Cook
+ 0.1  1.0  D.Cook -> K.Cousins
+ 0.1  0.1  K.Cousins -> A.Thielen
+ 0.1  1.0  A.Thielen -> K.Cousins
+ 0.2  0.2  K.Cousins -> L.Treadwell
+ 0.2  1.0  L.Treadwell -> K.Cousins
+ 0.3  0.3  K.Cousins -> S.Diggs
+ 0.3  1.0  S.Diggs -> K.Cousins
+ 0.2  0.2  K.Cousins -> K.Rudolph
+ 0.2  1.0  K.Rudolph -> K.Cousins
+ 0.1  1.0  M.Asiata -> T.Bridgewater
+ 0.1  1.0  T.Bridgewater -> M.Asiata

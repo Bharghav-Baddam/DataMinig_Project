@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.1  0.9  D.Westbrook -> B.Bortles
+ 0.1  0.1  B.Bortles -> D.Westbrook
+ 0.1  1.0  T.Yeldon -> B.Bortles
+ 0.1  0.1  B.Bortles -> T.Yeldon
+ 0.1  1.0  M.Lee -> B.Bortles
+ 0.1  0.1  B.Bortles -> M.Lee

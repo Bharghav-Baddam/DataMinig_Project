@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  0.8  D.Adams -> A.Rodgers
+ 0.2  0.2  A.Rodgers -> D.Adams
+ 0.1  1.0  G.Jennings -> A.Rodgers
+ 0.1  0.1  A.Rodgers -> G.Jennings
+ 0.2  0.2  A.Rodgers -> J.Nelson
+ 0.2  1.0  J.Nelson -> A.Rodgers

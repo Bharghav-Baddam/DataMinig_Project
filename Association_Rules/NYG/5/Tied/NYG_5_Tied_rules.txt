@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 0.1  1.0  T.King -> E.Manning
+ 0.1  0.1  E.Manning -> T.King
+ 0.1  1.0  W.Gallman -> E.Manning
+ 0.1  0.1  E.Manning -> W.Gallman
+ 0.1  1.0  E.Engram -> E.Manning
+ 0.1  0.1  E.Manning -> E.Engram
+ 0.2  1.0  R.Lewis -> E.Manning
+ 0.2  0.2  E.Manning -> R.Lewis
+ 0.1  1.0  M.Manningham -> E.Manning
+ 0.1  0.1  E.Manning -> M.Manningham
+ 0.3  0.3  E.Manning -> H.Nicks
+ 0.3  1.0  H.Nicks -> E.Manning

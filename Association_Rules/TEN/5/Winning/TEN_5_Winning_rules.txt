@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  0.4  M.Mariota -> C.Davis
+ 0.2  1.0  C.Davis -> M.Mariota
+ 0.1  0.3  J.Locker -> C.Stevens
+ 0.1  1.0  C.Stevens -> J.Locker
+ 0.1  0.3  J.Locker -> K.Wright
+ 0.1  1.0  K.Wright -> J.Locker
+ 0.1  0.3  J.Locker -> D.Williams
+ 0.1  1.0  D.Williams -> J.Locker

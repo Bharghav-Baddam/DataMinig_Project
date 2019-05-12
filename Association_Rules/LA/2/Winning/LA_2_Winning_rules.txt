@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.1  1.0  B.Cooks -> J.Goff
+ 0.1  0.1  J.Goff -> B.Cooks
+ 0.1  1.0  C.Kupp -> J.Goff
+ 0.1  0.1  J.Goff -> C.Kupp
+ 0.1  0.2  J.Goff -> T.Gurley
+ 0.1  0.9  T.Gurley -> J.Goff
+ 0.1  0.2  J.Goff -> R.Woods
+ 0.1  1.0  R.Woods -> J.Goff

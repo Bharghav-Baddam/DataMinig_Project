@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  M.Preston -> R.Fitzpatrick
+ 0.2  0.3  R.Fitzpatrick -> M.Preston
+ 0.2  1.0  M.Mariota -> C.Davis
+ 0.2  1.0  C.Davis -> M.Mariota
+ 0.2  1.0  N.Washington -> R.Fitzpatrick
+ 0.2  0.3  R.Fitzpatrick -> N.Washington
+ 0.2  1.0  K.Wright -> R.Fitzpatrick
+ 0.2  0.3  R.Fitzpatrick -> K.Wright

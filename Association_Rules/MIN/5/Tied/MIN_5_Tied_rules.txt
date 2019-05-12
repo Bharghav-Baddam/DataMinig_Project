@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.2  1.0  B.Favre -> A.Peterson
+ 0.2  0.7  A.Peterson -> B.Favre
+ 0.2  0.8  G.Jennings -> M.Cassel
+ 0.2  0.8  M.Cassel -> G.Jennings

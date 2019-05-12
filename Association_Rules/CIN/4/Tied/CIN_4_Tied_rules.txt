@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.2  0.9  A.Green -> A.Dalton
+ 0.2  0.3  A.Dalton -> A.Green
+ 0.1  0.2  A.Dalton -> J.Gresham
+ 0.1  0.9  J.Gresham -> A.Dalton

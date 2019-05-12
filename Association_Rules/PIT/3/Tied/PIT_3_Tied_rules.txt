@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.2  0.2  B.Roethlisberger -> A.Brown
+ 0.2  0.9  A.Brown -> B.Roethlisberger
+ 0.1  0.2  B.Roethlisberger -> M.Wallace
+ 0.1  0.8  M.Wallace -> B.Roethlisberger

@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.2  1.0  Jo.Howard -> M.Trubisky
+ 0.2  0.3  M.Trubisky -> Jo.Howard
+ 0.2  1.0  K.Wright -> M.Trubisky
+ 0.2  0.3  M.Trubisky -> K.Wright
+ 0.2  0.3  M.Trubisky -> Z.Miller
+ 0.2  1.0  Z.Miller -> M.Trubisky
+ 0.2  1.0  M.Bennett -> J.McCown
+ 0.2  0.3  J.McCown -> M.Bennett
+ 0.3  1.0  A.Jeffery -> J.McCown
+ 0.3  0.7  J.McCown -> A.Jeffery

@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  0.4  J.Goff -> R.Woods
+ 0.2  1.0  R.Woods -> J.Goff
+ 0.1  1.0  B.Quick -> C.Keenum
+ 0.1  0.3  C.Keenum -> B.Quick
+ 0.1  1.0  L.Kendricks -> C.Keenum
+ 0.1  0.3  C.Keenum -> L.Kendricks

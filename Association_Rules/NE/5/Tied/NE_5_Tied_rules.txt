@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  1.0  D.Branch -> T.Brady
+ 0.2  0.2  T.Brady -> D.Branch
+ 0.2  1.0  A.Hernandez -> T.Brady
+ 0.2  0.2  T.Brady -> A.Hernandez
+ 0.3  0.3  T.Brady -> W.Welker
+ 0.3  1.0  W.Welker -> T.Brady

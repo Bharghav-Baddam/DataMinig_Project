@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.1  1.0  J.Crowder -> K.Cousins
+ 0.1  0.2  K.Cousins -> J.Crowder
+ 0.1  0.5  P.Garcon -> R.Griffin
+ 0.1  0.5  R.Griffin -> P.Garcon

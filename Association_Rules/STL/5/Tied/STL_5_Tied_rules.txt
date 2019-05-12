@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.1  1.0  A.Pettis -> S.Bradford
+ 0.1  0.2  S.Bradford -> A.Pettis
+ 0.1  1.0  D.Amendola -> S.Bradford
+ 0.1  0.2  S.Bradford -> D.Amendola
+ 0.1  1.0  B.Gibson -> S.Bradford
+ 0.1  0.2  S.Bradford -> B.Gibson
+ 0.1  1.0  B.Lloyd -> S.Bradford
+ 0.1  0.2  S.Bradford -> B.Lloyd
+ 0.1  1.0  S.Jackson -> S.Bradford
+ 0.1  0.2  S.Bradford -> S.Jackson

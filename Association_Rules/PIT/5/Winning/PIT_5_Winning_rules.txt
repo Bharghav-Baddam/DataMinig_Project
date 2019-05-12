@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.3  1.0  D.Ayers -> L.Jones
+ 0.3  0.3  L.Jones -> D.Ayers
+ 0.4  1.0  E.Rogers -> L.Jones
+ 0.4  0.4  L.Jones -> E.Rogers
+ 0.3  0.3  L.Jones -> C.Hamilton
+ 0.3  1.0  C.Hamilton -> L.Jones

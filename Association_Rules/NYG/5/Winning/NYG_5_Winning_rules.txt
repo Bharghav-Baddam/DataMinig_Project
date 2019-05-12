@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.3  1.0  S.Shepard -> E.Manning
+ 0.3  0.3  E.Manning -> S.Shepard
+ 0.3  1.0  O.Beckham Jr. -> E.Manning
+ 0.3  0.3  E.Manning -> O.Beckham Jr.
+ 0.2  1.0  R.Randle -> E.Manning
+ 0.2  0.2  E.Manning -> R.Randle
+ 0.1  0.1  E.Manning -> R.Jennings
+ 0.1  1.0  R.Jennings -> E.Manning

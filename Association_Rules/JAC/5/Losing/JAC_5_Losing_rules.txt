@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.1  1.0  M.Sims-Walker -> D.Garrard
+ 0.1  0.3  D.Garrard -> M.Sims-Walker
+ 0.2  0.4  D.Garrard -> M.Thomas
+ 0.2  1.0  M.Thomas -> D.Garrard
+ 0.2  0.8  L.Robinson -> B.Gabbert
+ 0.2  1.0  B.Gabbert -> L.Robinson

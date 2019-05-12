@@ -1,0 +1,3 @@
+Supp Conf  Rule
+ 0.1  0.3  D.Garrard -> M.Thomas
+ 0.1  0.6  M.Thomas -> D.Garrard

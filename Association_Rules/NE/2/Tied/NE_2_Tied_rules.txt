@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.2  1.0  R.Gronkowski -> T.Brady
+ 0.2  0.2  T.Brady -> R.Gronkowski
+ 0.1  1.0  J.Edelman -> T.Brady
+ 0.1  0.1  T.Brady -> J.Edelman

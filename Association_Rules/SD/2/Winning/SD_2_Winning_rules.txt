@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.1  1.0  A.Gates -> P.Rivers
+ 0.1  0.1  P.Rivers -> A.Gates
+ 0.1  0.1  P.Rivers -> M.Floyd
+ 0.1  1.0  M.Floyd -> P.Rivers

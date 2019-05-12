@@ -1,0 +1,3 @@
+Supp Conf  Rule
+ 0.1  0.3  J.Freeman -> M.Williams
+ 0.1  1.0  M.Williams -> J.Freeman

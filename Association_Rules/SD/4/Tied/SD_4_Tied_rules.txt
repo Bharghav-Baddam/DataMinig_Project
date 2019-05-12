@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.1  1.0  A.Gates -> P.Rivers
+ 0.1  0.1  P.Rivers -> A.Gates
+ 0.1  0.1  P.Rivers -> D.Woodhead
+ 0.1  1.0  D.Woodhead -> P.Rivers

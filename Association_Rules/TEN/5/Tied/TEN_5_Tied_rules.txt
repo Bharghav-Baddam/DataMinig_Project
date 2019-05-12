@@ -1,0 +1,17 @@
+Supp Conf  Rule
+ 0.1  1.0  D.Henry -> M.Mariota
+ 0.1  0.1  M.Mariota -> D.Henry
+ 0.1  1.0  J.Smith -> M.Mariota
+ 0.1  0.1  M.Mariota -> J.Smith
+ 0.1  0.1  M.Mariota -> C.Stevens
+ 0.1  1.0  C.Stevens -> M.Mariota
+ 0.2  0.2  M.Mariota -> D.Walker
+ 0.2  1.0  D.Walker -> M.Mariota
+ 0.2  0.2  M.Mariota -> D.Green-Beckham
+ 0.2  1.0  D.Green-Beckham -> M.Mariota
+ 0.1  0.1  M.Mariota -> R.Matthews
+ 0.1  1.0  R.Matthews -> M.Mariota
+ 0.1  0.1  M.Mariota -> E.Decker
+ 0.1  1.0  E.Decker -> M.Mariota
+ 0.1  0.1  M.Mariota -> H.Douglas
+ 0.1  1.0  H.Douglas -> M.Mariota

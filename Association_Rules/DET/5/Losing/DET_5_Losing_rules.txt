@@ -1,0 +1,15 @@
+Supp Conf  Rule
+ 0.1  1.0  K.Durham -> M.Stafford
+ 0.1  0.3  M.Stafford -> K.Durham
+ 0.1  0.5  J.Bell -> Sh.Hill
+ 0.1  0.2  Sh.Hill -> J.Bell
+ 0.1  0.5  J.Bell -> M.Stafford
+ 0.1  0.3  M.Stafford -> J.Bell
+ 0.1  1.0  M.Leshoure -> Sh.Hill
+ 0.1  0.2  Sh.Hill -> M.Leshoure
+ 0.1  0.2  Sh.Hill -> B.Pettigrew
+ 0.1  1.0  B.Pettigrew -> Sh.Hill
+ 0.1  0.2  Sh.Hill -> C.Johnson
+ 0.1  1.0  C.Johnson -> Sh.Hill
+ 0.1  0.3  M.Stafford -> D.Dickerson
+ 0.1  1.0  D.Dickerson -> M.Stafford

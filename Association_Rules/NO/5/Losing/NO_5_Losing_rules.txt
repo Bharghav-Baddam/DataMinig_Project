@@ -1,0 +1,17 @@
+Supp Conf  Rule
+ 0.1  1.0  K.Robinson -> D.Brees
+ 0.1  0.1  D.Brees -> K.Robinson
+ 0.2  1.0  M.Colston -> D.Brees
+ 0.2  0.2  D.Brees -> M.Colston
+ 0.1  0.1  D.Brees -> K.Stills
+ 0.1  1.0  K.Stills -> D.Brees
+ 0.1  0.1  D.Brees -> D.Henderson
+ 0.1  1.0  D.Henderson -> D.Brees
+ 0.1  0.1  D.Brees -> J.Hill
+ 0.1  1.0  J.Hill -> D.Brees
+ 0.1  0.1  D.Brees -> D.Thomas
+ 0.1  1.0  D.Thomas -> D.Brees
+ 0.1  0.1  D.Brees -> C.Spiller
+ 0.1  1.0  C.Spiller -> D.Brees
+ 0.2  0.2  D.Brees -> B.Watson
+ 0.2  1.0  B.Watson -> D.Brees

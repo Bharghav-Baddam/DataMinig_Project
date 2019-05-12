@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.1  0.9  B.Pettigrew -> M.Stafford
+ 0.1  0.1  M.Stafford -> B.Pettigrew
+ 0.1  0.1  M.Stafford -> C.Johnson
+ 0.1  0.9  C.Johnson -> M.Stafford

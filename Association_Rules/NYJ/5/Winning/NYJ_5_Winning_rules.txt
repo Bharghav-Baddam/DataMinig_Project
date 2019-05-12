@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  1.0  B.Powell -> R.Fitzpatrick
+ 0.2  0.2  R.Fitzpatrick -> B.Powell
+ 0.3  0.8  E.Decker -> R.Fitzpatrick
+ 0.3  0.4  R.Fitzpatrick -> E.Decker
+ 0.2  1.0  B.Marshall -> R.Fitzpatrick
+ 0.2  0.2  R.Fitzpatrick -> B.Marshall

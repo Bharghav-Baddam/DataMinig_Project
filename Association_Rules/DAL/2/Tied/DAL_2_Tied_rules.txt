@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.2  0.8  D.Bryant -> T.Romo
+ 0.2  0.2  T.Romo -> D.Bryant
+ 0.2  0.8  J.Witten -> T.Romo
+ 0.2  0.2  T.Romo -> J.Witten

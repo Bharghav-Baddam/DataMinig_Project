@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.3  1.0  C.Hyde -> B.Mayfield
+ 0.3  0.3  B.Mayfield -> C.Hyde
+ 0.3  0.3  B.Mayfield -> D.Njoku
+ 0.3  1.0  D.Njoku -> B.Mayfield
+ 0.3  0.3  B.Mayfield -> D.Johnson
+ 0.3  1.0  D.Johnson -> B.Mayfield

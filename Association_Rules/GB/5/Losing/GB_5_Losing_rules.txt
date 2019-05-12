@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.3  1.0  G.Allison -> A.Rodgers
+ 0.3  0.3  A.Rodgers -> G.Allison
+ 0.3  0.3  A.Rodgers -> T.Montgomery
+ 0.3  1.0  T.Montgomery -> A.Rodgers
+ 0.3  0.3  A.Rodgers -> J.Nelson
+ 0.3  1.0  J.Nelson -> A.Rodgers

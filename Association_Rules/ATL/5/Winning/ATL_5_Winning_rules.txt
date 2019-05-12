@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.1  1.0  M.Sanu -> M.Ryan
+ 0.1  0.1  M.Ryan -> M.Sanu
+ 0.4  1.0  J.Hardy -> M.Ryan
+ 0.4  0.4  M.Ryan -> J.Hardy
+ 0.1  1.0  D.Freeman -> M.Ryan
+ 0.1  0.1  M.Ryan -> D.Freeman
+ 0.2  1.0  J.Jones -> M.Ryan
+ 0.2  0.2  M.Ryan -> J.Jones
+ 0.1  1.0  R.White -> M.Ryan
+ 0.1  0.1  M.Ryan -> R.White

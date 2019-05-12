@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  0.5  C.Palmer -> J.Dray
+ 0.2  1.0  J.Dray -> C.Palmer
+ 0.2  0.5  C.Palmer -> L.Fitzgerald
+ 0.2  0.5  L.Fitzgerald -> C.Palmer
+ 0.2  1.0  K.Kolb -> L.Stephens-Howling
+ 0.2  1.0  L.Stephens-Howling -> K.Kolb
+ 0.2  1.0  D.Anderson -> L.Fitzgerald
+ 0.2  0.5  L.Fitzgerald -> D.Anderson

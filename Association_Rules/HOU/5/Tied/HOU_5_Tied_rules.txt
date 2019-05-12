@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  1.0  K.Walter -> M.Schaub
+ 0.2  0.3  M.Schaub -> K.Walter
+ 0.1  1.0  A.Johnson -> M.Schaub
+ 0.1  0.2  M.Schaub -> A.Johnson
+ 0.1  1.0  O.Daniels -> M.Schaub
+ 0.1  0.1  M.Schaub -> O.Daniels

@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.1  1.0  J.Nelson -> C.Palmer
+ 0.1  0.3  C.Palmer -> J.Nelson
+ 0.1  0.3  C.Palmer -> L.Fitzgerald
+ 0.1  0.4  L.Fitzgerald -> C.Palmer
+ 0.2  0.7  K.Kolb -> A.Roberts
+ 0.2  0.8  A.Roberts -> K.Kolb
+ 0.2  0.6  J.Skelton -> L.Fitzgerald
+ 0.2  0.6  L.Fitzgerald -> J.Skelton

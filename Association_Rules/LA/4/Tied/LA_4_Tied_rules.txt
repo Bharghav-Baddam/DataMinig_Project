@@ -1,0 +1,15 @@
+Supp Conf  Rule
+ 0.1  1.0  G.Everett -> J.Goff
+ 0.1  0.5  J.Goff -> G.Everett
+ 0.1  1.0  P.Cooper -> C.Keenum
+ 0.1  0.1  C.Keenum -> P.Cooper
+ 0.1  0.5  J.Goff -> T.Gurley
+ 0.1  1.0  T.Gurley -> J.Goff
+ 0.1  1.0  L.Kendricks -> C.Keenum
+ 0.1  0.1  C.Keenum -> L.Kendricks
+ 0.1  0.1  C.Keenum -> T.Austin
+ 0.1  1.0  T.Austin -> C.Keenum
+ 0.4  0.5  C.Keenum -> K.Britt
+ 0.4  1.0  K.Britt -> C.Keenum
+ 0.1  0.1  C.Keenum -> B.Cunningham
+ 0.1  1.0  B.Cunningham -> C.Keenum

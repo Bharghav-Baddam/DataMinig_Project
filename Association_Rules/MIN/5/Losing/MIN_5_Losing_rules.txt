@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  T.Bridgewater -> J.Wright
+ 0.2  1.0  J.Wright -> T.Bridgewater
+ 0.2  1.0  C.Patterson -> C.Ponder
+ 0.2  0.5  C.Ponder -> C.Patterson
+ 0.2  0.5  C.Ponder -> J.Carlson
+ 0.2  1.0  J.Carlson -> C.Ponder
+ 0.2  1.0  B.Berrian -> B.Favre
+ 0.2  1.0  B.Favre -> B.Berrian

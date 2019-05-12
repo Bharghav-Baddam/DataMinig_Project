@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.3  1.0  L.Green -> P.Rivers
+ 0.3  0.3  P.Rivers -> L.Green
+ 0.3  0.3  P.Rivers -> D.Inman
+ 0.3  1.0  D.Inman -> P.Rivers
+ 0.3  0.3  P.Rivers -> D.Woodhead
+ 0.3  1.0  D.Woodhead -> P.Rivers

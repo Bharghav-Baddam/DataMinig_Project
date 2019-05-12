@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.2  1.0  T.Lockett -> R.Wilson
+ 0.2  0.2  R.Wilson -> T.Lockett
+ 0.2  0.2  R.Wilson -> D.Baldwin
+ 0.2  1.0  D.Baldwin -> R.Wilson
+ 0.2  0.2  R.Wilson -> J.Graham
+ 0.2  1.0  J.Graham -> R.Wilson
+ 0.1  0.1  R.Wilson -> M.Lynch
+ 0.1  1.0  M.Lynch -> R.Wilson
+ 0.1  0.1  R.Wilson -> F.Jackson
+ 0.1  1.0  F.Jackson -> R.Wilson

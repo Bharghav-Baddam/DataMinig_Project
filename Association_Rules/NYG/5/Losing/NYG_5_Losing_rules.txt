@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  B.Myers -> E.Manning
+ 0.2  0.2  E.Manning -> B.Myers
+ 0.2  1.0  J.Jernigan -> E.Manning
+ 0.2  0.2  E.Manning -> J.Jernigan
+ 0.4  1.0  R.Randle -> E.Manning
+ 0.4  0.4  E.Manning -> R.Randle
+ 0.1  0.1  E.Manning -> B.Pascoe
+ 0.1  1.0  B.Pascoe -> E.Manning

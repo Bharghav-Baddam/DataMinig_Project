@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.1  1.0  T.Boyd -> A.Dalton
+ 0.1  0.1  A.Dalton -> T.Boyd
+ 0.2  1.0  G.Bernard -> A.Dalton
+ 0.2  0.2  A.Dalton -> G.Bernard
+ 0.2  1.0  T.Eifert -> A.Dalton
+ 0.2  0.2  A.Dalton -> T.Eifert
+ 0.2  1.0  A.Green -> A.Dalton
+ 0.2  0.2  A.Dalton -> A.Green
+ 0.2  0.2  A.Dalton -> M.Sanu
+ 0.2  1.0  M.Sanu -> A.Dalton

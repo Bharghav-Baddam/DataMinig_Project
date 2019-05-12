@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  J.Boykin -> M.Flynn
+ 0.2  0.2  M.Flynn -> J.Boykin
+ 0.1  0.2  M.Flynn -> J.Jones
+ 0.1  1.0  J.Jones -> M.Flynn
+ 0.2  0.3  M.Flynn -> J.Nelson
+ 0.2  1.0  J.Nelson -> M.Flynn
+ 0.1  1.0  G.Jennings -> A.Rodgers
+ 0.1  0.7  A.Rodgers -> G.Jennings

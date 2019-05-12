@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.1  0.4  B.Osweiler -> D.Thomas
+ 0.1  0.5  D.Thomas -> B.Osweiler
+ 0.1  0.4  B.Osweiler -> O.Daniels
+ 0.1  1.0  O.Daniels -> B.Osweiler
+ 0.1  1.0  E.Royal -> K.Orton
+ 0.1  0.5  K.Orton -> E.Royal

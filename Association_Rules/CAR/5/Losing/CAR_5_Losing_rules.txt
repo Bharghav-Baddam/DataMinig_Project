@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.2  1.0  D.Reaves -> C.Newton
+ 0.2  0.2  C.Newton -> D.Reaves
+ 0.2  1.0  B.Bersin -> C.Newton
+ 0.2  0.2  C.Newton -> B.Bersin
+ 0.3  1.0  J.Cotchery -> C.Newton
+ 0.3  0.3  C.Newton -> J.Cotchery
+ 0.2  1.0  G.Olsen -> C.Newton
+ 0.2  0.2  C.Newton -> G.Olsen
+ 0.2  0.2  C.Newton -> K.Benjamin
+ 0.2  1.0  K.Benjamin -> C.Newton

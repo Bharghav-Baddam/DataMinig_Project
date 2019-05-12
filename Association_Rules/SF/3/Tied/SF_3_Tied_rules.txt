@@ -1,0 +1,3 @@
+Supp Conf  Rule
+ 0.1  0.3  C.Kaepernick -> A.Boldin
+ 0.1  1.0  A.Boldin -> C.Kaepernick

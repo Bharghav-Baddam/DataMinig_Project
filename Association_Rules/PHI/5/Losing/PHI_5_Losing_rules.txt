@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  1.0  Z.Ertz -> S.Bradford
+ 0.2  0.2  S.Bradford -> Z.Ertz
+ 0.2  1.0  D.Murray -> S.Bradford
+ 0.2  0.2  S.Bradford -> D.Murray
+ 0.5  1.0  J.Matthews -> S.Bradford
+ 0.5  0.5  S.Bradford -> J.Matthews

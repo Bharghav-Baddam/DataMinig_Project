@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  1.0  J.Jones -> M.Ryan
+ 0.2  0.2  M.Ryan -> J.Jones
+ 0.1  1.0  T.Gonzalez -> M.Ryan
+ 0.1  0.1  M.Ryan -> T.Gonzalez
+ 0.1  0.9  R.White -> M.Ryan
+ 0.1  0.1  M.Ryan -> R.White

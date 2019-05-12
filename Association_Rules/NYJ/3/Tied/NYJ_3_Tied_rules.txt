@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.1  1.0  P.Burress -> M.Sanchez
+ 0.1  0.2  M.Sanchez -> P.Burress
+ 0.1  1.0  S.Greene -> M.Sanchez
+ 0.1  0.2  M.Sanchez -> S.Greene

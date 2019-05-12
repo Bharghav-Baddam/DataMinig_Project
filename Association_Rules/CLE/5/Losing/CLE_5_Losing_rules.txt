@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  1.0  M.Furrey -> D.Anderson
+ 0.2  0.2  D.Anderson -> M.Furrey
+ 0.2  1.0  M.Massaquoi -> D.Anderson
+ 0.2  0.3  D.Anderson -> M.Massaquoi
+ 0.2  1.0  J.Harrison -> D.Anderson
+ 0.2  0.3  D.Anderson -> J.Harrison

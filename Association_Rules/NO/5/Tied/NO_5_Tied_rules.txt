@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.1  1.0  A.Kamara -> D.Brees
+ 0.1  0.1  D.Brees -> A.Kamara
+ 0.1  0.1  D.Brees -> K.Stills
+ 0.1  1.0  K.Stills -> D.Brees
+ 0.1  0.1  D.Brees -> J.Graham
+ 0.1  1.0  J.Graham -> D.Brees

@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.2  0.3  B.Hundley -> D.Adams
+ 0.2  0.5  D.Adams -> B.Hundley
+ 0.2  0.3  B.Hundley -> J.Williams
+ 0.2  1.0  J.Williams -> B.Hundley
+ 0.2  0.3  B.Hundley -> J.Nelson
+ 0.2  1.0  J.Nelson -> B.Hundley
+ 0.2  1.0  G.Allison -> A.Rodgers
+ 0.2  0.5  A.Rodgers -> G.Allison
+ 0.2  0.5  D.Adams -> A.Rodgers
+ 0.2  0.5  A.Rodgers -> D.Adams

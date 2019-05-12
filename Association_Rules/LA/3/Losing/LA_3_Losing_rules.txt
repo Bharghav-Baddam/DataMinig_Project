@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.1  0.1  J.Goff -> T.Gurley
+ 0.1  0.9  T.Gurley -> J.Goff
+ 0.1  0.1  J.Goff -> R.Woods
+ 0.1  1.0  R.Woods -> J.Goff

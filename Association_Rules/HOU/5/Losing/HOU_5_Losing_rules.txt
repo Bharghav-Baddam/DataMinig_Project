@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  K.Coutee -> D.Watson
+ 0.2  0.4  D.Watson -> K.Coutee
+ 0.1  0.3  D.Watson -> D.Hopkins
+ 0.1  0.4  D.Hopkins -> D.Watson
+ 0.2  0.6  D.Hopkins -> M.Schaub
+ 0.2  0.3  M.Schaub -> D.Hopkins
+ 0.2  1.0  A.Johnson -> M.Schaub
+ 0.2  0.3  M.Schaub -> A.Johnson

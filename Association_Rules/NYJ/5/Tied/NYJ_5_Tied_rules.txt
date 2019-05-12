@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  L.Tomlinson -> M.Sanchez
+ 0.2  0.2  M.Sanchez -> L.Tomlinson
+ 0.3  1.0  D.Keller -> M.Sanchez
+ 0.3  0.3  M.Sanchez -> D.Keller
+ 0.1  0.2  M.Sanchez -> B.Edwards
+ 0.1  1.0  B.Edwards -> M.Sanchez
+ 0.1  0.2  M.Sanchez -> S.Holmes
+ 0.1  1.0  S.Holmes -> M.Sanchez

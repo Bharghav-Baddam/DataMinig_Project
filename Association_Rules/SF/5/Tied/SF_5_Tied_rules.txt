@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.1  0.5  C.Kaepernick -> M.Crabtree
+ 0.1  1.0  M.Crabtree -> C.Kaepernick
+ 0.2  0.5  B.Gabbert -> A.Boldin
+ 0.2  1.0  A.Boldin -> B.Gabbert

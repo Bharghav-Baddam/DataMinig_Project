@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.2  1.0  C.Ochocinco -> C.Palmer
+ 0.2  0.3  C.Palmer -> C.Ochocinco
+ 0.1  1.0  L.Coles -> C.Palmer
+ 0.1  0.2  C.Palmer -> L.Coles

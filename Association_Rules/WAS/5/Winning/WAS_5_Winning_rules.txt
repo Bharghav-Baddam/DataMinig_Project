@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.2  1.0  F.Davis -> D.McNabb
+ 0.2  0.2  D.McNabb -> F.Davis
+ 0.2  1.0  C.Cooley -> D.McNabb
+ 0.2  0.2  D.McNabb -> C.Cooley
+ 0.2  1.0  S.Moss -> D.McNabb
+ 0.2  0.2  D.McNabb -> S.Moss
+ 0.2  0.2  D.McNabb -> A.Armstrong
+ 0.2  1.0  A.Armstrong -> D.McNabb
+ 0.2  0.2  D.McNabb -> K.Williams
+ 0.2  1.0  K.Williams -> D.McNabb

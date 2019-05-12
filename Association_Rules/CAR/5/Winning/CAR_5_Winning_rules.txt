@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.3  1.0  C.Brown -> C.Newton
+ 0.3  0.3  C.Newton -> C.Brown
+ 0.2  1.0  G.Olsen -> C.Newton
+ 0.2  0.2  C.Newton -> G.Olsen
+ 0.2  0.2  C.Newton -> J.Stewart
+ 0.2  1.0  J.Stewart -> C.Newton
+ 0.3  0.3  C.Newton -> T.Ginn
+ 0.3  1.0  T.Ginn -> C.Newton

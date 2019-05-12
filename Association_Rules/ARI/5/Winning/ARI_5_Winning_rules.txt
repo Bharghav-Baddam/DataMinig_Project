@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  1.0  J.Brown -> C.Palmer
+ 0.2  0.2  C.Palmer -> J.Brown
+ 0.3  1.0  Ja.Brown -> C.Palmer
+ 0.3  0.3  C.Palmer -> Ja.Brown
+ 0.5  1.0  A.Ellington -> C.Palmer
+ 0.5  0.5  C.Palmer -> A.Ellington

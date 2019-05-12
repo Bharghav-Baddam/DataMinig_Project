@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.1  1.0  J.Kearse -> J.McCown
+ 0.1  0.4  J.McCown -> J.Kearse
+ 0.1  1.0  R.Anderson -> J.McCown
+ 0.1  0.4  J.McCown -> R.Anderson
+ 0.1  1.0  C.Schilens -> M.Sanchez
+ 0.1  0.2  M.Sanchez -> C.Schilens
+ 0.1  1.0  J.Cumberland -> M.Sanchez
+ 0.1  0.2  M.Sanchez -> J.Cumberland
+ 0.1  0.2  M.Sanchez -> S.Holmes
+ 0.1  1.0  S.Holmes -> M.Sanchez

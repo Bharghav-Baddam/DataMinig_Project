@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.2  0.9  G.Olsen -> C.Newton
+ 0.2  0.2  C.Newton -> G.Olsen
+ 0.1  0.1  C.Newton -> S.Smith
+ 0.1  0.6  S.Smith -> C.Newton

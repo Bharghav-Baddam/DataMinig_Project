@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 0.1  1.0  R.Gordon -> C.Daniel
+ 0.1  0.2  C.Daniel -> R.Gordon
+ 0.3  1.0  A.Jenkins -> C.Daniel
+ 0.3  0.6  C.Daniel -> A.Jenkins
+ 0.1  1.0  T.Hill -> A.Smith
+ 0.1  0.2  A.Smith -> T.Hill
+ 0.1  1.0  C.Conley -> A.Smith
+ 0.1  0.2  A.Smith -> C.Conley
+ 0.2  1.0  T.Kelce -> A.Smith
+ 0.2  0.5  A.Smith -> T.Kelce
+ 0.1  1.0  D.McCluster -> C.Daniel
+ 0.1  0.2  C.Daniel -> D.McCluster

@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.1  1.0  G.Tate -> M.Stafford
+ 0.1  0.1  M.Stafford -> G.Tate
+ 0.1  0.2  M.Stafford -> C.Johnson
+ 0.1  0.9  C.Johnson -> M.Stafford

@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  0.8  R.Tannehill -> B.Hartline
+ 0.2  0.8  B.Hartline -> R.Tannehill
+ 0.2  0.4  C.Henne -> D.Bess
+ 0.2  0.8  D.Bess -> C.Henne
+ 0.2  0.8  B.Marshall -> M.Moore
+ 0.2  0.6  M.Moore -> B.Marshall

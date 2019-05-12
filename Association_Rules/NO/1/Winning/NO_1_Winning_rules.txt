@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.1  1.0  M.Colston -> D.Brees
+ 0.1  0.1  D.Brees -> M.Colston
+ 0.1  0.1  D.Brees -> J.Graham
+ 0.1  1.0  J.Graham -> D.Brees

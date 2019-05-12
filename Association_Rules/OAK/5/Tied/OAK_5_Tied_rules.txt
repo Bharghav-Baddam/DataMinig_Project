@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.1  1.0  S.Roberts -> D.Carr
+ 0.1  0.1  D.Carr -> S.Roberts
+ 0.2  0.2  D.Carr -> A.Cooper
+ 0.2  1.0  A.Cooper -> D.Carr
+ 0.1  0.1  D.Carr -> A.Holmes
+ 0.1  1.0  A.Holmes -> D.Carr
+ 0.3  0.4  D.Carr -> M.Crabtree
+ 0.3  1.0  M.Crabtree -> D.Carr

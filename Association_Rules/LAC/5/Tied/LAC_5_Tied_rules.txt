@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.3  1.0  K.Allen -> P.Rivers
+ 0.3  0.3  P.Rivers -> K.Allen
+ 0.3  1.0  M.Gordon -> P.Rivers
+ 0.3  0.3  P.Rivers -> M.Gordon
+ 0.3  0.3  P.Rivers -> T.Benjamin
+ 0.3  1.0  T.Benjamin -> P.Rivers

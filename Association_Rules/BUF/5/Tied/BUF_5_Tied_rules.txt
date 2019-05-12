@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.1  1.0  R.Parrish -> R.Fitzpatrick
+ 0.1  0.1  R.Fitzpatrick -> R.Parrish
+ 0.2  0.3  R.Fitzpatrick -> L.Evans
+ 0.2  1.0  L.Evans -> R.Fitzpatrick

@@ -1,0 +1,17 @@
+Supp Conf  Rule
+ 0.1  1.0  J.James -> P.Manning
+ 0.1  0.3  P.Manning -> J.James
+ 0.1  1.0  Z.Pascal -> A.Luck
+ 0.1  0.2  A.Luck -> Z.Pascal
+ 0.2  1.0  C.Rogers -> A.Luck
+ 0.2  0.2  A.Luck -> C.Rogers
+ 0.1  0.2  A.Luck -> R.Grant
+ 0.1  1.0  R.Grant -> A.Luck
+ 0.1  0.2  A.Luck -> E.Ebron
+ 0.1  1.0  E.Ebron -> A.Luck
+ 0.1  0.2  A.Luck -> M.Johnson
+ 0.1  1.0  M.Johnson -> A.Luck
+ 0.2  1.0  R.Wayne -> P.Manning
+ 0.2  0.4  P.Manning -> R.Wayne
+ 0.1  0.3  P.Manning -> J.Tamme
+ 0.1  1.0  J.Tamme -> P.Manning

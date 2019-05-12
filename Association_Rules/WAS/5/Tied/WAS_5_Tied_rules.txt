@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.1  1.0  J.Crowder -> K.Cousins
+ 0.1  0.3  K.Cousins -> J.Crowder
+ 0.1  1.0  S.Moss -> D.McNabb
+ 0.1  0.4  D.McNabb -> S.Moss
+ 0.1  0.2  K.Cousins -> P.Garcon
+ 0.1  0.8  P.Garcon -> K.Cousins

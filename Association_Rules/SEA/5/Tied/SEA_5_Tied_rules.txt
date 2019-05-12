@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.4  0.4  R.Wilson -> D.Baldwin
+ 0.4  1.0  D.Baldwin -> R.Wilson
+ 0.1  0.2  R.Wilson -> J.Kearse
+ 0.1  1.0  J.Kearse -> R.Wilson
+ 0.2  0.2  R.Wilson -> P.Harvin
+ 0.2  1.0  P.Harvin -> R.Wilson

@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  D.Richardson -> S.Bradford
+ 0.2  0.2  S.Bradford -> D.Richardson
+ 0.2  1.0  B.Quick -> S.Bradford
+ 0.2  0.2  S.Bradford -> B.Quick
+ 0.5  1.0  C.Givens -> S.Bradford
+ 0.5  0.5  S.Bradford -> C.Givens
+ 0.2  1.0  S.Jackson -> S.Bradford
+ 0.2  0.2  S.Bradford -> S.Jackson

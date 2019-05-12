@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.2  0.3  C.Palmer -> L.Fitzgerald
+ 0.2  0.4  L.Fitzgerald -> C.Palmer
+ 0.1  0.5  J.Skelton -> L.Fitzgerald
+ 0.1  0.4  L.Fitzgerald -> J.Skelton

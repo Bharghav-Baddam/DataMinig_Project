@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.5  0.6  C.Kaepernick -> R.Moss
+ 0.5  1.0  R.Moss -> C.Kaepernick
+ 0.2  0.2  C.Kaepernick -> V.Davis
+ 0.2  1.0  V.Davis -> C.Kaepernick
+ 0.2  0.2  C.Kaepernick -> M.Crabtree
+ 0.2  1.0  M.Crabtree -> C.Kaepernick
+ 0.2  1.0  T.Smith -> B.Gabbert
+ 0.2  1.0  B.Gabbert -> T.Smith

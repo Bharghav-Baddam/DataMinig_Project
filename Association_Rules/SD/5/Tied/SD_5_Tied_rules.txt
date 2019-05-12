@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  1.0  D.Alexander -> P.Rivers
+ 0.2  0.2  P.Rivers -> D.Alexander
+ 0.1  1.0  R.McMichael -> P.Rivers
+ 0.1  0.1  P.Rivers -> R.McMichael
+ 0.2  1.0  A.Gates -> P.Rivers
+ 0.2  0.2  P.Rivers -> A.Gates

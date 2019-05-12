@@ -1,0 +1,3 @@
+Supp Conf  Rule
+ 1.0  1.0  J.Matthews -> S.Bradford
+ 1.0  1.0  S.Bradford -> J.Matthews

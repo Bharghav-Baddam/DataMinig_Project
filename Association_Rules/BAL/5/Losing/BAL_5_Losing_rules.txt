@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  0.5  R.Griffin III -> W.Snead IV
+ 0.2  0.5  W.Snead IV -> R.Griffin III
+ 0.2  0.5  R.Griffin III -> J.Brown
+ 0.2  1.0  J.Brown -> R.Griffin III
+ 0.2  0.5  L.Jackson -> W.Snead IV
+ 0.2  0.5  W.Snead IV -> L.Jackson
+ 0.2  0.5  L.Jackson -> C.Moore
+ 0.2  1.0  C.Moore -> L.Jackson

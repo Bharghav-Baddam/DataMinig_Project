@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.3  0.3  C.Wentz -> N.Agholor
+ 0.3  1.0  N.Agholor -> C.Wentz
+ 0.3  0.3  C.Wentz -> Z.Ertz
+ 0.3  1.0  Z.Ertz -> C.Wentz
+ 0.3  0.3  C.Wentz -> A.Jeffery
+ 0.3  1.0  A.Jeffery -> C.Wentz

@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  0.2  C.Daniel -> A.Robinson II
+ 0.2  1.0  A.Robinson II -> C.Daniel
+ 0.4  0.5  C.Daniel -> T.Cohen
+ 0.4  1.0  T.Cohen -> C.Daniel
+ 0.2  0.2  C.Daniel -> T.Gabriel
+ 0.2  1.0  T.Gabriel -> C.Daniel
+ 0.2  1.0  D.Aromashodu -> J.Cutler
+ 0.2  1.0  J.Cutler -> D.Aromashodu

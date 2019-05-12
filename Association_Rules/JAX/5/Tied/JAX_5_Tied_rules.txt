@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.2  1.0  J.Mickens -> B.Bortles
+ 0.2  0.2  B.Bortles -> J.Mickens
+ 0.2  1.0  K.Cole -> B.Bortles
+ 0.2  0.2  B.Bortles -> K.Cole
+ 0.2  1.0  L.Fournette -> B.Bortles
+ 0.2  0.2  B.Bortles -> L.Fournette
+ 0.2  1.0  T.Yeldon -> B.Bortles
+ 0.2  0.2  B.Bortles -> T.Yeldon
+ 0.2  1.0  M.Lee -> B.Bortles
+ 0.2  0.2  B.Bortles -> M.Lee

@@ -1,0 +1,3 @@
+Supp Conf  Rule
+ 0.1  0.9  T.Hilton -> A.Luck
+ 0.1  0.2  A.Luck -> T.Hilton

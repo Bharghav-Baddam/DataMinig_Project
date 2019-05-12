@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.1  1.0  C.Godwin -> J.Winston
+ 0.1  0.1  J.Winston -> C.Godwin
+ 0.1  1.0  C.Sims -> J.Winston
+ 0.1  0.1  J.Winston -> C.Sims
+ 0.2  1.0  A.Humphries -> J.Winston
+ 0.2  0.2  J.Winston -> A.Humphries
+ 0.4  0.4  J.Winston -> M.Evans
+ 0.4  1.0  M.Evans -> J.Winston
+ 0.1  0.1  J.Winston -> D.Jackson
+ 0.1  1.0  D.Jackson -> J.Winston

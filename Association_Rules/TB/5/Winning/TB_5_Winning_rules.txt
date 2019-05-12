@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  V.Jackson -> J.Freeman
+ 0.2  0.3  J.Freeman -> V.Jackson
+ 0.2  0.3  J.Freeman -> M.Williams
+ 0.2  1.0  M.Williams -> J.Freeman
+ 0.2  0.3  J.Freeman -> D.Clark
+ 0.2  1.0  D.Clark -> J.Freeman
+ 0.2  1.0  A.Seferian-Jenkins -> M.Glennon
+ 0.2  1.0  M.Glennon -> A.Seferian-Jenkins

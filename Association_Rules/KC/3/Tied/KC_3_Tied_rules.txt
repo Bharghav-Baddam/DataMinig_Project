@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.1  0.4  P.Mahomes -> T.Kelce
+ 0.1  1.0  T.Kelce -> P.Mahomes
+ 0.1  0.3  M.Cassel -> D.Bowe
+ 0.1  0.8  D.Bowe -> M.Cassel

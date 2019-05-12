@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  A.Cooper -> D.Prescott
+ 0.2  0.5  D.Prescott -> A.Cooper
+ 0.2  0.5  D.Prescott -> J.Witten
+ 0.2  1.0  J.Witten -> D.Prescott
+ 0.2  0.5  J.Kitna -> F.Jones
+ 0.2  1.0  F.Jones -> J.Kitna
+ 0.2  0.5  J.Kitna -> S.Hurd
+ 0.2  1.0  S.Hurd -> J.Kitna

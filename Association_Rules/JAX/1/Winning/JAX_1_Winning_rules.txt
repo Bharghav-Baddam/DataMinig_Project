@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.1  1.0  M.Lee -> B.Bortles
+ 0.1  0.1  B.Bortles -> M.Lee
+ 0.1  0.1  B.Bortles -> A.Hurns
+ 0.1  1.0  A.Hurns -> B.Bortles
