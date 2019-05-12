@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.4  0.4  C.Keenum -> T.Austin
+ 0.4  1.0  T.Austin -> C.Keenum
+ 0.2  0.2  C.Keenum -> middle
+ 0.2  1.0  middle -> C.Keenum
+ 0.6  0.6  C.Keenum -> right
+ 0.6  1.0  right -> C.Keenum

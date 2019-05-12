@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 1.0  1.0  J.Cotchery -> C.Newton
+ 1.0  1.0  C.Newton -> J.Cotchery
+ 1.0  1.0  J.Cotchery -> C.Newton right
+ 1.0  1.0  J.Cotchery C.Newton -> right
+ 1.0  1.0  J.Cotchery right -> C.Newton
+ 1.0  1.0  C.Newton -> J.Cotchery right
+ 1.0  1.0  C.Newton right -> J.Cotchery
+ 1.0  1.0  right -> J.Cotchery C.Newton
+ 1.0  1.0  J.Cotchery -> right
+ 1.0  1.0  right -> J.Cotchery
+ 1.0  1.0  C.Newton -> right
+ 1.0  1.0  right -> C.Newton

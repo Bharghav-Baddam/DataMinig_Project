@@ -1,0 +1,35 @@
+Supp Conf  Rule
+ 0.3  1.0  L.Green -> P.Rivers
+ 0.3  0.3  P.Rivers -> L.Green
+ 0.3  1.0  L.Green -> P.Rivers middle
+ 0.3  1.0  L.Green P.Rivers -> middle
+ 0.3  1.0  L.Green middle -> P.Rivers
+ 0.3  0.3  P.Rivers -> L.Green middle
+ 0.3  0.5  P.Rivers middle -> L.Green
+ 0.3  0.5  middle -> L.Green P.Rivers
+ 0.3  1.0  L.Green -> middle
+ 0.3  0.5  middle -> L.Green
+ 0.3  0.3  P.Rivers -> D.Inman
+ 0.3  1.0  D.Inman -> P.Rivers
+ 0.3  0.3  P.Rivers -> D.Inman right
+ 0.3  1.0  P.Rivers D.Inman -> right
+ 0.3  1.0  P.Rivers right -> D.Inman
+ 0.3  1.0  D.Inman -> P.Rivers right
+ 0.3  1.0  D.Inman right -> P.Rivers
+ 0.3  1.0  right -> P.Rivers D.Inman
+ 0.3  0.3  P.Rivers -> D.Woodhead
+ 0.3  1.0  D.Woodhead -> P.Rivers
+ 0.3  0.3  P.Rivers -> D.Woodhead middle
+ 0.3  1.0  P.Rivers D.Woodhead -> middle
+ 0.3  0.5  P.Rivers middle -> D.Woodhead
+ 0.3  1.0  D.Woodhead -> P.Rivers middle
+ 0.3  1.0  D.Woodhead middle -> P.Rivers
+ 0.3  0.5  middle -> P.Rivers D.Woodhead
+ 0.7  0.7  P.Rivers -> middle
+ 0.7  1.0  middle -> P.Rivers
+ 0.3  0.3  P.Rivers -> right
+ 0.3  1.0  right -> P.Rivers
+ 0.3  1.0  D.Inman -> right
+ 0.3  1.0  right -> D.Inman
+ 0.3  1.0  D.Woodhead -> middle
+ 0.3  0.5  middle -> D.Woodhead

@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 1.0  1.0  V.Ballard -> A.Luck
+ 1.0  1.0  A.Luck -> V.Ballard
+ 1.0  1.0  V.Ballard -> A.Luck left
+ 1.0  1.0  V.Ballard A.Luck -> left
+ 1.0  1.0  V.Ballard left -> A.Luck
+ 1.0  1.0  A.Luck -> V.Ballard left
+ 1.0  1.0  A.Luck left -> V.Ballard
+ 1.0  1.0  left -> V.Ballard A.Luck
+ 1.0  1.0  V.Ballard -> left
+ 1.0  1.0  left -> V.Ballard
+ 1.0  1.0  A.Luck -> left
+ 1.0  1.0  left -> A.Luck

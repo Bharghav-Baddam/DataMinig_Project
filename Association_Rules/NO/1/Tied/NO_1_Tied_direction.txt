@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.4  0.4  D.Brees -> left
+ 0.4  1.0  left -> D.Brees
+ 0.4  0.4  D.Brees -> right
+ 0.4  1.0  right -> D.Brees

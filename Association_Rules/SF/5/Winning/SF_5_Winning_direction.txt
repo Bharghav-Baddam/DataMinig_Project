@@ -1,0 +1,33 @@
+Supp Conf  Rule
+ 0.6  0.6  C.Kaepernick -> R.Moss
+ 0.6  1.0  R.Moss -> C.Kaepernick
+ 0.6  0.6  C.Kaepernick -> R.Moss left
+ 0.6  1.0  C.Kaepernick R.Moss -> left
+ 0.6  0.6  C.Kaepernick left -> R.Moss
+ 0.6  1.0  R.Moss -> C.Kaepernick left
+ 0.6  1.0  R.Moss left -> C.Kaepernick
+ 0.6  0.6  left -> C.Kaepernick R.Moss
+ 0.2  0.2  C.Kaepernick -> V.Davis
+ 0.2  1.0  V.Davis -> C.Kaepernick
+ 0.2  0.2  C.Kaepernick -> V.Davis left
+ 0.2  1.0  C.Kaepernick V.Davis -> left
+ 0.2  0.2  C.Kaepernick left -> V.Davis
+ 0.2  1.0  V.Davis -> C.Kaepernick left
+ 0.2  1.0  V.Davis left -> C.Kaepernick
+ 0.2  0.2  left -> C.Kaepernick V.Davis
+ 0.2  0.2  C.Kaepernick -> M.Crabtree
+ 0.2  1.0  M.Crabtree -> C.Kaepernick
+ 0.2  0.2  C.Kaepernick -> M.Crabtree left
+ 0.2  1.0  C.Kaepernick M.Crabtree -> left
+ 0.2  0.2  C.Kaepernick left -> M.Crabtree
+ 0.2  1.0  M.Crabtree -> C.Kaepernick left
+ 0.2  1.0  M.Crabtree left -> C.Kaepernick
+ 0.2  0.2  left -> C.Kaepernick M.Crabtree
+ 1.0  1.0  C.Kaepernick -> left
+ 1.0  1.0  left -> C.Kaepernick
+ 0.6  1.0  R.Moss -> left
+ 0.6  0.6  left -> R.Moss
+ 0.2  1.0  V.Davis -> left
+ 0.2  0.2  left -> V.Davis
+ 0.2  1.0  M.Crabtree -> left
+ 0.2  0.2  left -> M.Crabtree

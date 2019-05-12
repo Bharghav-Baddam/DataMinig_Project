@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 1.0  1.0  J.McCown -> S.Smith
+ 1.0  1.0  S.Smith -> J.McCown
+ 1.0  1.0  J.McCown -> S.Smith left
+ 1.0  1.0  J.McCown S.Smith -> left
+ 1.0  1.0  J.McCown left -> S.Smith
+ 1.0  1.0  S.Smith -> J.McCown left
+ 1.0  1.0  S.Smith left -> J.McCown
+ 1.0  1.0  left -> J.McCown S.Smith
+ 1.0  1.0  J.McCown -> left
+ 1.0  1.0  left -> J.McCown
+ 1.0  1.0  S.Smith -> left
+ 1.0  1.0  left -> S.Smith

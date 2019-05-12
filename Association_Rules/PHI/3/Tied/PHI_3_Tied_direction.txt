@@ -1,0 +1,27 @@
+Supp Conf  Rule
+ 0.2  1.0  B.Celek -> M.Vick
+ 0.2  0.2  M.Vick -> B.Celek
+ 0.2  1.0  B.Celek -> M.Vick middle
+ 0.2  1.0  B.Celek M.Vick -> middle
+ 0.2  1.0  B.Celek middle -> M.Vick
+ 0.2  0.2  M.Vick -> B.Celek middle
+ 0.2  0.7  M.Vick middle -> B.Celek
+ 0.2  0.7  middle -> B.Celek M.Vick
+ 0.2  1.0  B.Celek -> middle
+ 0.2  0.7  middle -> B.Celek
+ 0.4  0.4  M.Vick -> D.Jackson
+ 0.4  1.0  D.Jackson -> M.Vick
+ 0.2  0.2  M.Vick -> D.Jackson right
+ 0.2  0.7  M.Vick D.Jackson -> right
+ 0.2  0.5  M.Vick right -> D.Jackson
+ 0.2  0.7  D.Jackson -> M.Vick right
+ 0.2  1.0  D.Jackson right -> M.Vick
+ 0.2  0.5  right -> M.Vick D.Jackson
+ 0.2  0.2  M.Vick -> L.McCoy
+ 0.2  1.0  L.McCoy -> M.Vick
+ 0.4  0.4  M.Vick -> middle
+ 0.4  1.0  middle -> M.Vick
+ 0.5  0.5  M.Vick -> right
+ 0.5  1.0  right -> M.Vick
+ 0.2  0.7  D.Jackson -> right
+ 0.2  0.5  right -> D.Jackson

@@ -1,0 +1,23 @@
+Supp Conf  Rule
+ 1.0  1.0  C.Redman -> R.White
+ 1.0  1.0  R.White -> C.Redman
+ 0.5  0.5  C.Redman -> R.White middle
+ 0.5  0.5  C.Redman R.White -> middle
+ 0.5  1.0  C.Redman middle -> R.White
+ 0.5  0.5  R.White -> C.Redman middle
+ 0.5  1.0  R.White middle -> C.Redman
+ 0.5  1.0  middle -> C.Redman R.White
+ 0.5  0.5  C.Redman -> R.White right
+ 0.5  0.5  C.Redman R.White -> right
+ 0.5  1.0  C.Redman right -> R.White
+ 0.5  0.5  R.White -> C.Redman right
+ 0.5  1.0  R.White right -> C.Redman
+ 0.5  1.0  right -> C.Redman R.White
+ 0.5  0.5  C.Redman -> middle
+ 0.5  1.0  middle -> C.Redman
+ 0.5  0.5  C.Redman -> right
+ 0.5  1.0  right -> C.Redman
+ 0.5  0.5  R.White -> middle
+ 0.5  1.0  middle -> R.White
+ 0.5  0.5  R.White -> right
+ 0.5  1.0  right -> R.White

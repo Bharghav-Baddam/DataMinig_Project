@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 1.0  1.0  D.Anderson -> middle
+ 1.0  1.0  middle -> D.Anderson
+ 1.0  1.0  D.Anderson -> middle L.Fitzgerald
+ 1.0  1.0  D.Anderson middle -> L.Fitzgerald
+ 1.0  1.0  D.Anderson L.Fitzgerald -> middle
+ 1.0  1.0  middle -> D.Anderson L.Fitzgerald
+ 1.0  1.0  middle L.Fitzgerald -> D.Anderson
+ 1.0  1.0  L.Fitzgerald -> D.Anderson middle
+ 1.0  1.0  D.Anderson -> L.Fitzgerald
+ 1.0  1.0  L.Fitzgerald -> D.Anderson
+ 1.0  1.0  middle -> L.Fitzgerald
+ 1.0  1.0  L.Fitzgerald -> middle

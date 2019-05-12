@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 1.0  1.0  M.Sanchez -> S.Holmes
+ 1.0  1.0  S.Holmes -> M.Sanchez
+ 1.0  1.0  M.Sanchez -> S.Holmes left
+ 1.0  1.0  M.Sanchez S.Holmes -> left
+ 1.0  1.0  M.Sanchez left -> S.Holmes
+ 1.0  1.0  S.Holmes -> M.Sanchez left
+ 1.0  1.0  S.Holmes left -> M.Sanchez
+ 1.0  1.0  left -> M.Sanchez S.Holmes
+ 1.0  1.0  M.Sanchez -> left
+ 1.0  1.0  left -> M.Sanchez
+ 1.0  1.0  S.Holmes -> left
+ 1.0  1.0  left -> S.Holmes

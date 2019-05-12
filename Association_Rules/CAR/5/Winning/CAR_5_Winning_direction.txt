@@ -1,0 +1,15 @@
+Supp Conf  Rule
+ 0.3  1.0  C.Brown -> C.Newton
+ 0.3  0.3  C.Newton -> C.Brown
+ 0.3  0.3  C.Newton -> T.Ginn
+ 0.3  1.0  T.Ginn -> C.Newton
+ 0.3  0.3  C.Newton -> T.Ginn left
+ 0.3  1.0  C.Newton T.Ginn -> left
+ 0.3  0.4  C.Newton left -> T.Ginn
+ 0.3  1.0  T.Ginn -> C.Newton left
+ 0.3  1.0  T.Ginn left -> C.Newton
+ 0.3  0.4  left -> C.Newton T.Ginn
+ 0.8  0.8  C.Newton -> left
+ 0.8  1.0  left -> C.Newton
+ 0.3  1.0  T.Ginn -> left
+ 0.3  0.4  left -> T.Ginn

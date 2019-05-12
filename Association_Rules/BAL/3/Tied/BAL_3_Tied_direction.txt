@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  0.2  J.Flacco -> middle
+ 0.2  1.0  middle -> J.Flacco
+ 0.3  0.3  J.Flacco -> left
+ 0.3  1.0  left -> J.Flacco
+ 0.5  0.5  J.Flacco -> right
+ 0.5  1.0  right -> J.Flacco

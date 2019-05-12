@@ -1,0 +1,55 @@
+Supp Conf  Rule
+ 0.2  1.0  K.Moore -> J.Delhomme
+ 0.2  0.2  J.Delhomme -> K.Moore
+ 0.2  1.0  K.Moore -> J.Delhomme middle
+ 0.2  1.0  K.Moore J.Delhomme -> middle
+ 0.2  1.0  K.Moore middle -> J.Delhomme
+ 0.2  0.2  J.Delhomme -> K.Moore middle
+ 0.2  0.5  J.Delhomme middle -> K.Moore
+ 0.2  0.5  middle -> K.Moore J.Delhomme
+ 0.2  1.0  K.Moore -> middle
+ 0.2  0.5  middle -> K.Moore
+ 0.4  1.0  D.Jarrett -> J.Delhomme
+ 0.4  0.4  J.Delhomme -> D.Jarrett
+ 0.2  0.5  D.Jarrett -> J.Delhomme left
+ 0.2  0.5  D.Jarrett J.Delhomme -> left
+ 0.2  1.0  D.Jarrett left -> J.Delhomme
+ 0.2  0.2  J.Delhomme -> D.Jarrett left
+ 0.2  1.0  J.Delhomme left -> D.Jarrett
+ 0.2  1.0  left -> D.Jarrett J.Delhomme
+ 0.2  0.5  D.Jarrett -> J.Delhomme right
+ 0.2  0.5  D.Jarrett J.Delhomme -> right
+ 0.2  1.0  D.Jarrett right -> J.Delhomme
+ 0.2  0.2  J.Delhomme -> D.Jarrett right
+ 0.2  0.5  J.Delhomme right -> D.Jarrett
+ 0.2  0.5  right -> D.Jarrett J.Delhomme
+ 0.2  0.5  D.Jarrett -> left
+ 0.2  1.0  left -> D.Jarrett
+ 0.2  0.5  D.Jarrett -> right
+ 0.2  0.5  right -> D.Jarrett
+ 0.2  1.0  G.Barnidge -> J.Delhomme
+ 0.2  0.2  J.Delhomme -> G.Barnidge
+ 0.2  1.0  G.Barnidge -> J.Delhomme right
+ 0.2  1.0  G.Barnidge J.Delhomme -> right
+ 0.2  1.0  G.Barnidge right -> J.Delhomme
+ 0.2  0.2  J.Delhomme -> G.Barnidge right
+ 0.2  0.5  J.Delhomme right -> G.Barnidge
+ 0.2  0.5  right -> G.Barnidge J.Delhomme
+ 0.2  1.0  G.Barnidge -> right
+ 0.2  0.5  right -> G.Barnidge
+ 0.2  0.2  J.Delhomme -> D.Williams
+ 0.2  1.0  D.Williams -> J.Delhomme
+ 0.2  0.2  J.Delhomme -> D.Williams middle
+ 0.2  1.0  J.Delhomme D.Williams -> middle
+ 0.2  0.5  J.Delhomme middle -> D.Williams
+ 0.2  1.0  D.Williams -> J.Delhomme middle
+ 0.2  1.0  D.Williams middle -> J.Delhomme
+ 0.2  0.5  middle -> J.Delhomme D.Williams
+ 0.4  0.4  J.Delhomme -> middle
+ 0.4  1.0  middle -> J.Delhomme
+ 0.2  0.2  J.Delhomme -> left
+ 0.2  1.0  left -> J.Delhomme
+ 0.4  0.4  J.Delhomme -> right
+ 0.4  1.0  right -> J.Delhomme
+ 0.2  1.0  D.Williams -> middle
+ 0.2  0.5  middle -> D.Williams

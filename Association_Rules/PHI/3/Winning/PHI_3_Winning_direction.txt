@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  0.2  D.McNabb -> D.Jackson
+ 0.2  1.0  D.Jackson -> D.McNabb
+ 0.2  0.2  D.McNabb -> middle
+ 0.2  1.0  middle -> D.McNabb
+ 0.4  0.4  D.McNabb -> left
+ 0.4  1.0  left -> D.McNabb
+ 0.4  0.4  D.McNabb -> right
+ 0.4  1.0  right -> D.McNabb

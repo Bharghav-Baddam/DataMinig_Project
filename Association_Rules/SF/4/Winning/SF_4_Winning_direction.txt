@@ -1,0 +1,25 @@
+Supp Conf  Rule
+ 0.4  0.4  S.Hill -> V.Davis
+ 0.4  1.0  V.Davis -> S.Hill
+ 0.2  0.2  S.Hill -> V.Davis middle
+ 0.2  0.5  S.Hill V.Davis -> middle
+ 0.2  0.8  S.Hill middle -> V.Davis
+ 0.2  0.5  V.Davis -> S.Hill middle
+ 0.2  1.0  V.Davis middle -> S.Hill
+ 0.2  0.8  middle -> S.Hill V.Davis
+ 0.2  0.2  S.Hill -> V.Davis right
+ 0.2  0.5  S.Hill V.Davis -> right
+ 0.2  0.4  S.Hill right -> V.Davis
+ 0.2  0.5  V.Davis -> S.Hill right
+ 0.2  1.0  V.Davis right -> S.Hill
+ 0.2  0.4  right -> S.Hill V.Davis
+ 0.3  0.3  S.Hill -> middle
+ 0.3  1.0  middle -> S.Hill
+ 0.2  0.2  S.Hill -> left
+ 0.2  1.0  left -> S.Hill
+ 0.5  0.5  S.Hill -> right
+ 0.5  1.0  right -> S.Hill
+ 0.2  0.5  V.Davis -> middle
+ 0.2  0.8  middle -> V.Davis
+ 0.2  0.5  V.Davis -> right
+ 0.2  0.4  right -> V.Davis

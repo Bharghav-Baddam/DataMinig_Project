@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.4  1.0  S.Moss -> D.McNabb
+ 0.4  0.4  D.McNabb -> S.Moss
+ 0.2  1.0  J.Galloway -> D.McNabb
+ 0.2  0.2  D.McNabb -> J.Galloway
+ 0.2  0.2  D.McNabb -> middle
+ 0.2  1.0  middle -> D.McNabb
+ 0.2  0.2  D.McNabb -> left
+ 0.2  1.0  left -> D.McNabb
+ 0.3  0.3  D.McNabb -> right
+ 0.3  1.0  right -> D.McNabb

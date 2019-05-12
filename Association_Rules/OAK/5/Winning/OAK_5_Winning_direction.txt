@@ -1,0 +1,31 @@
+Supp Conf  Rule
+ 0.2  1.0  S.Roberts -> D.Carr
+ 0.2  0.2  D.Carr -> S.Roberts
+ 0.2  1.0  S.Roberts -> D.Carr middle
+ 0.2  1.0  S.Roberts D.Carr -> middle
+ 0.2  1.0  S.Roberts middle -> D.Carr
+ 0.2  0.2  D.Carr -> S.Roberts middle
+ 0.2  0.7  D.Carr middle -> S.Roberts
+ 0.2  0.7  middle -> S.Roberts D.Carr
+ 0.2  1.0  S.Roberts -> middle
+ 0.2  0.7  middle -> S.Roberts
+ 0.3  0.3  D.Carr -> J.Cook
+ 0.3  1.0  J.Cook -> D.Carr
+ 0.2  0.2  D.Carr -> A.Cooper
+ 0.2  1.0  A.Cooper -> D.Carr
+ 0.2  0.2  D.Carr -> A.Cooper left
+ 0.2  1.0  D.Carr A.Cooper -> left
+ 0.2  0.5  D.Carr left -> A.Cooper
+ 0.2  1.0  A.Cooper -> D.Carr left
+ 0.2  1.0  A.Cooper left -> D.Carr
+ 0.2  0.5  left -> D.Carr A.Cooper
+ 0.2  0.2  D.Carr -> M.Lynch
+ 0.2  1.0  M.Lynch -> D.Carr
+ 0.3  0.3  D.Carr -> middle
+ 0.3  1.0  middle -> D.Carr
+ 0.4  0.4  D.Carr -> left
+ 0.4  1.0  left -> D.Carr
+ 0.2  0.2  D.Carr -> right
+ 0.2  1.0  right -> D.Carr
+ 0.2  1.0  A.Cooper -> left
+ 0.2  0.5  left -> A.Cooper

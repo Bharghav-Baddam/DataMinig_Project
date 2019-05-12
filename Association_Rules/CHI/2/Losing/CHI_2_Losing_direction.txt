@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.3  0.3  J.Cutler -> middle
+ 0.3  1.0  middle -> J.Cutler
+ 0.3  0.3  J.Cutler -> left
+ 0.3  1.0  left -> J.Cutler
+ 0.4  0.4  J.Cutler -> right
+ 0.4  1.0  right -> J.Cutler

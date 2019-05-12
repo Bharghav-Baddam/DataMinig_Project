@@ -1,0 +1,35 @@
+Supp Conf  Rule
+ 0.3  1.0  G.Allison -> A.Rodgers
+ 0.3  0.3  A.Rodgers -> G.Allison
+ 0.3  1.0  G.Allison -> A.Rodgers left
+ 0.3  1.0  G.Allison A.Rodgers -> left
+ 0.3  1.0  G.Allison left -> A.Rodgers
+ 0.3  0.3  A.Rodgers -> G.Allison left
+ 0.3  0.5  A.Rodgers left -> G.Allison
+ 0.3  0.5  left -> G.Allison A.Rodgers
+ 0.3  1.0  G.Allison -> left
+ 0.3  0.5  left -> G.Allison
+ 0.3  0.3  A.Rodgers -> T.Montgomery
+ 0.3  1.0  T.Montgomery -> A.Rodgers
+ 0.3  0.3  A.Rodgers -> T.Montgomery right
+ 0.3  1.0  A.Rodgers T.Montgomery -> right
+ 0.3  1.0  A.Rodgers right -> T.Montgomery
+ 0.3  1.0  T.Montgomery -> A.Rodgers right
+ 0.3  1.0  T.Montgomery right -> A.Rodgers
+ 0.3  1.0  right -> A.Rodgers T.Montgomery
+ 0.3  0.3  A.Rodgers -> J.Nelson
+ 0.3  1.0  J.Nelson -> A.Rodgers
+ 0.3  0.3  A.Rodgers -> J.Nelson left
+ 0.3  1.0  A.Rodgers J.Nelson -> left
+ 0.3  0.5  A.Rodgers left -> J.Nelson
+ 0.3  1.0  J.Nelson -> A.Rodgers left
+ 0.3  1.0  J.Nelson left -> A.Rodgers
+ 0.3  0.5  left -> A.Rodgers J.Nelson
+ 0.7  0.7  A.Rodgers -> left
+ 0.7  1.0  left -> A.Rodgers
+ 0.3  0.3  A.Rodgers -> right
+ 0.3  1.0  right -> A.Rodgers
+ 0.3  1.0  T.Montgomery -> right
+ 0.3  1.0  right -> T.Montgomery
+ 0.3  1.0  J.Nelson -> left
+ 0.3  0.5  left -> J.Nelson

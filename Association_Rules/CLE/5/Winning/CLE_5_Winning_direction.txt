@@ -1,0 +1,35 @@
+Supp Conf  Rule
+ 0.3  1.0  C.Hyde -> B.Mayfield
+ 0.3  0.3  B.Mayfield -> C.Hyde
+ 0.3  1.0  C.Hyde -> B.Mayfield left
+ 0.3  1.0  C.Hyde B.Mayfield -> left
+ 0.3  1.0  C.Hyde left -> B.Mayfield
+ 0.3  0.3  B.Mayfield -> C.Hyde left
+ 0.3  0.5  B.Mayfield left -> C.Hyde
+ 0.3  0.5  left -> C.Hyde B.Mayfield
+ 0.3  1.0  C.Hyde -> left
+ 0.3  0.5  left -> C.Hyde
+ 0.3  0.3  B.Mayfield -> D.Njoku
+ 0.3  1.0  D.Njoku -> B.Mayfield
+ 0.3  0.3  B.Mayfield -> D.Njoku left
+ 0.3  1.0  B.Mayfield D.Njoku -> left
+ 0.3  0.5  B.Mayfield left -> D.Njoku
+ 0.3  1.0  D.Njoku -> B.Mayfield left
+ 0.3  1.0  D.Njoku left -> B.Mayfield
+ 0.3  0.5  left -> B.Mayfield D.Njoku
+ 0.3  0.3  B.Mayfield -> D.Johnson
+ 0.3  1.0  D.Johnson -> B.Mayfield
+ 0.3  0.3  B.Mayfield -> D.Johnson right
+ 0.3  1.0  B.Mayfield D.Johnson -> right
+ 0.3  1.0  B.Mayfield right -> D.Johnson
+ 0.3  1.0  D.Johnson -> B.Mayfield right
+ 0.3  1.0  D.Johnson right -> B.Mayfield
+ 0.3  1.0  right -> B.Mayfield D.Johnson
+ 0.7  0.7  B.Mayfield -> left
+ 0.7  1.0  left -> B.Mayfield
+ 0.3  0.3  B.Mayfield -> right
+ 0.3  1.0  right -> B.Mayfield
+ 0.3  1.0  D.Njoku -> left
+ 0.3  0.5  left -> D.Njoku
+ 0.3  1.0  D.Johnson -> right
+ 0.3  1.0  right -> D.Johnson

@@ -1,0 +1,45 @@
+Supp Conf  Rule
+ 0.2  1.0  D.Murray -> T.Romo
+ 0.2  0.2  T.Romo -> D.Murray
+ 0.2  1.0  D.Murray -> T.Romo right
+ 0.2  1.0  D.Murray T.Romo -> right
+ 0.2  1.0  D.Murray right -> T.Romo
+ 0.2  0.2  T.Romo -> D.Murray right
+ 0.2  0.3  T.Romo right -> D.Murray
+ 0.2  0.3  right -> D.Murray T.Romo
+ 0.2  1.0  D.Murray -> right
+ 0.2  0.3  right -> D.Murray
+ 0.2  1.0  D.Bryant -> T.Romo
+ 0.2  0.2  T.Romo -> D.Bryant
+ 0.2  1.0  D.Bryant -> T.Romo right
+ 0.2  1.0  D.Bryant T.Romo -> right
+ 0.2  1.0  D.Bryant right -> T.Romo
+ 0.2  0.2  T.Romo -> D.Bryant right
+ 0.2  0.3  T.Romo right -> D.Bryant
+ 0.2  0.3  right -> D.Bryant T.Romo
+ 0.2  1.0  D.Bryant -> right
+ 0.2  0.3  right -> D.Bryant
+ 0.2  1.0  J.Witten -> T.Romo
+ 0.2  0.2  T.Romo -> J.Witten
+ 0.2  1.0  J.Witten -> T.Romo left
+ 0.2  1.0  J.Witten T.Romo -> left
+ 0.2  1.0  J.Witten left -> T.Romo
+ 0.2  0.2  T.Romo -> J.Witten left
+ 0.2  1.0  T.Romo left -> J.Witten
+ 0.2  1.0  left -> J.Witten T.Romo
+ 0.2  1.0  J.Witten -> left
+ 0.2  1.0  left -> J.Witten
+ 0.2  0.2  T.Romo -> M.Austin
+ 0.2  1.0  M.Austin -> T.Romo
+ 0.2  0.2  T.Romo -> M.Austin right
+ 0.2  1.0  T.Romo M.Austin -> right
+ 0.2  0.3  T.Romo right -> M.Austin
+ 0.2  1.0  M.Austin -> T.Romo right
+ 0.2  1.0  M.Austin right -> T.Romo
+ 0.2  0.3  right -> T.Romo M.Austin
+ 0.2  0.2  T.Romo -> left
+ 0.2  1.0  left -> T.Romo
+ 0.8  0.8  T.Romo -> right
+ 0.8  1.0  right -> T.Romo
+ 0.2  1.0  M.Austin -> right
+ 0.2  0.3  right -> M.Austin

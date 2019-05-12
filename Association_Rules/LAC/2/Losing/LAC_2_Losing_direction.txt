@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  K.Allen -> P.Rivers
+ 0.2  0.2  P.Rivers -> K.Allen
+ 0.3  0.3  P.Rivers -> middle
+ 0.3  1.0  middle -> P.Rivers
+ 0.4  0.4  P.Rivers -> left
+ 0.4  1.0  left -> P.Rivers
+ 0.3  0.3  P.Rivers -> right
+ 0.3  1.0  right -> P.Rivers

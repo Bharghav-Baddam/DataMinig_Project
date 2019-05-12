@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  1.0  J.Maclin -> K.Kolb
+ 0.2  0.2  K.Kolb -> J.Maclin
+ 0.4  0.4  K.Kolb -> left
+ 0.4  1.0  left -> K.Kolb
+ 0.4  0.4  K.Kolb -> right
+ 0.4  1.0  right -> K.Kolb

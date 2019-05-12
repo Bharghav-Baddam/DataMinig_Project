@@ -1,0 +1,25 @@
+Supp Conf  Rule
+ 0.5  1.0  M.Sellers -> J.Campbell
+ 0.5  0.5  J.Campbell -> M.Sellers
+ 0.5  1.0  M.Sellers -> J.Campbell right
+ 0.5  1.0  M.Sellers J.Campbell -> right
+ 0.5  1.0  M.Sellers right -> J.Campbell
+ 0.5  0.5  J.Campbell -> M.Sellers right
+ 0.5  1.0  J.Campbell right -> M.Sellers
+ 0.5  1.0  right -> M.Sellers J.Campbell
+ 0.5  1.0  M.Sellers -> right
+ 0.5  1.0  right -> M.Sellers
+ 0.5  1.0  S.Moss -> J.Campbell
+ 0.5  0.5  J.Campbell -> S.Moss
+ 0.5  1.0  S.Moss -> J.Campbell left
+ 0.5  1.0  S.Moss J.Campbell -> left
+ 0.5  1.0  S.Moss left -> J.Campbell
+ 0.5  0.5  J.Campbell -> S.Moss left
+ 0.5  1.0  J.Campbell left -> S.Moss
+ 0.5  1.0  left -> S.Moss J.Campbell
+ 0.5  1.0  S.Moss -> left
+ 0.5  1.0  left -> S.Moss
+ 0.5  0.5  J.Campbell -> left
+ 0.5  1.0  left -> J.Campbell
+ 0.5  0.5  J.Campbell -> right
+ 0.5  1.0  right -> J.Campbell

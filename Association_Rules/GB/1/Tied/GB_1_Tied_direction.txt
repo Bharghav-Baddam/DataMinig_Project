@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  0.2  A.Rodgers -> middle
+ 0.2  1.0  middle -> A.Rodgers
+ 0.4  0.4  A.Rodgers -> left
+ 0.4  1.0  left -> A.Rodgers
+ 0.4  0.4  A.Rodgers -> right
+ 0.4  1.0  right -> A.Rodgers

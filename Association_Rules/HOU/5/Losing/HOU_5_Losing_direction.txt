@@ -1,0 +1,17 @@
+Supp Conf  Rule
+ 0.3  1.0  D.Hopkins -> M.Schaub
+ 0.3  0.3  M.Schaub -> D.Hopkins
+ 0.3  1.0  A.Johnson -> M.Schaub
+ 0.3  0.3  M.Schaub -> A.Johnson
+ 0.2  0.8  A.Johnson -> M.Schaub left
+ 0.2  0.8  A.Johnson M.Schaub -> left
+ 0.2  1.0  A.Johnson left -> M.Schaub
+ 0.2  0.2  M.Schaub -> A.Johnson left
+ 0.2  0.4  M.Schaub left -> A.Johnson
+ 0.2  0.4  left -> A.Johnson M.Schaub
+ 0.2  0.8  A.Johnson -> left
+ 0.2  0.4  left -> A.Johnson
+ 0.5  0.5  M.Schaub -> left
+ 0.5  1.0  left -> M.Schaub
+ 0.4  0.4  M.Schaub -> right
+ 0.4  1.0  right -> M.Schaub

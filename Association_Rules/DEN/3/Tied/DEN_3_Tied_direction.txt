@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.2  1.0  D.Graham -> K.Orton
+ 0.2  0.2  K.Orton -> D.Graham
+ 0.3  1.0  E.Royal -> K.Orton
+ 0.3  0.3  K.Orton -> E.Royal
+ 0.2  0.2  K.Orton -> middle
+ 0.2  1.0  middle -> K.Orton
+ 0.4  0.4  K.Orton -> left
+ 0.4  1.0  left -> K.Orton
+ 0.3  0.3  K.Orton -> right
+ 0.3  1.0  right -> K.Orton

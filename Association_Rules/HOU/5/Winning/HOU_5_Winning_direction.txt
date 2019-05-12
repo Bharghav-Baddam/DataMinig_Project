@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 0.2  1.0  G.Graham -> M.Schaub
+ 0.2  0.2  M.Schaub -> G.Graham
+ 0.3  1.0  J.Casey -> M.Schaub
+ 0.3  0.3  M.Schaub -> J.Casey
+ 0.3  1.0  A.Johnson -> M.Schaub
+ 0.3  0.3  M.Schaub -> A.Johnson
+ 0.3  0.3  M.Schaub -> middle
+ 0.3  1.0  middle -> M.Schaub
+ 0.3  0.3  M.Schaub -> left
+ 0.3  1.0  left -> M.Schaub
+ 0.3  0.3  M.Schaub -> right
+ 0.3  1.0  right -> M.Schaub

@@ -1,0 +1,19 @@
+Supp Conf  Rule
+ 0.2  1.0  D.Walker -> S.Hill
+ 0.2  0.2  S.Hill -> D.Walker
+ 0.2  0.2  S.Hill -> V.Davis
+ 0.2  1.0  V.Davis -> S.Hill
+ 0.4  0.4  S.Hill -> J.Morgan
+ 0.4  1.0  J.Morgan -> S.Hill
+ 0.2  0.2  S.Hill -> J.Morgan left
+ 0.2  0.7  S.Hill J.Morgan -> left
+ 0.2  0.5  S.Hill left -> J.Morgan
+ 0.2  0.7  J.Morgan -> S.Hill left
+ 0.2  1.0  J.Morgan left -> S.Hill
+ 0.2  0.5  left -> S.Hill J.Morgan
+ 0.5  0.5  S.Hill -> left
+ 0.5  1.0  left -> S.Hill
+ 0.5  0.5  S.Hill -> right
+ 0.5  1.0  right -> S.Hill
+ 0.2  0.7  J.Morgan -> left
+ 0.2  0.5  left -> J.Morgan

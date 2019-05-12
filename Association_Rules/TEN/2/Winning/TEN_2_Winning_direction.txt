@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  0.2  K.Collins -> N.Washington
+ 0.2  1.0  N.Washington -> K.Collins
+ 0.3  0.3  K.Collins -> left
+ 0.3  1.0  left -> K.Collins
+ 0.5  0.5  K.Collins -> right
+ 0.5  1.0  right -> K.Collins

@@ -1,0 +1,15 @@
+Supp Conf  Rule
+ 0.4  1.0  R.Wayne -> P.Manning
+ 0.4  0.4  P.Manning -> R.Wayne
+ 0.3  0.8  R.Wayne -> P.Manning left
+ 0.3  0.8  R.Wayne P.Manning -> left
+ 0.3  1.0  R.Wayne left -> P.Manning
+ 0.3  0.3  P.Manning -> R.Wayne left
+ 0.3  0.6  P.Manning left -> R.Wayne
+ 0.3  0.6  left -> R.Wayne P.Manning
+ 0.3  0.8  R.Wayne -> left
+ 0.3  0.6  left -> R.Wayne
+ 0.5  0.5  P.Manning -> left
+ 0.5  1.0  left -> P.Manning
+ 0.4  0.4  P.Manning -> right
+ 0.4  1.0  right -> P.Manning

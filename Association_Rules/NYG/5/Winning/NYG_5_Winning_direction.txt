@@ -1,0 +1,27 @@
+Supp Conf  Rule
+ 0.3  1.0  S.Shepard -> E.Manning
+ 0.3  0.3  E.Manning -> S.Shepard
+ 0.3  1.0  S.Shepard -> E.Manning middle
+ 0.3  1.0  S.Shepard E.Manning -> middle
+ 0.3  1.0  S.Shepard middle -> E.Manning
+ 0.3  0.3  E.Manning -> S.Shepard middle
+ 0.3  0.6  E.Manning middle -> S.Shepard
+ 0.3  0.6  middle -> S.Shepard E.Manning
+ 0.3  1.0  S.Shepard -> middle
+ 0.3  0.6  middle -> S.Shepard
+ 0.3  1.0  O.Beckham Jr. -> E.Manning
+ 0.3  0.3  E.Manning -> O.Beckham Jr.
+ 0.2  1.0  R.Randle -> E.Manning
+ 0.2  0.2  E.Manning -> R.Randle
+ 0.2  1.0  R.Randle -> E.Manning left
+ 0.2  1.0  R.Randle E.Manning -> left
+ 0.2  1.0  R.Randle left -> E.Manning
+ 0.2  0.2  E.Manning -> R.Randle left
+ 0.2  0.7  E.Manning left -> R.Randle
+ 0.2  0.7  left -> R.Randle E.Manning
+ 0.2  1.0  R.Randle -> left
+ 0.2  0.7  left -> R.Randle
+ 0.6  0.6  E.Manning -> middle
+ 0.6  1.0  middle -> E.Manning
+ 0.3  0.3  E.Manning -> left
+ 0.3  1.0  left -> E.Manning

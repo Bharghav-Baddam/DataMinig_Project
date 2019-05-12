@@ -1,0 +1,37 @@
+Supp Conf  Rule
+ 0.2  1.0  Z.Ertz -> S.Bradford
+ 0.2  0.2  S.Bradford -> Z.Ertz
+ 0.2  1.0  Z.Ertz -> S.Bradford left
+ 0.2  1.0  Z.Ertz S.Bradford -> left
+ 0.2  1.0  Z.Ertz left -> S.Bradford
+ 0.2  0.2  S.Bradford -> Z.Ertz left
+ 0.2  1.0  S.Bradford left -> Z.Ertz
+ 0.2  1.0  left -> Z.Ertz S.Bradford
+ 0.2  1.0  Z.Ertz -> left
+ 0.2  1.0  left -> Z.Ertz
+ 0.2  1.0  D.Murray -> S.Bradford
+ 0.2  0.2  S.Bradford -> D.Murray
+ 0.2  1.0  D.Murray -> S.Bradford middle
+ 0.2  1.0  D.Murray S.Bradford -> middle
+ 0.2  1.0  D.Murray middle -> S.Bradford
+ 0.2  0.2  S.Bradford -> D.Murray middle
+ 0.2  1.0  S.Bradford middle -> D.Murray
+ 0.2  1.0  middle -> D.Murray S.Bradford
+ 0.2  1.0  D.Murray -> middle
+ 0.2  1.0  middle -> D.Murray
+ 0.5  1.0  J.Matthews -> S.Bradford
+ 0.5  0.5  S.Bradford -> J.Matthews
+ 0.5  1.0  J.Matthews -> S.Bradford right
+ 0.5  1.0  J.Matthews S.Bradford -> right
+ 0.5  1.0  J.Matthews right -> S.Bradford
+ 0.5  0.5  S.Bradford -> J.Matthews right
+ 0.5  1.0  S.Bradford right -> J.Matthews
+ 0.5  1.0  right -> J.Matthews S.Bradford
+ 0.5  1.0  J.Matthews -> right
+ 0.5  1.0  right -> J.Matthews
+ 0.2  0.2  S.Bradford -> middle
+ 0.2  1.0  middle -> S.Bradford
+ 0.2  0.2  S.Bradford -> left
+ 0.2  1.0  left -> S.Bradford
+ 0.5  0.5  S.Bradford -> right
+ 0.5  1.0  right -> S.Bradford

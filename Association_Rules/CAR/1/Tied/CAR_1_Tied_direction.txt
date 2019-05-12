@@ -1,0 +1,15 @@
+Supp Conf  Rule
+ 0.4  0.4  J.Delhomme -> S.Smith
+ 0.4  1.0  S.Smith -> J.Delhomme
+ 0.3  0.3  J.Delhomme -> S.Smith right
+ 0.3  0.7  J.Delhomme S.Smith -> right
+ 0.3  0.6  J.Delhomme right -> S.Smith
+ 0.3  0.7  S.Smith -> J.Delhomme right
+ 0.3  1.0  S.Smith right -> J.Delhomme
+ 0.3  0.6  right -> J.Delhomme S.Smith
+ 0.3  0.3  J.Delhomme -> left
+ 0.3  1.0  left -> J.Delhomme
+ 0.5  0.5  J.Delhomme -> right
+ 0.5  1.0  right -> J.Delhomme
+ 0.3  0.7  S.Smith -> right
+ 0.3  0.6  right -> S.Smith

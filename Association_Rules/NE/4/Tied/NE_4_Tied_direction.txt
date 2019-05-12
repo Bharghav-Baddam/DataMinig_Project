@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  R.Gronkowski -> T.Brady
+ 0.2  0.2  T.Brady -> R.Gronkowski
+ 0.3  0.3  T.Brady -> middle
+ 0.3  1.0  middle -> T.Brady
+ 0.4  0.4  T.Brady -> left
+ 0.4  1.0  left -> T.Brady
+ 0.3  0.3  T.Brady -> right
+ 0.3  1.0  right -> T.Brady

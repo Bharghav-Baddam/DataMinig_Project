@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  D.Schouman -> T.Edwards
+ 0.2  0.2  T.Edwards -> D.Schouman
+ 0.3  0.3  T.Edwards -> middle
+ 0.3  1.0  middle -> T.Edwards
+ 0.3  0.3  T.Edwards -> left
+ 0.3  1.0  left -> T.Edwards
+ 0.4  0.4  T.Edwards -> right
+ 0.4  1.0  right -> T.Edwards

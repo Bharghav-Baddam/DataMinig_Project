@@ -1,0 +1,15 @@
+Supp Conf  Rule
+ 0.2  1.0  T.Lockett -> R.Wilson
+ 0.2  0.2  R.Wilson -> T.Lockett
+ 0.2  1.0  T.Lockett -> R.Wilson right
+ 0.2  1.0  T.Lockett R.Wilson -> right
+ 0.2  1.0  T.Lockett right -> R.Wilson
+ 0.2  0.2  R.Wilson -> T.Lockett right
+ 0.2  0.3  R.Wilson right -> T.Lockett
+ 0.2  0.3  right -> T.Lockett R.Wilson
+ 0.2  1.0  T.Lockett -> right
+ 0.2  0.3  right -> T.Lockett
+ 0.2  0.2  R.Wilson -> J.Graham
+ 0.2  1.0  J.Graham -> R.Wilson
+ 0.7  0.7  R.Wilson -> right
+ 0.7  1.0  right -> R.Wilson

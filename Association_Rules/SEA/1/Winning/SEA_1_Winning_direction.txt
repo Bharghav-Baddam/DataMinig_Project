@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.3  0.3  M.Hasselbeck -> left
+ 0.3  1.0  left -> M.Hasselbeck
+ 0.5  0.5  M.Hasselbeck -> right
+ 0.5  1.0  right -> M.Hasselbeck

@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.3  0.3  M.Cassel -> D.Bowe
+ 0.3  1.0  D.Bowe -> M.Cassel
+ 0.3  0.3  M.Cassel -> left
+ 0.3  1.0  left -> M.Cassel
+ 0.5  0.5  M.Cassel -> right
+ 0.5  1.0  right -> M.Cassel

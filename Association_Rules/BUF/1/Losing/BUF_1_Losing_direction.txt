@@ -1,0 +1,57 @@
+Supp Conf  Rule
+ 0.2  1.0  F.Jackson -> T.Edwards
+ 0.2  0.2  T.Edwards -> F.Jackson
+ 0.2  1.0  F.Jackson -> T.Edwards middle
+ 0.2  1.0  F.Jackson T.Edwards -> middle
+ 0.2  1.0  F.Jackson middle -> T.Edwards
+ 0.2  0.2  T.Edwards -> F.Jackson middle
+ 0.2  1.0  T.Edwards middle -> F.Jackson
+ 0.2  1.0  middle -> F.Jackson T.Edwards
+ 0.2  1.0  F.Jackson -> middle
+ 0.2  1.0  middle -> F.Jackson
+ 0.2  1.0  T.Owens -> T.Edwards
+ 0.2  0.2  T.Edwards -> T.Owens
+ 0.2  1.0  T.Owens -> T.Edwards right
+ 0.2  1.0  T.Owens T.Edwards -> right
+ 0.2  1.0  T.Owens right -> T.Edwards
+ 0.2  0.2  T.Edwards -> T.Owens right
+ 0.2  0.3  T.Edwards right -> T.Owens
+ 0.2  0.3  right -> T.Owens T.Edwards
+ 0.2  1.0  T.Owens -> right
+ 0.2  0.3  right -> T.Owens
+ 0.2  1.0  J.Reed -> T.Edwards
+ 0.2  0.2  T.Edwards -> J.Reed
+ 0.2  1.0  J.Reed -> T.Edwards left
+ 0.2  1.0  J.Reed T.Edwards -> left
+ 0.2  1.0  J.Reed left -> T.Edwards
+ 0.2  0.2  T.Edwards -> J.Reed left
+ 0.2  1.0  T.Edwards left -> J.Reed
+ 0.2  1.0  left -> J.Reed T.Edwards
+ 0.2  1.0  J.Reed -> left
+ 0.2  1.0  left -> J.Reed
+ 0.2  1.0  S.Nelson -> T.Edwards
+ 0.2  0.2  T.Edwards -> S.Nelson
+ 0.2  1.0  S.Nelson -> T.Edwards right
+ 0.2  1.0  S.Nelson T.Edwards -> right
+ 0.2  1.0  S.Nelson right -> T.Edwards
+ 0.2  0.2  T.Edwards -> S.Nelson right
+ 0.2  0.3  T.Edwards right -> S.Nelson
+ 0.2  0.3  right -> S.Nelson T.Edwards
+ 0.2  1.0  S.Nelson -> right
+ 0.2  0.3  right -> S.Nelson
+ 0.2  0.2  T.Edwards -> L.Evans
+ 0.2  1.0  L.Evans -> T.Edwards
+ 0.2  0.2  T.Edwards -> L.Evans right
+ 0.2  1.0  T.Edwards L.Evans -> right
+ 0.2  0.3  T.Edwards right -> L.Evans
+ 0.2  1.0  L.Evans -> T.Edwards right
+ 0.2  1.0  L.Evans right -> T.Edwards
+ 0.2  0.3  right -> T.Edwards L.Evans
+ 0.2  0.2  T.Edwards -> middle
+ 0.2  1.0  middle -> T.Edwards
+ 0.2  0.2  T.Edwards -> left
+ 0.2  1.0  left -> T.Edwards
+ 0.6  0.6  T.Edwards -> right
+ 0.6  1.0  right -> T.Edwards
+ 0.2  1.0  L.Evans -> right
+ 0.2  0.3  right -> L.Evans

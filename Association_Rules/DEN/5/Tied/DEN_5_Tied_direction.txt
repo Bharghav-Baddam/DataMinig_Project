@@ -1,0 +1,23 @@
+Supp Conf  Rule
+ 0.5  1.0  E.Royal -> K.Orton
+ 0.5  0.5  K.Orton -> E.Royal
+ 0.5  1.0  E.Royal -> K.Orton right
+ 0.5  1.0  E.Royal K.Orton -> right
+ 0.5  1.0  E.Royal right -> K.Orton
+ 0.5  0.5  K.Orton -> E.Royal right
+ 0.5  0.6  K.Orton right -> E.Royal
+ 0.5  0.6  right -> E.Royal K.Orton
+ 0.5  1.0  E.Royal -> right
+ 0.5  0.6  right -> E.Royal
+ 0.3  1.0  B.Marshall -> K.Orton
+ 0.3  0.3  K.Orton -> B.Marshall
+ 0.3  1.0  B.Marshall -> K.Orton right
+ 0.3  1.0  B.Marshall K.Orton -> right
+ 0.3  1.0  B.Marshall right -> K.Orton
+ 0.3  0.3  K.Orton -> B.Marshall right
+ 0.3  0.4  K.Orton right -> B.Marshall
+ 0.3  0.4  right -> B.Marshall K.Orton
+ 0.3  1.0  B.Marshall -> right
+ 0.3  0.4  right -> B.Marshall
+ 0.8  0.8  K.Orton -> right
+ 0.8  1.0  right -> K.Orton

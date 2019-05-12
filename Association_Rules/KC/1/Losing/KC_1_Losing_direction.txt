@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.3  1.0  M.Bradley -> B.Croyle
+ 0.3  0.3  B.Croyle -> M.Bradley
+ 0.3  0.3  B.Croyle -> J.Charles
+ 0.3  1.0  J.Charles -> B.Croyle
+ 0.7  0.7  B.Croyle -> left
+ 0.7  1.0  left -> B.Croyle

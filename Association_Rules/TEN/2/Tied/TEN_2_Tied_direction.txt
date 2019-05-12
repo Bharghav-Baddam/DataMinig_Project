@@ -1,0 +1,17 @@
+Supp Conf  Rule
+ 0.3  1.0  J.Gage -> K.Collins
+ 0.3  0.3  K.Collins -> J.Gage
+ 0.3  0.9  J.Gage -> K.Collins right
+ 0.3  0.9  J.Gage K.Collins -> right
+ 0.3  1.0  J.Gage right -> K.Collins
+ 0.3  0.3  K.Collins -> J.Gage right
+ 0.3  0.5  K.Collins right -> J.Gage
+ 0.3  0.5  right -> J.Gage K.Collins
+ 0.3  0.9  J.Gage -> right
+ 0.3  0.5  right -> J.Gage
+ 0.2  0.2  K.Collins -> C.Johnson
+ 0.2  1.0  C.Johnson -> K.Collins
+ 0.3  0.3  K.Collins -> left
+ 0.3  1.0  left -> K.Collins
+ 0.6  0.6  K.Collins -> right
+ 0.6  1.0  right -> K.Collins

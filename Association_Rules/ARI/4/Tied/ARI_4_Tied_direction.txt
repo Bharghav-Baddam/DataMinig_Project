@@ -1,0 +1,45 @@
+Supp Conf  Rule
+ 0.2  1.0  A.Boldin -> K.Warner
+ 0.2  0.2  K.Warner -> A.Boldin
+ 0.2  1.0  A.Boldin -> K.Warner right
+ 0.2  1.0  A.Boldin K.Warner -> right
+ 0.2  1.0  A.Boldin right -> K.Warner
+ 0.2  0.2  K.Warner -> A.Boldin right
+ 0.2  0.5  K.Warner right -> A.Boldin
+ 0.2  0.5  right -> A.Boldin K.Warner
+ 0.2  1.0  A.Boldin -> right
+ 0.2  0.5  right -> A.Boldin
+ 0.2  1.0  S.Breaston -> left
+ 0.2  0.5  left -> S.Breaston
+ 0.2  1.0  S.Breaston -> left K.Warner
+ 0.2  1.0  S.Breaston left -> K.Warner
+ 0.2  1.0  S.Breaston K.Warner -> left
+ 0.2  0.5  left -> S.Breaston K.Warner
+ 0.2  0.5  left K.Warner -> S.Breaston
+ 0.2  0.2  K.Warner -> S.Breaston left
+ 0.2  1.0  S.Breaston -> K.Warner
+ 0.2  0.2  K.Warner -> S.Breaston
+ 0.2  1.0  J.Urban -> K.Warner
+ 0.2  0.2  K.Warner -> J.Urban
+ 0.2  1.0  J.Urban -> K.Warner right
+ 0.2  1.0  J.Urban K.Warner -> right
+ 0.2  1.0  J.Urban right -> K.Warner
+ 0.2  0.2  K.Warner -> J.Urban right
+ 0.2  0.5  K.Warner right -> J.Urban
+ 0.2  0.5  right -> J.Urban K.Warner
+ 0.2  1.0  J.Urban -> right
+ 0.2  0.5  right -> J.Urban
+ 0.2  1.0  T.Hightower -> left
+ 0.2  0.5  left -> T.Hightower
+ 0.2  1.0  T.Hightower -> left K.Warner
+ 0.2  1.0  T.Hightower left -> K.Warner
+ 0.2  1.0  T.Hightower K.Warner -> left
+ 0.2  0.5  left -> T.Hightower K.Warner
+ 0.2  0.5  left K.Warner -> T.Hightower
+ 0.2  0.2  K.Warner -> T.Hightower left
+ 0.2  1.0  T.Hightower -> K.Warner
+ 0.2  0.2  K.Warner -> T.Hightower
+ 0.5  1.0  left -> K.Warner
+ 0.5  0.5  K.Warner -> left
+ 0.5  0.5  K.Warner -> right
+ 0.5  1.0  right -> K.Warner

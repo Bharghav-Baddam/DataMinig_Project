@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.2  0.2  S.Bradford -> left
+ 0.2  1.0  left -> S.Bradford
+ 0.6  0.6  S.Bradford -> right
+ 0.6  1.0  right -> S.Bradford

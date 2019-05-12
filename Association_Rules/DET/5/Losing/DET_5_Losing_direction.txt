@@ -1,0 +1,47 @@
+Supp Conf  Rule
+ 0.2  1.0  J.Bell -> Sh.Hill
+ 0.2  0.2  Sh.Hill -> J.Bell
+ 0.2  1.0  J.Bell -> Sh.Hill left
+ 0.2  1.0  J.Bell Sh.Hill -> left
+ 0.2  1.0  J.Bell left -> Sh.Hill
+ 0.2  0.2  Sh.Hill -> J.Bell left
+ 0.2  0.5  Sh.Hill left -> J.Bell
+ 0.2  0.5  left -> J.Bell Sh.Hill
+ 0.2  1.0  J.Bell -> left
+ 0.2  0.5  left -> J.Bell
+ 0.2  1.0  M.Leshoure -> Sh.Hill
+ 0.2  0.2  Sh.Hill -> M.Leshoure
+ 0.2  1.0  M.Leshoure -> Sh.Hill middle
+ 0.2  1.0  M.Leshoure Sh.Hill -> middle
+ 0.2  1.0  M.Leshoure middle -> Sh.Hill
+ 0.2  0.2  Sh.Hill -> M.Leshoure middle
+ 0.2  1.0  Sh.Hill middle -> M.Leshoure
+ 0.2  1.0  middle -> M.Leshoure Sh.Hill
+ 0.2  1.0  M.Leshoure -> middle
+ 0.2  1.0  middle -> M.Leshoure
+ 0.2  0.2  Sh.Hill -> B.Pettigrew
+ 0.2  1.0  B.Pettigrew -> Sh.Hill
+ 0.2  0.2  Sh.Hill -> B.Pettigrew right
+ 0.2  1.0  Sh.Hill B.Pettigrew -> right
+ 0.2  1.0  Sh.Hill right -> B.Pettigrew
+ 0.2  1.0  B.Pettigrew -> Sh.Hill right
+ 0.2  1.0  B.Pettigrew right -> Sh.Hill
+ 0.2  1.0  right -> Sh.Hill B.Pettigrew
+ 0.2  0.2  Sh.Hill -> C.Johnson
+ 0.2  1.0  C.Johnson -> Sh.Hill
+ 0.2  0.2  Sh.Hill -> C.Johnson left
+ 0.2  1.0  Sh.Hill C.Johnson -> left
+ 0.2  0.5  Sh.Hill left -> C.Johnson
+ 0.2  1.0  C.Johnson -> Sh.Hill left
+ 0.2  1.0  C.Johnson left -> Sh.Hill
+ 0.2  0.5  left -> Sh.Hill C.Johnson
+ 0.2  0.2  Sh.Hill -> middle
+ 0.2  1.0  middle -> Sh.Hill
+ 0.5  0.5  Sh.Hill -> left
+ 0.5  1.0  left -> Sh.Hill
+ 0.2  0.2  Sh.Hill -> right
+ 0.2  1.0  right -> Sh.Hill
+ 0.2  1.0  B.Pettigrew -> right
+ 0.2  1.0  right -> B.Pettigrew
+ 0.2  1.0  C.Johnson -> left
+ 0.2  0.5  left -> C.Johnson

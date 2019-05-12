@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.2  0.2  J.Russell -> Z.Miller
+ 0.2  1.0  Z.Miller -> J.Russell
+ 0.2  0.2  J.Russell -> L.Murphy
+ 0.2  1.0  L.Murphy -> J.Russell
+ 0.2  0.2  J.Russell -> middle
+ 0.2  1.0  middle -> J.Russell
+ 0.4  0.4  J.Russell -> left
+ 0.4  1.0  left -> J.Russell
+ 0.4  0.4  J.Russell -> right
+ 0.4  1.0  right -> J.Russell

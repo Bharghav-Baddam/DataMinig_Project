@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  M.Massaquoi -> B.Quinn
+ 0.2  0.2  B.Quinn -> M.Massaquoi
+ 0.3  0.3  B.Quinn -> middle
+ 0.3  1.0  middle -> B.Quinn
+ 0.2  0.2  B.Quinn -> left
+ 0.2  1.0  left -> B.Quinn
+ 0.5  0.5  B.Quinn -> right
+ 0.5  1.0  right -> B.Quinn

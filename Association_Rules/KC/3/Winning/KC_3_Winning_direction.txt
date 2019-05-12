@@ -1,0 +1,35 @@
+Supp Conf  Rule
+ 0.3  1.0  T.Gafford -> B.Croyle
+ 0.3  0.3  B.Croyle -> T.Gafford
+ 0.3  1.0  T.Gafford -> B.Croyle left
+ 0.3  1.0  T.Gafford B.Croyle -> left
+ 0.3  1.0  T.Gafford left -> B.Croyle
+ 0.3  0.3  B.Croyle -> T.Gafford left
+ 0.3  0.5  B.Croyle left -> T.Gafford
+ 0.3  0.5  left -> T.Gafford B.Croyle
+ 0.3  1.0  T.Gafford -> left
+ 0.3  0.5  left -> T.Gafford
+ 0.3  0.3  B.Croyle -> B.Cottam
+ 0.3  1.0  B.Cottam -> B.Croyle
+ 0.3  0.3  B.Croyle -> B.Cottam right
+ 0.3  1.0  B.Croyle B.Cottam -> right
+ 0.3  1.0  B.Croyle right -> B.Cottam
+ 0.3  1.0  B.Cottam -> B.Croyle right
+ 0.3  1.0  B.Cottam right -> B.Croyle
+ 0.3  1.0  right -> B.Croyle B.Cottam
+ 0.3  0.3  B.Croyle -> D.Bowe
+ 0.3  1.0  D.Bowe -> B.Croyle
+ 0.3  0.3  B.Croyle -> D.Bowe left
+ 0.3  1.0  B.Croyle D.Bowe -> left
+ 0.3  0.5  B.Croyle left -> D.Bowe
+ 0.3  1.0  D.Bowe -> B.Croyle left
+ 0.3  1.0  D.Bowe left -> B.Croyle
+ 0.3  0.5  left -> B.Croyle D.Bowe
+ 0.7  0.7  B.Croyle -> left
+ 0.7  1.0  left -> B.Croyle
+ 0.3  0.3  B.Croyle -> right
+ 0.3  1.0  right -> B.Croyle
+ 0.3  1.0  B.Cottam -> right
+ 0.3  1.0  right -> B.Cottam
+ 0.3  1.0  D.Bowe -> left
+ 0.3  0.5  left -> D.Bowe

@@ -1,0 +1,21 @@
+Supp Conf  Rule
+ 0.2  1.0  J.Higgins -> J.Russell
+ 0.2  0.2  J.Russell -> J.Higgins
+ 0.2  1.0  J.Higgins -> J.Russell left
+ 0.2  1.0  J.Higgins J.Russell -> left
+ 0.2  1.0  J.Higgins left -> J.Russell
+ 0.2  0.2  J.Russell -> J.Higgins left
+ 0.2  0.8  J.Russell left -> J.Higgins
+ 0.2  0.8  left -> J.Higgins J.Russell
+ 0.2  1.0  J.Higgins -> left
+ 0.2  0.8  left -> J.Higgins
+ 0.2  0.2  J.Russell -> D.Heyward-Bey
+ 0.2  1.0  D.Heyward-Bey -> J.Russell
+ 0.4  0.4  J.Russell -> L.Murphy
+ 0.4  1.0  L.Murphy -> J.Russell
+ 0.3  0.3  J.Russell -> middle
+ 0.3  1.0  middle -> J.Russell
+ 0.3  0.3  J.Russell -> left
+ 0.3  1.0  left -> J.Russell
+ 0.4  0.4  J.Russell -> right
+ 0.4  1.0  right -> J.Russell

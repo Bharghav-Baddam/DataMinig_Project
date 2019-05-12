@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  B.Marshall -> K.Orton
+ 0.2  0.2  K.Orton -> B.Marshall
+ 0.3  0.3  K.Orton -> middle
+ 0.3  1.0  middle -> K.Orton
+ 0.5  0.5  K.Orton -> left
+ 0.5  1.0  left -> K.Orton
+ 0.2  0.2  K.Orton -> right
+ 0.2  1.0  right -> K.Orton

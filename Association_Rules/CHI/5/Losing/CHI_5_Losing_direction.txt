@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 1.0  1.0  D.Aromashodu -> J.Cutler
+ 1.0  1.0  J.Cutler -> D.Aromashodu
+ 1.0  1.0  D.Aromashodu -> J.Cutler right
+ 1.0  1.0  D.Aromashodu J.Cutler -> right
+ 1.0  1.0  D.Aromashodu right -> J.Cutler
+ 1.0  1.0  J.Cutler -> D.Aromashodu right
+ 1.0  1.0  J.Cutler right -> D.Aromashodu
+ 1.0  1.0  right -> D.Aromashodu J.Cutler
+ 1.0  1.0  D.Aromashodu -> right
+ 1.0  1.0  right -> D.Aromashodu
+ 1.0  1.0  J.Cutler -> right
+ 1.0  1.0  right -> J.Cutler

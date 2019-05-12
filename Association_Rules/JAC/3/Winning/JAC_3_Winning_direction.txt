@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.3  0.3  D.Garrard -> middle
+ 0.3  1.0  middle -> D.Garrard
+ 0.2  0.2  D.Garrard -> left
+ 0.2  1.0  left -> D.Garrard
+ 0.4  0.4  D.Garrard -> right
+ 0.4  1.0  right -> D.Garrard

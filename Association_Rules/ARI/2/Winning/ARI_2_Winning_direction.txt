@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.2  1.0  middle -> K.Warner
+ 0.2  0.2  K.Warner -> middle
+ 0.2  1.0  A.Boldin -> K.Warner
+ 0.2  0.2  K.Warner -> A.Boldin
+ 0.4  1.0  left -> K.Warner
+ 0.4  0.4  K.Warner -> left
+ 0.3  1.0  L.Fitzgerald -> K.Warner
+ 0.3  0.3  K.Warner -> L.Fitzgerald
+ 0.4  0.4  K.Warner -> right
+ 0.4  1.0  right -> K.Warner

@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 1.0  1.0  J.Matthews -> S.Bradford
+ 1.0  1.0  S.Bradford -> J.Matthews
+ 1.0  1.0  J.Matthews -> S.Bradford right
+ 1.0  1.0  J.Matthews S.Bradford -> right
+ 1.0  1.0  J.Matthews right -> S.Bradford
+ 1.0  1.0  S.Bradford -> J.Matthews right
+ 1.0  1.0  S.Bradford right -> J.Matthews
+ 1.0  1.0  right -> J.Matthews S.Bradford
+ 1.0  1.0  J.Matthews -> right
+ 1.0  1.0  right -> J.Matthews
+ 1.0  1.0  S.Bradford -> right
+ 1.0  1.0  right -> S.Bradford

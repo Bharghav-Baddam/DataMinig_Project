@@ -1,0 +1,43 @@
+Supp Conf  Rule
+ 0.4  0.4  M.Flynn -> A.Quarless
+ 0.4  1.0  A.Quarless -> M.Flynn
+ 0.2  0.2  M.Flynn -> A.Quarless left
+ 0.2  0.5  M.Flynn A.Quarless -> left
+ 0.2  0.3  M.Flynn left -> A.Quarless
+ 0.2  0.5  A.Quarless -> M.Flynn left
+ 0.2  1.0  A.Quarless left -> M.Flynn
+ 0.2  0.3  left -> M.Flynn A.Quarless
+ 0.2  0.2  M.Flynn -> A.Quarless right
+ 0.2  0.5  M.Flynn A.Quarless -> right
+ 0.2  0.5  M.Flynn right -> A.Quarless
+ 0.2  0.5  A.Quarless -> M.Flynn right
+ 0.2  1.0  A.Quarless right -> M.Flynn
+ 0.2  0.5  right -> M.Flynn A.Quarless
+ 0.4  0.4  M.Flynn -> G.Jennings
+ 0.4  1.0  G.Jennings -> M.Flynn
+ 0.4  0.4  M.Flynn -> G.Jennings left
+ 0.4  1.0  M.Flynn G.Jennings -> left
+ 0.4  0.7  M.Flynn left -> G.Jennings
+ 0.4  1.0  G.Jennings -> M.Flynn left
+ 0.4  1.0  G.Jennings left -> M.Flynn
+ 0.4  0.7  left -> M.Flynn G.Jennings
+ 0.2  0.2  M.Flynn -> J.Jones
+ 0.2  1.0  J.Jones -> M.Flynn
+ 0.2  0.2  M.Flynn -> J.Jones right
+ 0.2  1.0  M.Flynn J.Jones -> right
+ 0.2  0.5  M.Flynn right -> J.Jones
+ 0.2  1.0  J.Jones -> M.Flynn right
+ 0.2  1.0  J.Jones right -> M.Flynn
+ 0.2  0.5  right -> M.Flynn J.Jones
+ 0.6  0.6  M.Flynn -> left
+ 0.6  1.0  left -> M.Flynn
+ 0.4  0.4  M.Flynn -> right
+ 0.4  1.0  right -> M.Flynn
+ 0.2  0.5  A.Quarless -> left
+ 0.2  0.3  left -> A.Quarless
+ 0.2  0.5  A.Quarless -> right
+ 0.2  0.5  right -> A.Quarless
+ 0.4  1.0  G.Jennings -> left
+ 0.4  0.7  left -> G.Jennings
+ 0.2  1.0  J.Jones -> right
+ 0.2  0.5  right -> J.Jones

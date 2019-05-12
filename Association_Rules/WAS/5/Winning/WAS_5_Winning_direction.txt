@@ -1,0 +1,55 @@
+Supp Conf  Rule
+ 0.2  1.0  F.Davis -> D.McNabb
+ 0.2  0.2  D.McNabb -> F.Davis
+ 0.2  1.0  F.Davis -> D.McNabb left
+ 0.2  1.0  F.Davis D.McNabb -> left
+ 0.2  1.0  F.Davis left -> D.McNabb
+ 0.2  0.2  D.McNabb -> F.Davis left
+ 0.2  0.5  D.McNabb left -> F.Davis
+ 0.2  0.5  left -> F.Davis D.McNabb
+ 0.2  1.0  F.Davis -> left
+ 0.2  0.5  left -> F.Davis
+ 0.2  1.0  C.Cooley -> D.McNabb
+ 0.2  0.2  D.McNabb -> C.Cooley
+ 0.2  1.0  C.Cooley -> D.McNabb right
+ 0.2  1.0  C.Cooley D.McNabb -> right
+ 0.2  1.0  C.Cooley right -> D.McNabb
+ 0.2  0.2  D.McNabb -> C.Cooley right
+ 0.2  0.3  D.McNabb right -> C.Cooley
+ 0.2  0.3  right -> C.Cooley D.McNabb
+ 0.2  1.0  C.Cooley -> right
+ 0.2  0.3  right -> C.Cooley
+ 0.2  1.0  S.Moss -> D.McNabb
+ 0.2  0.2  D.McNabb -> S.Moss
+ 0.2  1.0  S.Moss -> D.McNabb left
+ 0.2  1.0  S.Moss D.McNabb -> left
+ 0.2  1.0  S.Moss left -> D.McNabb
+ 0.2  0.2  D.McNabb -> S.Moss left
+ 0.2  0.5  D.McNabb left -> S.Moss
+ 0.2  0.5  left -> S.Moss D.McNabb
+ 0.2  1.0  S.Moss -> left
+ 0.2  0.5  left -> S.Moss
+ 0.2  0.2  D.McNabb -> A.Armstrong
+ 0.2  1.0  A.Armstrong -> D.McNabb
+ 0.2  0.2  D.McNabb -> A.Armstrong right
+ 0.2  1.0  D.McNabb A.Armstrong -> right
+ 0.2  0.3  D.McNabb right -> A.Armstrong
+ 0.2  1.0  A.Armstrong -> D.McNabb right
+ 0.2  1.0  A.Armstrong right -> D.McNabb
+ 0.2  0.3  right -> D.McNabb A.Armstrong
+ 0.2  0.2  D.McNabb -> K.Williams
+ 0.2  1.0  K.Williams -> D.McNabb
+ 0.2  0.2  D.McNabb -> K.Williams right
+ 0.2  1.0  D.McNabb K.Williams -> right
+ 0.2  0.3  D.McNabb right -> K.Williams
+ 0.2  1.0  K.Williams -> D.McNabb right
+ 0.2  1.0  K.Williams right -> D.McNabb
+ 0.2  0.3  right -> D.McNabb K.Williams
+ 0.4  0.4  D.McNabb -> left
+ 0.4  1.0  left -> D.McNabb
+ 0.6  0.6  D.McNabb -> right
+ 0.6  1.0  right -> D.McNabb
+ 0.2  1.0  A.Armstrong -> right
+ 0.2  0.3  right -> A.Armstrong
+ 0.2  1.0  K.Williams -> right
+ 0.2  0.3  right -> K.Williams

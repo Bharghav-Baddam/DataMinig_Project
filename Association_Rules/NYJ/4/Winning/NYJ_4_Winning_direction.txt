@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  D.Keller -> M.Sanchez
+ 0.2  0.2  M.Sanchez -> D.Keller
+ 0.2  0.2  M.Sanchez -> middle
+ 0.2  1.0  middle -> M.Sanchez
+ 0.3  0.3  M.Sanchez -> left
+ 0.3  1.0  left -> M.Sanchez
+ 0.4  0.4  M.Sanchez -> right
+ 0.4  1.0  right -> M.Sanchez

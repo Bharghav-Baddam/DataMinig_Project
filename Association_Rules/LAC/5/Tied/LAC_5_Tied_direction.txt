@@ -1,0 +1,35 @@
+Supp Conf  Rule
+ 0.3  1.0  K.Allen -> P.Rivers
+ 0.3  0.3  P.Rivers -> K.Allen
+ 0.3  1.0  K.Allen -> P.Rivers right
+ 0.3  1.0  K.Allen P.Rivers -> right
+ 0.3  1.0  K.Allen right -> P.Rivers
+ 0.3  0.3  P.Rivers -> K.Allen right
+ 0.3  1.0  P.Rivers right -> K.Allen
+ 0.3  1.0  right -> K.Allen P.Rivers
+ 0.3  1.0  K.Allen -> right
+ 0.3  1.0  right -> K.Allen
+ 0.3  1.0  M.Gordon -> P.Rivers
+ 0.3  0.3  P.Rivers -> M.Gordon
+ 0.3  1.0  M.Gordon -> P.Rivers left
+ 0.3  1.0  M.Gordon P.Rivers -> left
+ 0.3  1.0  M.Gordon left -> P.Rivers
+ 0.3  0.3  P.Rivers -> M.Gordon left
+ 0.3  0.5  P.Rivers left -> M.Gordon
+ 0.3  0.5  left -> M.Gordon P.Rivers
+ 0.3  1.0  M.Gordon -> left
+ 0.3  0.5  left -> M.Gordon
+ 0.3  0.3  P.Rivers -> T.Benjamin
+ 0.3  1.0  T.Benjamin -> P.Rivers
+ 0.3  0.3  P.Rivers -> T.Benjamin left
+ 0.3  1.0  P.Rivers T.Benjamin -> left
+ 0.3  0.5  P.Rivers left -> T.Benjamin
+ 0.3  1.0  T.Benjamin -> P.Rivers left
+ 0.3  1.0  T.Benjamin left -> P.Rivers
+ 0.3  0.5  left -> P.Rivers T.Benjamin
+ 0.7  0.7  P.Rivers -> left
+ 0.7  1.0  left -> P.Rivers
+ 0.3  0.3  P.Rivers -> right
+ 0.3  1.0  right -> P.Rivers
+ 0.3  1.0  T.Benjamin -> left
+ 0.3  0.5  left -> T.Benjamin

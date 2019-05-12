@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 1.0  1.0  J.Ford -> J.Campbell
+ 1.0  1.0  J.Campbell -> J.Ford
+ 1.0  1.0  J.Ford -> J.Campbell middle
+ 1.0  1.0  J.Ford J.Campbell -> middle
+ 1.0  1.0  J.Ford middle -> J.Campbell
+ 1.0  1.0  J.Campbell -> J.Ford middle
+ 1.0  1.0  J.Campbell middle -> J.Ford
+ 1.0  1.0  middle -> J.Ford J.Campbell
+ 1.0  1.0  J.Ford -> middle
+ 1.0  1.0  middle -> J.Ford
+ 1.0  1.0  J.Campbell -> middle
+ 1.0  1.0  middle -> J.Campbell

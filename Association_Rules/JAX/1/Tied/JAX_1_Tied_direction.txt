@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.3  0.3  B.Bortles -> middle
+ 0.3  1.0  middle -> B.Bortles
+ 0.4  0.4  B.Bortles -> left
+ 0.4  1.0  left -> B.Bortles
+ 0.4  0.4  B.Bortles -> right
+ 0.4  1.0  right -> B.Bortles

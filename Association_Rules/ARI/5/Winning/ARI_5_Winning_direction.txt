@@ -1,0 +1,25 @@
+Supp Conf  Rule
+ 0.3  1.0  Ja.Brown -> C.Palmer
+ 0.3  0.3  C.Palmer -> Ja.Brown
+ 0.3  1.0  Ja.Brown -> C.Palmer left
+ 0.3  1.0  Ja.Brown C.Palmer -> left
+ 0.3  1.0  Ja.Brown left -> C.Palmer
+ 0.3  0.3  C.Palmer -> Ja.Brown left
+ 0.3  0.7  C.Palmer left -> Ja.Brown
+ 0.3  0.7  left -> Ja.Brown C.Palmer
+ 0.3  1.0  Ja.Brown -> left
+ 0.3  0.7  left -> Ja.Brown
+ 0.5  1.0  A.Ellington -> C.Palmer
+ 0.5  0.5  C.Palmer -> A.Ellington
+ 0.3  0.7  A.Ellington -> C.Palmer middle
+ 0.3  0.7  A.Ellington C.Palmer -> middle
+ 0.3  1.0  A.Ellington middle -> C.Palmer
+ 0.3  0.3  C.Palmer -> A.Ellington middle
+ 0.3  1.0  C.Palmer middle -> A.Ellington
+ 0.3  1.0  middle -> A.Ellington C.Palmer
+ 0.3  0.7  A.Ellington -> middle
+ 0.3  1.0  middle -> A.Ellington
+ 0.3  0.3  C.Palmer -> middle
+ 0.3  1.0  middle -> C.Palmer
+ 0.5  0.5  C.Palmer -> left
+ 0.5  1.0  left -> C.Palmer

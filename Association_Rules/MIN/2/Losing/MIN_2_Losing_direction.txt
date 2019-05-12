@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  S.Rice -> B.Favre
+ 0.2  0.2  B.Favre -> S.Rice
+ 0.3  0.3  B.Favre -> middle
+ 0.3  1.0  middle -> B.Favre
+ 0.3  0.3  B.Favre -> left
+ 0.3  1.0  left -> B.Favre
+ 0.4  0.4  B.Favre -> right
+ 0.4  1.0  right -> B.Favre

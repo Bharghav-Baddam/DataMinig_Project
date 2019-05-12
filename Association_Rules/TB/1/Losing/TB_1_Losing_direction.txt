@@ -1,0 +1,19 @@
+Supp Conf  Rule
+ 0.2  1.0  S.Stroughter -> B.Leftwich
+ 0.2  0.2  B.Leftwich -> S.Stroughter
+ 0.2  1.0  S.Stroughter -> B.Leftwich middle
+ 0.2  1.0  S.Stroughter B.Leftwich -> middle
+ 0.2  1.0  S.Stroughter middle -> B.Leftwich
+ 0.2  0.2  B.Leftwich -> S.Stroughter middle
+ 0.2  0.7  B.Leftwich middle -> S.Stroughter
+ 0.2  0.7  middle -> S.Stroughter B.Leftwich
+ 0.2  1.0  S.Stroughter -> middle
+ 0.2  0.7  middle -> S.Stroughter
+ 0.2  0.2  B.Leftwich -> C.Williams
+ 0.2  1.0  C.Williams -> B.Leftwich
+ 0.4  0.4  B.Leftwich -> middle
+ 0.4  1.0  middle -> B.Leftwich
+ 0.4  0.4  B.Leftwich -> left
+ 0.4  1.0  left -> B.Leftwich
+ 0.2  0.2  B.Leftwich -> right
+ 0.2  1.0  right -> B.Leftwich

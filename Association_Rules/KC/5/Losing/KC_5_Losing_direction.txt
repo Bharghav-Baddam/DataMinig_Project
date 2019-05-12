@@ -1,0 +1,45 @@
+Supp Conf  Rule
+ 0.2  1.0  R.Gordon -> C.Daniel
+ 0.2  0.2  C.Daniel -> R.Gordon
+ 0.2  1.0  R.Gordon -> C.Daniel right
+ 0.2  1.0  R.Gordon C.Daniel -> right
+ 0.2  1.0  R.Gordon right -> C.Daniel
+ 0.2  0.2  C.Daniel -> R.Gordon right
+ 0.2  1.0  C.Daniel right -> R.Gordon
+ 0.2  1.0  right -> R.Gordon C.Daniel
+ 0.2  1.0  R.Gordon -> right
+ 0.2  1.0  right -> R.Gordon
+ 0.6  1.0  A.Jenkins -> C.Daniel
+ 0.6  0.6  C.Daniel -> A.Jenkins
+ 0.4  0.7  A.Jenkins -> C.Daniel middle
+ 0.4  0.7  A.Jenkins C.Daniel -> middle
+ 0.4  1.0  A.Jenkins middle -> C.Daniel
+ 0.4  0.4  C.Daniel -> A.Jenkins middle
+ 0.4  0.7  C.Daniel middle -> A.Jenkins
+ 0.4  0.7  middle -> A.Jenkins C.Daniel
+ 0.2  0.3  A.Jenkins -> C.Daniel left
+ 0.2  0.3  A.Jenkins C.Daniel -> left
+ 0.2  1.0  A.Jenkins left -> C.Daniel
+ 0.2  0.2  C.Daniel -> A.Jenkins left
+ 0.2  1.0  C.Daniel left -> A.Jenkins
+ 0.2  1.0  left -> A.Jenkins C.Daniel
+ 0.4  0.7  A.Jenkins -> middle
+ 0.4  0.7  middle -> A.Jenkins
+ 0.2  0.3  A.Jenkins -> left
+ 0.2  1.0  left -> A.Jenkins
+ 0.2  1.0  D.McCluster -> C.Daniel
+ 0.2  0.2  C.Daniel -> D.McCluster
+ 0.2  1.0  D.McCluster -> C.Daniel middle
+ 0.2  1.0  D.McCluster C.Daniel -> middle
+ 0.2  1.0  D.McCluster middle -> C.Daniel
+ 0.2  0.2  C.Daniel -> D.McCluster middle
+ 0.2  0.3  C.Daniel middle -> D.McCluster
+ 0.2  0.3  middle -> D.McCluster C.Daniel
+ 0.2  1.0  D.McCluster -> middle
+ 0.2  0.3  middle -> D.McCluster
+ 0.6  0.6  C.Daniel -> middle
+ 0.6  1.0  middle -> C.Daniel
+ 0.2  0.2  C.Daniel -> left
+ 0.2  1.0  left -> C.Daniel
+ 0.2  0.2  C.Daniel -> right
+ 0.2  1.0  right -> C.Daniel

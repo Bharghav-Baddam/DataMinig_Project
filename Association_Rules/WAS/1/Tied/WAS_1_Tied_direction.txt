@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.3  1.0  S.Moss -> J.Campbell
+ 0.3  0.3  J.Campbell -> S.Moss
+ 0.2  0.2  J.Campbell -> middle
+ 0.2  1.0  middle -> J.Campbell
+ 0.4  0.4  J.Campbell -> left
+ 0.4  1.0  left -> J.Campbell
+ 0.4  0.4  J.Campbell -> right
+ 0.4  1.0  right -> J.Campbell

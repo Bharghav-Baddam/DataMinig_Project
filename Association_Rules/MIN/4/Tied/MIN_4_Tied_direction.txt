@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.3  1.0  R.Moss -> B.Favre
+ 0.3  0.3  B.Favre -> R.Moss
+ 0.5  0.5  B.Favre -> left
+ 0.5  1.0  left -> B.Favre
+ 0.3  0.3  B.Favre -> right
+ 0.3  1.0  right -> B.Favre

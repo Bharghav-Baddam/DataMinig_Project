@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 1.0  1.0  A.Bryant -> M.Clayton
+ 1.0  1.0  M.Clayton -> A.Bryant
+ 1.0  1.0  A.Bryant -> M.Clayton right
+ 1.0  1.0  A.Bryant M.Clayton -> right
+ 1.0  1.0  A.Bryant right -> M.Clayton
+ 1.0  1.0  M.Clayton -> A.Bryant right
+ 1.0  1.0  M.Clayton right -> A.Bryant
+ 1.0  1.0  right -> A.Bryant M.Clayton
+ 1.0  1.0  A.Bryant -> right
+ 1.0  1.0  right -> A.Bryant
+ 1.0  1.0  M.Clayton -> right
+ 1.0  1.0  right -> M.Clayton

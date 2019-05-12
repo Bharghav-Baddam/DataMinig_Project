@@ -1,0 +1,15 @@
+Supp Conf  Rule
+ 0.7  0.7  K.Kolb -> A.Roberts
+ 0.7  1.0  A.Roberts -> K.Kolb
+ 0.5  0.5  K.Kolb -> A.Roberts right
+ 0.5  0.8  K.Kolb A.Roberts -> right
+ 0.5  1.0  K.Kolb right -> A.Roberts
+ 0.5  0.8  A.Roberts -> K.Kolb right
+ 0.5  1.0  A.Roberts right -> K.Kolb
+ 0.5  1.0  right -> K.Kolb A.Roberts
+ 0.5  0.5  K.Kolb -> left
+ 0.5  1.0  left -> K.Kolb
+ 0.5  0.5  K.Kolb -> right
+ 0.5  1.0  right -> K.Kolb
+ 0.5  0.8  A.Roberts -> right
+ 0.5  1.0  right -> A.Roberts

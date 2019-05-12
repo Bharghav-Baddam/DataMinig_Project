@@ -1,0 +1,13 @@
+Supp Conf  Rule
+ 1.0  1.0  R.Wilson -> S.Rice
+ 1.0  1.0  S.Rice -> R.Wilson
+ 1.0  1.0  R.Wilson -> S.Rice left
+ 1.0  1.0  R.Wilson S.Rice -> left
+ 1.0  1.0  R.Wilson left -> S.Rice
+ 1.0  1.0  S.Rice -> R.Wilson left
+ 1.0  1.0  S.Rice left -> R.Wilson
+ 1.0  1.0  left -> R.Wilson S.Rice
+ 1.0  1.0  R.Wilson -> left
+ 1.0  1.0  left -> R.Wilson
+ 1.0  1.0  S.Rice -> left
+ 1.0  1.0  left -> S.Rice

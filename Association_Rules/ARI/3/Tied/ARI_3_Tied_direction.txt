@@ -1,0 +1,45 @@
+Supp Conf  Rule
+ 0.2  0.5  middle -> S.Breaston
+ 0.2  1.0  S.Breaston -> middle
+ 0.2  0.5  middle -> S.Breaston K.Warner
+ 0.2  1.0  middle S.Breaston -> K.Warner
+ 0.2  0.5  middle K.Warner -> S.Breaston
+ 0.2  1.0  S.Breaston -> middle K.Warner
+ 0.2  1.0  S.Breaston K.Warner -> middle
+ 0.2  0.2  K.Warner -> middle S.Breaston
+ 0.2  0.5  middle -> J.Urban
+ 0.2  1.0  J.Urban -> middle
+ 0.2  0.5  middle -> J.Urban K.Warner
+ 0.2  1.0  middle J.Urban -> K.Warner
+ 0.2  0.5  middle K.Warner -> J.Urban
+ 0.2  1.0  J.Urban -> middle K.Warner
+ 0.2  1.0  J.Urban K.Warner -> middle
+ 0.2  0.2  K.Warner -> middle J.Urban
+ 0.4  1.0  middle -> K.Warner
+ 0.4  0.4  K.Warner -> middle
+ 0.2  1.0  A.Boldin -> K.Warner
+ 0.2  0.2  K.Warner -> A.Boldin
+ 0.2  1.0  A.Boldin -> K.Warner right
+ 0.2  1.0  A.Boldin K.Warner -> right
+ 0.2  1.0  A.Boldin right -> K.Warner
+ 0.2  0.2  K.Warner -> A.Boldin right
+ 0.2  0.3  K.Warner right -> A.Boldin
+ 0.2  0.3  right -> A.Boldin K.Warner
+ 0.2  1.0  A.Boldin -> right
+ 0.2  0.3  right -> A.Boldin
+ 0.2  1.0  S.Breaston -> K.Warner
+ 0.2  0.2  K.Warner -> S.Breaston
+ 0.2  1.0  J.Urban -> K.Warner
+ 0.2  0.2  K.Warner -> J.Urban
+ 0.4  1.0  T.Hightower -> K.Warner
+ 0.4  0.4  K.Warner -> T.Hightower
+ 0.4  1.0  T.Hightower -> K.Warner right
+ 0.4  1.0  T.Hightower K.Warner -> right
+ 0.4  1.0  T.Hightower right -> K.Warner
+ 0.4  0.4  K.Warner -> T.Hightower right
+ 0.4  0.7  K.Warner right -> T.Hightower
+ 0.4  0.7  right -> T.Hightower K.Warner
+ 0.4  1.0  T.Hightower -> right
+ 0.4  0.7  right -> T.Hightower
+ 0.6  0.6  K.Warner -> right
+ 0.6  1.0  right -> K.Warner

@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  0.2  M.Ryan -> middle
+ 0.2  1.0  middle -> M.Ryan
+ 0.4  0.4  M.Ryan -> left
+ 0.4  1.0  left -> M.Ryan
+ 0.4  0.4  M.Ryan -> right
+ 0.4  1.0  right -> M.Ryan

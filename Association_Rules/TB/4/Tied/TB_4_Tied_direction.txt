@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  1.0  V.Jackson -> J.Freeman
+ 0.2  0.2  J.Freeman -> V.Jackson
+ 0.2  0.2  J.Freeman -> middle
+ 0.2  1.0  middle -> J.Freeman
+ 0.6  0.6  J.Freeman -> right
+ 0.6  1.0  right -> J.Freeman

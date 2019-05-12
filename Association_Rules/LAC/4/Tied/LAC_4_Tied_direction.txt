@@ -1,0 +1,27 @@
+Supp Conf  Rule
+ 0.3  1.0  K.Allen -> P.Rivers
+ 0.3  0.3  P.Rivers -> K.Allen
+ 0.2  0.7  K.Allen -> P.Rivers middle
+ 0.2  0.7  K.Allen P.Rivers -> middle
+ 0.2  1.0  K.Allen middle -> P.Rivers
+ 0.2  0.2  P.Rivers -> K.Allen middle
+ 0.2  0.5  P.Rivers middle -> K.Allen
+ 0.2  0.5  middle -> K.Allen P.Rivers
+ 0.2  0.7  K.Allen -> middle
+ 0.2  0.5  middle -> K.Allen
+ 0.3  1.0  M.Gordon -> P.Rivers
+ 0.3  0.3  P.Rivers -> M.Gordon
+ 0.2  0.7  M.Gordon -> P.Rivers right
+ 0.2  0.7  M.Gordon P.Rivers -> right
+ 0.2  1.0  M.Gordon right -> P.Rivers
+ 0.2  0.2  P.Rivers -> M.Gordon right
+ 0.2  1.0  P.Rivers right -> M.Gordon
+ 0.2  1.0  right -> M.Gordon P.Rivers
+ 0.2  0.7  M.Gordon -> right
+ 0.2  1.0  right -> M.Gordon
+ 0.4  0.4  P.Rivers -> middle
+ 0.4  1.0  middle -> P.Rivers
+ 0.3  0.3  P.Rivers -> left
+ 0.3  1.0  left -> P.Rivers
+ 0.2  0.2  P.Rivers -> right
+ 0.2  1.0  right -> P.Rivers

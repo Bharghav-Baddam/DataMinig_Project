@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  0.2  C.Henne -> D.Bess
+ 0.2  1.0  D.Bess -> C.Henne
+ 0.4  0.4  C.Henne -> left
+ 0.4  1.0  left -> C.Henne
+ 0.5  0.5  C.Henne -> right
+ 0.5  1.0  right -> C.Henne

@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  J.Witten -> T.Romo
+ 0.2  0.2  T.Romo -> J.Witten
+ 0.2  0.2  T.Romo -> middle
+ 0.2  1.0  middle -> T.Romo
+ 0.3  0.3  T.Romo -> left
+ 0.3  1.0  left -> T.Romo
+ 0.4  0.4  T.Romo -> right
+ 0.4  1.0  right -> T.Romo

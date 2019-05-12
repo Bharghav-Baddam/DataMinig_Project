@@ -1,0 +1,43 @@
+Supp Conf  Rule
+ 0.2  1.0  M.Norris -> S.Hill
+ 0.2  0.2  S.Hill -> M.Norris
+ 0.2  1.0  M.Norris -> S.Hill right
+ 0.2  1.0  M.Norris S.Hill -> right
+ 0.2  1.0  M.Norris right -> S.Hill
+ 0.2  0.2  S.Hill -> M.Norris right
+ 0.2  0.2  S.Hill right -> M.Norris
+ 0.2  0.2  right -> M.Norris S.Hill
+ 0.2  1.0  M.Norris -> right
+ 0.2  0.2  right -> M.Norris
+ 0.2  1.0  I.Bruce -> S.Hill
+ 0.2  0.2  S.Hill -> I.Bruce
+ 0.2  1.0  I.Bruce -> S.Hill right
+ 0.2  1.0  I.Bruce S.Hill -> right
+ 0.2  1.0  I.Bruce right -> S.Hill
+ 0.2  0.2  S.Hill -> I.Bruce right
+ 0.2  0.2  S.Hill right -> I.Bruce
+ 0.2  0.2  right -> I.Bruce S.Hill
+ 0.2  1.0  I.Bruce -> right
+ 0.2  0.2  right -> I.Bruce
+ 0.2  1.0  D.Walker -> S.Hill
+ 0.2  0.2  S.Hill -> D.Walker
+ 0.2  1.0  D.Walker -> S.Hill right
+ 0.2  1.0  D.Walker S.Hill -> right
+ 0.2  1.0  D.Walker right -> S.Hill
+ 0.2  0.2  S.Hill -> D.Walker right
+ 0.2  0.2  S.Hill right -> D.Walker
+ 0.2  0.2  right -> D.Walker S.Hill
+ 0.2  1.0  D.Walker -> right
+ 0.2  0.2  right -> D.Walker
+ 0.2  0.2  S.Hill -> V.Davis
+ 0.2  1.0  V.Davis -> S.Hill
+ 0.2  0.2  S.Hill -> V.Davis right
+ 0.2  1.0  S.Hill V.Davis -> right
+ 0.2  0.2  S.Hill right -> V.Davis
+ 0.2  1.0  V.Davis -> S.Hill right
+ 0.2  1.0  V.Davis right -> S.Hill
+ 0.2  0.2  right -> S.Hill V.Davis
+ 1.0  1.0  S.Hill -> right
+ 1.0  1.0  right -> S.Hill
+ 0.2  1.0  V.Davis -> right
+ 0.2  0.2  right -> V.Davis

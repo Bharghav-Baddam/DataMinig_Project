@@ -1,0 +1,5 @@
+Supp Conf  Rule
+ 0.6  0.6  P.Manning -> left
+ 0.6  1.0  left -> P.Manning
+ 0.2  0.2  P.Manning -> right
+ 0.2  1.0  right -> P.Manning

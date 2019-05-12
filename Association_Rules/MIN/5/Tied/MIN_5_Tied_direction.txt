@@ -1,0 +1,23 @@
+Supp Conf  Rule
+ 1.0  1.0  B.Favre -> A.Peterson
+ 1.0  1.0  A.Peterson -> B.Favre
+ 0.5  0.5  B.Favre -> A.Peterson middle
+ 0.5  0.5  B.Favre A.Peterson -> middle
+ 0.5  1.0  B.Favre middle -> A.Peterson
+ 0.5  0.5  A.Peterson -> B.Favre middle
+ 0.5  1.0  A.Peterson middle -> B.Favre
+ 0.5  1.0  middle -> B.Favre A.Peterson
+ 0.5  0.5  B.Favre -> A.Peterson right
+ 0.5  0.5  B.Favre A.Peterson -> right
+ 0.5  1.0  B.Favre right -> A.Peterson
+ 0.5  0.5  A.Peterson -> B.Favre right
+ 0.5  1.0  A.Peterson right -> B.Favre
+ 0.5  1.0  right -> B.Favre A.Peterson
+ 0.5  0.5  B.Favre -> middle
+ 0.5  1.0  middle -> B.Favre
+ 0.5  0.5  B.Favre -> right
+ 0.5  1.0  right -> B.Favre
+ 0.5  0.5  A.Peterson -> middle
+ 0.5  1.0  middle -> A.Peterson
+ 0.5  0.5  A.Peterson -> right
+ 0.5  1.0  right -> A.Peterson

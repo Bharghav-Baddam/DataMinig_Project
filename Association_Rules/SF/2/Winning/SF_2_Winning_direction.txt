@@ -1,0 +1,19 @@
+Supp Conf  Rule
+ 0.2  1.0  I.Bruce -> S.Hill
+ 0.2  0.2  S.Hill -> I.Bruce
+ 0.2  0.2  S.Hill -> V.Davis
+ 0.2  1.0  V.Davis -> S.Hill
+ 0.2  0.2  S.Hill -> V.Davis right
+ 0.2  0.8  S.Hill V.Davis -> right
+ 0.2  0.4  S.Hill right -> V.Davis
+ 0.2  0.8  V.Davis -> S.Hill right
+ 0.2  1.0  V.Davis right -> S.Hill
+ 0.2  0.4  right -> S.Hill V.Davis
+ 0.2  0.2  S.Hill -> J.Morgan
+ 0.2  1.0  J.Morgan -> S.Hill
+ 0.3  0.3  S.Hill -> left
+ 0.3  1.0  left -> S.Hill
+ 0.6  0.6  S.Hill -> right
+ 0.6  1.0  right -> S.Hill
+ 0.2  0.8  V.Davis -> right
+ 0.2  0.4  right -> V.Davis

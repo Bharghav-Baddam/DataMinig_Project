@@ -1,0 +1,29 @@
+Supp Conf  Rule
+ 0.2  1.0  K.Moreno -> K.Orton
+ 0.2  0.2  K.Orton -> K.Moreno
+ 0.3  1.0  J.Gaffney -> K.Orton
+ 0.3  0.3  K.Orton -> J.Gaffney
+ 0.2  0.7  J.Gaffney -> K.Orton middle
+ 0.2  0.7  J.Gaffney K.Orton -> middle
+ 0.2  1.0  J.Gaffney middle -> K.Orton
+ 0.2  0.2  K.Orton -> J.Gaffney middle
+ 0.2  1.0  K.Orton middle -> J.Gaffney
+ 0.2  1.0  middle -> J.Gaffney K.Orton
+ 0.2  0.7  J.Gaffney -> middle
+ 0.2  1.0  middle -> J.Gaffney
+ 0.2  1.0  D.Thomas -> K.Orton
+ 0.2  0.2  K.Orton -> D.Thomas
+ 0.2  1.0  D.Thomas -> K.Orton right
+ 0.2  1.0  D.Thomas K.Orton -> right
+ 0.2  1.0  D.Thomas right -> K.Orton
+ 0.2  0.2  K.Orton -> D.Thomas right
+ 0.2  0.3  K.Orton right -> D.Thomas
+ 0.2  0.3  right -> D.Thomas K.Orton
+ 0.2  1.0  D.Thomas -> right
+ 0.2  0.3  right -> D.Thomas
+ 0.2  0.2  K.Orton -> middle
+ 0.2  1.0  middle -> K.Orton
+ 0.2  0.2  K.Orton -> left
+ 0.2  1.0  left -> K.Orton
+ 0.6  0.6  K.Orton -> right
+ 0.6  1.0  right -> K.Orton

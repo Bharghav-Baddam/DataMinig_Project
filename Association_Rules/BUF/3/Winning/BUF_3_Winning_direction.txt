@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.3  0.3  T.Edwards -> L.Evans
+ 0.3  1.0  L.Evans -> T.Edwards
+ 0.2  0.2  T.Edwards -> middle
+ 0.2  1.0  middle -> T.Edwards
+ 0.2  0.2  T.Edwards -> left
+ 0.2  1.0  left -> T.Edwards
+ 0.6  0.6  T.Edwards -> right
+ 0.6  1.0  right -> T.Edwards

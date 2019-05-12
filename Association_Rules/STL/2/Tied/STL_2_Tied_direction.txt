@@ -1,0 +1,45 @@
+Supp Conf  Rule
+ 0.2  0.2  M.Bulger -> R.McMichael
+ 0.2  1.0  R.McMichael -> M.Bulger
+ 0.2  0.2  M.Bulger -> R.McMichael right
+ 0.2  1.0  M.Bulger R.McMichael -> right
+ 0.2  0.5  M.Bulger right -> R.McMichael
+ 0.2  1.0  R.McMichael -> M.Bulger right
+ 0.2  1.0  R.McMichael right -> M.Bulger
+ 0.2  0.5  right -> M.Bulger R.McMichael
+ 0.5  0.5  M.Bulger -> L.Robinson
+ 0.5  1.0  L.Robinson -> M.Bulger
+ 0.2  0.2  M.Bulger -> L.Robinson left
+ 0.2  0.5  M.Bulger L.Robinson -> left
+ 0.2  1.0  M.Bulger left -> L.Robinson
+ 0.2  0.5  L.Robinson -> M.Bulger left
+ 0.2  1.0  L.Robinson left -> M.Bulger
+ 0.2  1.0  left -> M.Bulger L.Robinson
+ 0.2  0.2  M.Bulger -> L.Robinson right
+ 0.2  0.5  M.Bulger L.Robinson -> right
+ 0.2  0.5  M.Bulger right -> L.Robinson
+ 0.2  0.5  L.Robinson -> M.Bulger right
+ 0.2  1.0  L.Robinson right -> M.Bulger
+ 0.2  0.5  right -> M.Bulger L.Robinson
+ 0.2  0.2  M.Bulger -> D.Fells
+ 0.2  1.0  D.Fells -> M.Bulger
+ 0.2  0.2  M.Bulger -> D.Fells middle
+ 0.2  1.0  M.Bulger D.Fells -> middle
+ 0.2  1.0  M.Bulger middle -> D.Fells
+ 0.2  1.0  D.Fells -> M.Bulger middle
+ 0.2  1.0  D.Fells middle -> M.Bulger
+ 0.2  1.0  middle -> M.Bulger D.Fells
+ 0.2  0.2  M.Bulger -> middle
+ 0.2  1.0  middle -> M.Bulger
+ 0.2  0.2  M.Bulger -> left
+ 0.2  1.0  left -> M.Bulger
+ 0.5  0.5  M.Bulger -> right
+ 0.5  1.0  right -> M.Bulger
+ 0.2  1.0  R.McMichael -> right
+ 0.2  0.5  right -> R.McMichael
+ 0.2  0.5  L.Robinson -> left
+ 0.2  1.0  left -> L.Robinson
+ 0.2  0.5  L.Robinson -> right
+ 0.2  0.5  right -> L.Robinson
+ 0.2  1.0  D.Fells -> middle
+ 0.2  1.0  middle -> D.Fells

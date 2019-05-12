@@ -1,0 +1,17 @@
+Supp Conf  Rule
+ 0.4  0.4  S.Wallace -> J.Carlson
+ 0.4  1.0  J.Carlson -> S.Wallace
+ 0.2  0.2  S.Wallace -> J.Carlson middle
+ 0.2  0.5  S.Wallace J.Carlson -> middle
+ 0.2  1.0  S.Wallace middle -> J.Carlson
+ 0.2  0.5  J.Carlson -> S.Wallace middle
+ 0.2  1.0  J.Carlson middle -> S.Wallace
+ 0.2  1.0  middle -> S.Wallace J.Carlson
+ 0.2  0.2  S.Wallace -> middle
+ 0.2  1.0  middle -> S.Wallace
+ 0.2  0.2  S.Wallace -> left
+ 0.2  1.0  left -> S.Wallace
+ 0.6  0.6  S.Wallace -> right
+ 0.6  1.0  right -> S.Wallace
+ 0.2  0.5  J.Carlson -> middle
+ 0.2  1.0  middle -> J.Carlson

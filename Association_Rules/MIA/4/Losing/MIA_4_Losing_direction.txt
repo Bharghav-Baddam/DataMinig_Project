@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.2  0.2  C.Pennington -> D.Bess
+ 0.2  1.0  D.Bess -> C.Pennington
+ 0.3  0.3  C.Pennington -> R.Williams
+ 0.3  1.0  R.Williams -> C.Pennington
+ 0.2  0.2  C.Pennington -> middle
+ 0.2  1.0  middle -> C.Pennington
+ 0.4  0.4  C.Pennington -> left
+ 0.4  1.0  left -> C.Pennington
+ 0.4  0.4  C.Pennington -> right
+ 0.4  1.0  right -> C.Pennington

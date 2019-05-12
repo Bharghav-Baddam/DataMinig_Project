@@ -1,0 +1,43 @@
+Supp Conf  Rule
+ 0.4  1.0  D.Jackson -> K.Kolb
+ 0.4  0.4  K.Kolb -> D.Jackson
+ 0.4  1.0  D.Jackson -> K.Kolb left
+ 0.4  1.0  D.Jackson K.Kolb -> left
+ 0.4  1.0  D.Jackson left -> K.Kolb
+ 0.4  0.4  K.Kolb -> D.Jackson left
+ 0.4  0.5  K.Kolb left -> D.Jackson
+ 0.4  0.5  left -> D.Jackson K.Kolb
+ 0.4  1.0  D.Jackson -> left
+ 0.4  0.5  left -> D.Jackson
+ 0.2  1.0  J.Avant -> K.Kolb
+ 0.2  0.2  K.Kolb -> J.Avant
+ 0.2  1.0  J.Avant -> K.Kolb left
+ 0.2  1.0  J.Avant K.Kolb -> left
+ 0.2  1.0  J.Avant left -> K.Kolb
+ 0.2  0.2  K.Kolb -> J.Avant left
+ 0.2  0.2  K.Kolb left -> J.Avant
+ 0.2  0.2  left -> J.Avant K.Kolb
+ 0.2  1.0  J.Avant -> left
+ 0.2  0.2  left -> J.Avant
+ 0.4  1.0  J.Maclin -> K.Kolb
+ 0.4  0.4  K.Kolb -> J.Maclin
+ 0.2  0.5  J.Maclin -> K.Kolb left
+ 0.2  0.5  J.Maclin K.Kolb -> left
+ 0.2  1.0  J.Maclin left -> K.Kolb
+ 0.2  0.2  K.Kolb -> J.Maclin left
+ 0.2  0.2  K.Kolb left -> J.Maclin
+ 0.2  0.2  left -> J.Maclin K.Kolb
+ 0.2  0.5  J.Maclin -> K.Kolb right
+ 0.2  0.5  J.Maclin K.Kolb -> right
+ 0.2  1.0  J.Maclin right -> K.Kolb
+ 0.2  0.2  K.Kolb -> J.Maclin right
+ 0.2  1.0  K.Kolb right -> J.Maclin
+ 0.2  1.0  right -> J.Maclin K.Kolb
+ 0.2  0.5  J.Maclin -> left
+ 0.2  0.2  left -> J.Maclin
+ 0.2  0.5  J.Maclin -> right
+ 0.2  1.0  right -> J.Maclin
+ 0.8  0.8  K.Kolb -> left
+ 0.8  1.0  left -> K.Kolb
+ 0.2  0.2  K.Kolb -> right
+ 0.2  1.0  right -> K.Kolb

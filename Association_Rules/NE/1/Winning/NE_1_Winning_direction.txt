@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  0.2  T.Brady -> middle
+ 0.2  1.0  middle -> T.Brady
+ 0.4  0.4  T.Brady -> left
+ 0.4  1.0  left -> T.Brady
+ 0.4  0.4  T.Brady -> right
+ 0.4  1.0  right -> T.Brady

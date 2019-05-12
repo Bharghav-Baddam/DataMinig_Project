@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.3  1.0  C.Ochocinco -> C.Palmer
+ 0.3  0.3  C.Palmer -> C.Ochocinco
+ 0.3  0.3  C.Palmer -> middle
+ 0.3  1.0  middle -> C.Palmer
+ 0.3  0.3  C.Palmer -> left
+ 0.3  1.0  left -> C.Palmer
+ 0.4  0.4  C.Palmer -> right
+ 0.4  1.0  right -> C.Palmer

@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.2  1.0  M.Colston -> D.Brees
+ 0.2  0.2  D.Brees -> M.Colston
+ 0.2  0.2  D.Brees -> B.Watson
+ 0.2  1.0  B.Watson -> D.Brees
+ 0.3  0.3  D.Brees -> left
+ 0.3  1.0  left -> D.Brees
+ 0.6  0.6  D.Brees -> right
+ 0.6  1.0  right -> D.Brees

@@ -1,0 +1,9 @@
+Supp Conf  Rule
+ 0.3  1.0  J.Gaffney -> K.Orton
+ 0.3  0.3  K.Orton -> J.Gaffney
+ 0.3  0.3  K.Orton -> middle
+ 0.3  1.0  middle -> K.Orton
+ 0.4  0.4  K.Orton -> left
+ 0.4  1.0  left -> K.Orton
+ 0.3  0.3  K.Orton -> right
+ 0.3  1.0  right -> K.Orton

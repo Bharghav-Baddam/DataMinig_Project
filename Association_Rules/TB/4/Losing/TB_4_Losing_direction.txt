@@ -1,0 +1,11 @@
+Supp Conf  Rule
+ 0.3  1.0  J.Stevens -> B.Leftwich
+ 0.3  0.3  B.Leftwich -> J.Stevens
+ 0.2  0.2  B.Leftwich -> K.Winslow
+ 0.2  1.0  K.Winslow -> B.Leftwich
+ 0.2  0.2  B.Leftwich -> M.Stovall
+ 0.2  1.0  M.Stovall -> B.Leftwich
+ 0.3  0.3  B.Leftwich -> middle
+ 0.3  1.0  middle -> B.Leftwich
+ 0.5  0.5  B.Leftwich -> left
+ 0.5  1.0  left -> B.Leftwich

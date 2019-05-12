@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  1.0  L.Kendricks -> C.Keenum
+ 0.2  0.2  C.Keenum -> L.Kendricks
+ 0.4  0.4  C.Keenum -> left
+ 0.4  1.0  left -> C.Keenum
+ 0.4  0.4  C.Keenum -> right
+ 0.4  1.0  right -> C.Keenum

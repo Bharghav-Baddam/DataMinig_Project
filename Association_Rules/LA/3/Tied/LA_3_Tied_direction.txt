@@ -1,0 +1,19 @@
+Supp Conf  Rule
+ 0.3  1.0  B.Quick -> C.Keenum
+ 0.3  0.3  C.Keenum -> B.Quick
+ 0.2  0.8  B.Quick -> C.Keenum left
+ 0.2  0.8  B.Quick C.Keenum -> left
+ 0.2  1.0  B.Quick left -> C.Keenum
+ 0.2  0.2  C.Keenum -> B.Quick left
+ 0.2  0.6  C.Keenum left -> B.Quick
+ 0.2  0.6  left -> B.Quick C.Keenum
+ 0.2  0.8  B.Quick -> left
+ 0.2  0.6  left -> B.Quick
+ 0.3  1.0  L.Kendricks -> C.Keenum
+ 0.3  0.3  C.Keenum -> L.Kendricks
+ 0.3  0.3  C.Keenum -> middle
+ 0.3  1.0  middle -> C.Keenum
+ 0.4  0.4  C.Keenum -> left
+ 0.4  1.0  left -> C.Keenum
+ 0.3  0.3  C.Keenum -> right
+ 0.3  1.0  right -> C.Keenum

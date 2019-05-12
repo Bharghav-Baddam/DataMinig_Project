@@ -1,0 +1,7 @@
+Supp Conf  Rule
+ 0.2  1.0  T.Owens -> T.Edwards
+ 0.2  0.2  T.Edwards -> T.Owens
+ 0.4  0.4  T.Edwards -> left
+ 0.4  1.0  left -> T.Edwards
+ 0.4  0.4  T.Edwards -> right
+ 0.4  1.0  right -> T.Edwards
