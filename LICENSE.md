@@ -1,8 +1,8 @@
 Copyright (c) 2019 Zachary Hurst
 
 Restricted License:
-All contents of this repository (python scripts, output files, etc.) shall not be redistributed, copied, or downloaded except by the people in the "Allowed Access" section found below. 
-Violations of this license will be subject to discipline by the University at Albany for violating the rules of academic integrity.
+All contents of this repository (python scripts, output files, etc.) shall not be redistributed, copied, or downloaded except by the individuals in the "Allowed Access" section found below. 
+Violations of this license will be subject to discipline by the University at Albany in accordance with the standards of academic integrity.
 For more information please see [Standards of Academic Integrity](https://www.albany.edu/undergraduate_bulletin/regulations.html)
 
 Allowed Access:
