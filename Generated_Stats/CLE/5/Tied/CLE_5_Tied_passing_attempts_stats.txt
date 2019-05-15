@@ -1,0 +1,27 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => A.Callaway
+1 => D.Ratley
+1 => G.Barnidge
+1 => J.Dray
+1 => J.Gordon
+1 => K.Britt
+1 => K.Williams
+1 => R.Telfer
+1 => S.DeValve
+1 => T.Benjamin
+1 => T.Gabriel
+1 => T.Richardson
+2 => A.Hawkins
+2 => B.Watson
+2 => C.Stuckey
+2 => D.Johnson
+2 => G.Little
+2 => I.Crowell
+2 => T.Pryor Sr.
+3 => D.Willies
+3 => M.Massaquoi
+4 => C.Coleman
+4 => D.Njoku
+5 => J.Landry
+35 => Run Play

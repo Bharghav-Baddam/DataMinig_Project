@@ -1,0 +1,4 @@
+Quarter: 5 when Winning
+Number of times run to gap => Gap name 
+1 => end
+9 => Pass Play

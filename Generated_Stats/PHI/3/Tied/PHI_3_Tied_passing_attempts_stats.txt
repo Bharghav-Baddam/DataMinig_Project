@@ -1,0 +1,19 @@
+Quarter: 3 when Tied
+Number of times with ball => Player Name 
+1 => A.Jeffery
+1 => B.Brown
+1 => C.Harbor
+1 => G.Tate
+1 => R.Cooper
+2 => D.Sproles
+2 => M.Johnson
+2 => N.Agholor
+3 => D.Jackson
+3 => D.Murray
+3 => J.Huff
+3 => J.Maclin
+3 => J.Matthews
+3 => L.McCoy
+3 => Z.Ertz
+6 => B.Celek
+29 => Run Play

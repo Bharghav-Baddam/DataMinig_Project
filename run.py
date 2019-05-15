@@ -5,8 +5,8 @@ from output import analysis, statistics
 def run():
     data = scrape()
     grouped_data = group(data)
-    #analysis(grouped_data)
-    #statistics(grouped_data)
+    analysis(grouped_data)
+    statistics(grouped_data)
     # define more tasks here
     print("Run Completed Successfully")
 

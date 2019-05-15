@@ -1,0 +1,16 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => B.Bajema
+1 => B.Cunningham
+1 => B.Miller
+1 => I.Pead
+1 => K.Britt
+1 => L.Kendricks
+1 => S.Bailey
+2 => A.Pettis
+2 => B.Gibson
+2 => B.Lloyd
+2 => D.Amendola
+2 => S.Jackson
+2 => T.Austin
+18 => Run Play

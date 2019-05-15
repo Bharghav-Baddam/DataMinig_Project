@@ -1,0 +1,12 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => K.Allen
+1 => R.Brown
+1 => S.Ajirotutu
+2 => D.Woodhead
+2 => E.Royal
+2 => V.Brown
+3 => R.McMichael
+4 => D.Alexander
+5 => A.Gates
+27 => Run Play

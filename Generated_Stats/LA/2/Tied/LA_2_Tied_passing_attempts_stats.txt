@@ -1,0 +1,15 @@
+Quarter: 2 when Tied
+Number of times with ball => Player Name 
+1 => B.Marquez
+2 => B.Cunningham
+2 => J.Reynolds
+2 => L.Kendricks
+3 => B.Cooks
+4 => G.Everett
+5 => K.Britt
+5 => T.Austin
+6 => T.Higbee
+7 => C.Kupp
+7 => T.Gurley
+12 => R.Woods
+34 => Run Play

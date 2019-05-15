@@ -1,0 +1,18 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => B.Cooks
+1 => D.Sproles
+1 => J.Collins
+1 => J.Shockey
+1 => K.Robinson
+1 => Z.Line
+2 => B.Watson
+2 => D.Henderson
+2 => L.Moore
+2 => P.Thomas
+3 => M.Colston
+3 => M.Thomas
+4 => K.Stills
+5 => A.Kamara
+5 => J.Graham
+15 => Run Play

@@ -1,0 +1,26 @@
+Quarter: 3 when Tied
+Number of times with ball => Player Name 
+1 => B.Coleman
+1 => D.Thomas
+1 => H.Evans
+1 => J.Hill
+1 => J.Jones
+1 => J.Shockey
+1 => M.Hoomanawanui
+1 => T.Cadet
+1 => T.Hightower
+1 => Z.Strief
+2 => B.Watson
+2 => D.Henderson
+2 => D.Sproles
+2 => J.Kuhn
+2 => L.Betts
+2 => M.Thomas
+2 => R.Meachem
+2 => W.Snead
+3 => P.Thomas
+5 => L.Moore
+5 => M.Colston
+6 => M.Ingram
+7 => J.Graham
+33 => Run Play

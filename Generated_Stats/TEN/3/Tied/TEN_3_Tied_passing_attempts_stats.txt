@@ -1,0 +1,22 @@
+Quarter: 3 when Tied
+Number of times with ball => Player Name 
+1 => A.Crumpler
+1 => D.Avery
+1 => D.Jennings
+1 => E.Decker
+1 => J.Smith
+1 => P.Supernaw
+2 => A.Hall
+2 => C.Stevens
+2 => D.Henry
+2 => K.Wright
+3 => J.Gage
+3 => T.Taylor
+4 => D.Walker
+4 => J.Cook
+5 => C.Davis
+5 => K.Britt
+6 => B.Scaife
+7 => C.Johnson
+10 => N.Washington
+77 => Run Play

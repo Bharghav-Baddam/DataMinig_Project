@@ -1,0 +1,21 @@
+Quarter: 4 when Tied
+Number of times with ball => Player Name 
+1 => A.Hooper
+1 => Ju.Jones
+1 => L.Toilolo
+1 => P.DiMarco
+1 => T.Gabriel
+1 => T.Gallarda
+2 => J.Snelling
+2 => M.Jenkins
+2 => S.Jackson
+3 => D.Freeman
+3 => M.Turner
+4 => B.Finneran
+4 => J.Hardy
+6 => M.Sanu
+10 => J.Jones
+13 => H.Douglas
+13 => T.Gonzalez
+14 => R.White
+39 => Run Play

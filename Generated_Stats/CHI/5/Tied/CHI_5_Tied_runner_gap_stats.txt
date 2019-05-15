@@ -1,0 +1,6 @@
+Quarter: 5 when Tied
+Number of times run to gap => Gap name 
+3 => tackle
+4 => end
+6 => guard
+31 => Pass Play

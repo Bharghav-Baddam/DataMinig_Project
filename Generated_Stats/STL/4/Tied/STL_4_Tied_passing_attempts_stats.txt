@@ -1,0 +1,20 @@
+Quarter: 4 when Tied
+Number of times with ball => Player Name 
+1 => B.Lloyd
+1 => B.Marquez
+1 => B.Quick
+1 => C.Givens
+1 => D.Avery
+1 => G.Salas
+1 => K.Britt
+1 => L.Kendricks
+1 => S.Jackson
+1 => Z.Stacy
+2 => T.Mason
+2 => W.Welker
+3 => B.Gibson
+3 => J.Cook
+4 => B.Cunningham
+4 => T.Austin
+5 => A.Pettis
+28 => Run Play

@@ -1,0 +1,13 @@
+Quarter: 1 when Winning
+Number of times with ball => Player Name 
+1 => S.McGrath
+1 => V.Green
+4 => A.Ekeler
+4 => H.Henry
+5 => A.Gates
+5 => T.Benjamin
+5 => Ty.Williams
+7 => M.Williams
+9 => M.Gordon
+13 => K.Allen
+42 => Run Play

@@ -1,0 +1,15 @@
+Quarter: 3 when Tied
+Number of times with ball => Player Name 
+1 => C.Kupp
+1 => G.Everett
+1 => M.Brown
+1 => P.Cooper
+2 => B.Cooks
+2 => K.Britt
+2 => S.Watkins
+3 => T.Austin
+3 => T.Gurley
+4 => B.Quick
+4 => L.Kendricks
+8 => R.Woods
+24 => Run Play

@@ -1,0 +1,25 @@
+Quarter: 4 when Tied
+Number of times with ball => Player Name 
+1 => C.Brown
+1 => C.McCaffrey
+1 => C.Samuel
+1 => D.Gettis
+1 => E.Dickson
+1 => F.Whittaker
+1 => G.Barnidge
+1 => J.Avant
+1 => J.Stewart
+1 => K.Moore
+1 => M.Tolbert
+1 => T.Fiammetta
+2 => D.Jarrett
+2 => T.Ginn
+3 => D.Funchess
+3 => D.Moore
+3 => D.Williams
+3 => J.Cotchery
+4 => B.LaFell
+6 => S.Smith
+7 => K.Benjamin
+13 => G.Olsen
+54 => Run Play

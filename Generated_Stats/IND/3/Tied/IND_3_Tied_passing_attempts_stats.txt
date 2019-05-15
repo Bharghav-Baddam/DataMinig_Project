@@ -1,0 +1,23 @@
+Quarter: 3 when Tied
+Number of times with ball => Player Name 
+1 => A.Bradshaw
+1 => B.Eldridge
+1 => F.Gore
+1 => G.Whalen
+1 => J.Doyle
+1 => M.Hart
+1 => R.Turbin
+1 => Z.Pascal
+2 => A.Collie
+2 => D.Brown
+2 => D.Clark
+2 => D.Jones
+2 => J.Tamme
+2 => P.Garcon
+3 => B.White
+3 => C.Rogers
+3 => E.Ebron
+4 => J.Addai
+5 => T.Hilton
+6 => R.Wayne
+28 => Run Play

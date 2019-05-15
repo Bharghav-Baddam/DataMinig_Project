@@ -1,0 +1,14 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => A.Quarless
+1 => B.Jackson
+1 => D.Adams
+1 => J.Kuhn
+1 => J.Starks
+1 => J.Williams
+1 => R.Cobb
+2 => G.Jennings
+2 => J.Jones
+3 => J.Boykin
+4 => J.Nelson
+9 => Run Play

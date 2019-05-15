@@ -1,0 +1,20 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => D.Jackson
+1 => D.Stallworth
+1 => F.Davis
+1 => K.Williams
+1 => R.Grant
+1 => R.Torain
+1 => S.Perine
+1 => V.Davis
+2 => C.Cooley
+2 => C.Thompson
+2 => J.Gaffney
+2 => L.Paulsen
+3 => J.Galloway
+5 => J.Crowder
+5 => P.Garcon
+5 => S.Moss
+6 => J.Reed
+21 => Run Play

@@ -1,0 +1,11 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => C.Stevens
+1 => D.Henry
+1 => E.Decker
+1 => H.Douglas
+1 => J.Smith
+1 => R.Matthews
+2 => D.Green-Beckham
+2 => D.Walker
+11 => Run Play

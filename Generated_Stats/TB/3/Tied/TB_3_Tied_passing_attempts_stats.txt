@@ -1,0 +1,25 @@
+Quarter: 3 when Tied
+Number of times with ball => Player Name 
+1 => C.Shorts
+1 => C.Sims
+1 => D.Briscoe
+1 => D.Clark
+1 => D.Jackson
+1 => E.Graham
+1 => E.Lorig
+1 => J.Rodgers
+1 => K.Winslow
+1 => M.Clayton
+1 => M.Evans
+1 => P.Parker
+1 => R.Shepard
+2 => A.Benn
+2 => A.Humphries
+2 => D.Martin
+2 => L.Blount
+2 => S.Stroughter
+2 => T.Underwood
+2 => V.Jackson
+3 => C.Godwin
+3 => M.Williams
+18 => Run Play

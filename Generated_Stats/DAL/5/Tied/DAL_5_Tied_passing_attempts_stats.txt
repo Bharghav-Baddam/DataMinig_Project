@@ -1,0 +1,15 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => A.Cooper
+1 => B.Jarwin
+1 => J.Holley
+1 => M.Bennett
+1 => T.Williams
+2 => D.Harris
+2 => D.Schultz
+3 => C.Beasley
+3 => E.Elliott
+4 => J.Witten
+6 => M.Austin
+8 => D.Bryant
+35 => Run Play

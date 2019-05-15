@@ -1,0 +1,7 @@
+Quarter: 5 when Winning
+Number of times with ball => Player Name 
+1 => R.Jennings
+2 => R.Randle
+3 => O.Beckham Jr.
+3 => S.Shepard
+5 => Run Play

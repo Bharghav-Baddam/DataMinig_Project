@@ -1,0 +1,27 @@
+Quarter: 4 when Tied
+Number of times with ball => Player Name 
+1 => B.Bell
+1 => B.Miller
+1 => J.Hill
+1 => K.Juszczyk
+1 => M.Breida
+1 => M.Norris
+1 => M.Robinson
+1 => T.Smith
+2 => C.Harper
+2 => T.Taylor
+2 => V.McDonald
+3 => C.Hyde
+3 => Q.Patton
+4 => A.Robinson
+4 => G.Kittle
+4 => J.Morgan
+4 => M.Crabtree
+4 => M.Goodwin
+4 => P.Garcon
+6 => D.Pettis
+6 => F.Gore
+7 => K.Bourne
+8 => V.Davis
+12 => A.Boldin
+64 => Run Play

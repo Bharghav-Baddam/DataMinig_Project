@@ -1,0 +1,19 @@
+Quarter: 3 when Tied
+Number of times with ball => Player Name 
+1 => A.Pettis
+1 => B.Lloyd
+1 => B.Quick
+1 => M.Clayton
+1 => M.Hoomanawanui
+1 => T.Austin
+1 => T.Mason
+2 => D.Fells
+2 => J.Cook
+2 => L.Kendricks
+2 => Z.Stacy
+3 => B.Gibson
+3 => D.Amendola
+4 => K.Britt
+4 => S.Jackson
+6 => C.Givens
+38 => Run Play

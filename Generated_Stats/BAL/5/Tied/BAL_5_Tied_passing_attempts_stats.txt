@@ -1,0 +1,24 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => A.Collins
+1 => C.Moore
+1 => E.Dickson
+1 => H.Hurst
+1 => J.Brown
+1 => J.Forsett
+1 => J.Jones
+1 => K.Washington
+1 => M.Brown
+1 => M.Clayton
+1 => M.Crabtree
+1 => T.Doss
+1 => T.Heap
+1 => W.Snead IV
+2 => K.Aiken
+3 => D.Pitta
+3 => J.Allen
+3 => T.Smith
+4 => A.Boldin
+6 => R.Rice
+7 => D.Mason
+42 => Run Play

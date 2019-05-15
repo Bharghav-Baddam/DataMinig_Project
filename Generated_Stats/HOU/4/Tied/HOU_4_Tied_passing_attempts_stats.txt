@@ -1,0 +1,27 @@
+Quarter: 4 when Tied
+Number of times with ball => Player Name 
+1 => A.Foster
+1 => A.Hunt
+1 => B.Ellington
+1 => B.Tate
+1 => C.Brown
+1 => C.Fiedorowicz
+1 => C.Shorts III
+1 => L.Miller
+1 => L.Vickers
+1 => N.Washington
+2 => A.Blue
+2 => G.Graham
+2 => J.Akins
+2 => J.Dreessen
+3 => K.Coutee
+3 => S.Slaton
+4 => O.Daniels
+4 => R.Griffin
+5 => D.Anderson
+5 => J.Jones
+6 => K.Walter
+6 => W.Fuller
+8 => D.Hopkins
+16 => A.Johnson
+59 => Run Play

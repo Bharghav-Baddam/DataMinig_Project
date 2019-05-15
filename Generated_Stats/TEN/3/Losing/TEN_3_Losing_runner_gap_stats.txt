@@ -1,0 +1,6 @@
+Quarter: 3 when Losing
+Number of times run to gap => Gap name 
+107 => guard
+141 => tackle
+148 => end
+722 => Pass Play

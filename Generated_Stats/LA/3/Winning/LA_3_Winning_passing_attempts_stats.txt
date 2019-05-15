@@ -1,0 +1,22 @@
+Quarter: 3 when Winning
+Number of times with ball => Player Name 
+1 => C.Reynolds
+1 => D.Carrier
+1 => M.Thomas
+2 => K.Hodge
+2 => L.Kendricks
+2 => N.Williams
+3 => B.Quick
+3 => M.Brown
+6 => K.Britt
+6 => P.Cooper
+7 => T.Higbee
+8 => G.Everett
+9 => J.Reynolds
+9 => T.Austin
+11 => B.Cooks
+12 => C.Kupp
+13 => S.Watkins
+23 => T.Gurley
+24 => R.Woods
+120 => Run Play

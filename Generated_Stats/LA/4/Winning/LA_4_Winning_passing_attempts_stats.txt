@@ -1,0 +1,22 @@
+Quarter: 4 when Winning
+Number of times with ball => Player Name 
+1 => B.Marquez
+1 => L.Dunbar
+2 => M.Thomas
+4 => M.Brown
+5 => D.Carrier
+6 => B.Cooks
+6 => B.Cunningham
+7 => S.Watkins
+10 => G.Everett
+12 => J.Reynolds
+12 => P.Cooper
+12 => T.Austin
+13 => L.Kendricks
+15 => C.Kupp
+15 => K.Britt
+15 => T.Higbee
+16 => B.Quick
+28 => R.Woods
+31 => T.Gurley
+212 => Run Play

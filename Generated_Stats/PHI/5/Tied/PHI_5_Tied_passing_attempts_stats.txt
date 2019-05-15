@@ -1,0 +1,6 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => A.Jeffery
+1 => N.Agholor
+1 => Z.Ertz
+5 => Run Play

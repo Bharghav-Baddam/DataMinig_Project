@@ -1,0 +1,24 @@
+Quarter: 1 when Tied
+Number of times with ball => Player Name 
+1 => A.Ellis
+1 => D.Grinnage
+2 => B.Koyack
+2 => C.Grant
+2 => D.Chark
+2 => T.Bohanon
+3 => A.Seferian-Jenkins
+3 => B.Walters
+3 => C.Ivory
+3 => N.Sterling
+5 => J.Thomas
+6 => J.O'Shaughnessy
+8 => D.Moncrief
+11 => L.Fournette
+13 => A.Hurns
+15 => D.Westbrook
+18 => M.Lewis
+18 => T.Yeldon
+19 => K.Cole
+21 => A.Robinson
+21 => M.Lee
+209 => Run Play

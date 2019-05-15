@@ -1,0 +1,25 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => A.Wilson
+1 => B.Wade
+1 => C.Conley
+1 => C.West
+1 => D.Harris
+1 => Dam. Williams
+1 => Dar.Williams
+1 => J.Baldwin
+1 => M.Bradley
+1 => R.Travis
+1 => S.Draughn
+1 => S.Ware
+1 => V.Tucker
+2 => C.Chambers
+2 => L.Pope
+2 => S.Breaston
+3 => D.McCluster
+3 => J.Charles
+5 => T.Hill
+5 => T.Kelce
+5 => T.Moeaki
+10 => D.Bowe
+39 => Run Play

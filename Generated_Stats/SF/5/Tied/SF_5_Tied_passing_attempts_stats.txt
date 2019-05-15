@@ -1,0 +1,18 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => C.Harper
+1 => C.Hyde
+1 => G.Celek
+1 => V.McDonald
+2 => A.Robinson
+2 => D.Harris
+2 => K.Juszczyk
+2 => M.Breida
+2 => P.Garcon
+2 => Q.Patton
+2 => T.Ginn
+2 => T.Smith
+2 => T.Taylor
+3 => M.Crabtree
+5 => A.Boldin
+39 => Run Play

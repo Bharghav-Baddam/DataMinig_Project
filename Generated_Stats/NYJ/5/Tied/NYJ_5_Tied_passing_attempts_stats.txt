@@ -1,0 +1,14 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => B.Hartsock
+1 => B.Smith
+1 => D.Nelson
+1 => J.Cotchery
+1 => L.Washington
+1 => R.Anderson
+1 => S.Greene
+3 => B.Edwards
+3 => S.Holmes
+4 => L.Tomlinson
+6 => D.Keller
+32 => Run Play

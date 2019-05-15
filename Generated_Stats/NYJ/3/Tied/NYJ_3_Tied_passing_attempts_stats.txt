@@ -1,0 +1,24 @@
+Quarter: 3 when Tied
+Number of times with ball => Player Name 
+1 => B.Marshall
+1 => C.Ivory
+1 => D.Nelson
+1 => J.Conner
+1 => J.Cotchery
+1 => K.Winslow
+1 => L.Washington
+1 => P.Turner
+1 => T.Jones
+2 => E.Decker
+2 => J.Amaro
+2 => J.Cumberland
+2 => R.Anderson
+3 => D.Mason
+3 => J.McKnight
+4 => J.Kerley
+5 => B.Powell
+5 => D.Keller
+5 => S.Holmes
+6 => P.Burress
+6 => S.Greene
+45 => Run Play

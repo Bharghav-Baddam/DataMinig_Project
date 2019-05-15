@@ -1,0 +1,10 @@
+Quarter: 4 when Tied
+Number of times with ball => Player Name 
+1 => B.Cunningham
+1 => G.Everett
+1 => L.Kendricks
+1 => P.Cooper
+1 => T.Austin
+1 => T.Gurley
+4 => K.Britt
+9 => Run Play

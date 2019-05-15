@@ -1,0 +1,19 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => A.Caldwell
+1 => A.Derby
+1 => B.Fowler
+1 => D.Booker
+1 => E.Decker
+1 => E.Sanders
+1 => J.Taylor
+1 => M.Willis
+1 => T.Scheffler
+1 => V.Green
+1 => W.McGahee
+2 => B.Marshall
+2 => J.Johnson
+3 => E.Royal
+4 => O.Daniels
+8 => D.Thomas
+35 => Run Play

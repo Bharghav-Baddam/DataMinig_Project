@@ -1,0 +1,9 @@
+Quarter: 3 when Tied
+Number of times with ball => Player Name 
+1 => S.McGrath
+1 => Ty.Williams
+2 => H.Henry
+2 => K.Allen
+3 => A.Gates
+3 => M.Gordon
+6 => Run Play

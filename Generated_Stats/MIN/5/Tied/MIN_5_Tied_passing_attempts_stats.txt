@@ -1,0 +1,9 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => D.Aromashodu
+1 => R.Ellison
+1 => T.Gerhart
+2 => C.Patterson
+3 => A.Peterson
+4 => G.Jennings
+21 => Run Play

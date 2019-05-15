@@ -1,0 +1,19 @@
+Quarter: 4 when Tied
+Number of times with ball => Player Name 
+1 => A.Dobson
+1 => A.Hernandez
+1 => P.Dorsett
+1 => S.Morris
+2 => B.Tate
+2 => C.Ochocinco
+2 => D.Woodhead
+2 => K.Thompkins
+3 => B.LaFell
+3 => D.Branch
+4 => J.Edelman
+4 => J.White
+5 => S.Vereen
+8 => D.Amendola
+8 => W.Welker
+12 => R.Gronkowski
+38 => Run Play

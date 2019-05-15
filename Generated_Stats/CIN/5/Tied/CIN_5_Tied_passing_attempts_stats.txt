@@ -1,0 +1,12 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => Al.Smith
+1 => J.Gresham
+1 => J.Wright
+2 => D.Sanzenbacher
+3 => T.Boyd
+4 => A.Green
+4 => T.Eifert
+5 => G.Bernard
+5 => M.Sanu
+23 => Run Play

@@ -1,0 +1,24 @@
+Quarter: 4 when Tied
+Number of times with ball => Player Name 
+1 => C.Ford
+1 => C.Ham
+1 => G.Camarillo
+1 => J.Carlson
+1 => J.Kleinsasser
+1 => J.McKinnon
+2 => A.Peterson
+2 => C.Patterson
+2 => J.Wright
+2 => M.Asiata
+2 => R.D'Imperio
+2 => R.Moss
+2 => V.Shiancoe
+3 => A.Thielen
+3 => B.Berrian
+3 => D.Aromashodu
+3 => G.Jennings
+3 => J.Simpson
+3 => M.Jenkins
+4 => P.Harvin
+15 => K.Rudolph
+60 => Run Play

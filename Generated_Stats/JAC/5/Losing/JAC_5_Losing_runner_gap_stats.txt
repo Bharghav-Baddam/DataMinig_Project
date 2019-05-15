@@ -1,0 +1,6 @@
+Quarter: 5 when Losing
+Number of times run to gap => Gap name 
+1 => tackle
+2 => guard
+4 => end
+19 => Pass Play

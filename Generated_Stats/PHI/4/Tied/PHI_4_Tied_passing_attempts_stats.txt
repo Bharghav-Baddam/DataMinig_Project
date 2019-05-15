@@ -1,0 +1,24 @@
+Quarter: 4 when Tied
+Number of times with ball => Player Name 
+1 => C.Clement
+1 => C.Hall
+1 => J.Maehl
+1 => L.Blount
+1 => O.Schmitt
+1 => W.Smallwood
+2 => C.Harbor
+2 => K.Barner
+2 => L.McCoy
+2 => T.Smith
+3 => D.Sproles
+3 => T.Burton
+4 => A.Jeffery
+5 => D.Jackson
+5 => J.Avant
+5 => R.Cooper
+8 => B.Celek
+8 => J.Matthews
+8 => N.Agholor
+10 => J.Maclin
+18 => Z.Ertz
+73 => Run Play

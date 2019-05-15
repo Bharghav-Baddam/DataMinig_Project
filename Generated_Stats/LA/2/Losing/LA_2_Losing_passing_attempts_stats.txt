@@ -1,0 +1,21 @@
+Quarter: 2 when Losing
+Number of times with ball => Player Name 
+1 => B.Cunningham
+1 => B.Marquez
+1 => D.Carrier
+1 => M.Brown
+1 => M.Thomas
+2 => P.Cooper
+3 => J.Reynolds
+5 => S.Watkins
+8 => B.Quick
+8 => G.Everett
+9 => L.Kendricks
+12 => B.Cooks
+13 => T.Higbee
+17 => K.Britt
+17 => T.Austin
+23 => R.Woods
+28 => C.Kupp
+32 => T.Gurley
+120 => Run Play

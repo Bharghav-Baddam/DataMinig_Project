@@ -1,0 +1,8 @@
+Quarter: 4 when Tied
+Number of times with ball => Player Name 
+1 => A.Ekeler
+1 => A.Gates
+1 => Ty.Williams
+3 => K.Allen
+3 => M.Gordon
+5 => Run Play

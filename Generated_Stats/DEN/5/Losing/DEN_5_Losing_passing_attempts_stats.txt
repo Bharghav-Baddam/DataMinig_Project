@@ -1,0 +1,10 @@
+Quarter: 5 when Losing
+Number of times with ball => Player Name 
+1 => C.Anderson
+1 => E.Sanders
+1 => J.Tamme
+1 => R.Hillman
+1 => W.Welker
+2 => O.Daniels
+5 => D.Thomas
+19 => Run Play

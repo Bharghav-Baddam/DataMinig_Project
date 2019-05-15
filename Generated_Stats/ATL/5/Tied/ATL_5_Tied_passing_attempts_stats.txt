@@ -1,0 +1,10 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => J.Norwood
+1 => J.Snelling
+1 => L.Toilolo
+1 => M.Cox
+1 => T.Gonzalez
+2 => R.White
+6 => H.Douglas
+19 => Run Play

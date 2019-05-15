@@ -1,0 +1,26 @@
+Quarter: 3 when Tied
+Number of times with ball => Player Name 
+1 => A.Abdullah
+1 => D.Cook
+1 => D.Morgan
+1 => G.Lewis
+1 => J.Simpson
+1 => L.Booker
+1 => R.Ellison
+2 => G.Camarillo
+2 => G.Jennings
+2 => J.Kleinsasser
+2 => J.Wright
+2 => M.Floyd
+2 => T.Gerhart
+3 => A.Peterson
+3 => B.Berrian
+3 => C.Patterson
+4 => J.McKinnon
+4 => R.Moss
+4 => V.Shiancoe
+5 => P.Harvin
+5 => S.Diggs
+7 => K.Rudolph
+9 => A.Thielen
+49 => Run Play

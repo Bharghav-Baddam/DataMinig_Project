@@ -1,0 +1,9 @@
+Quarter: 5 when Winning
+Number of times with ball => Player Name 
+1 => A.Thielen
+1 => D.Cook
+1 => M.Asiata
+2 => K.Rudolph
+2 => L.Treadwell
+3 => S.Diggs
+5 => Run Play

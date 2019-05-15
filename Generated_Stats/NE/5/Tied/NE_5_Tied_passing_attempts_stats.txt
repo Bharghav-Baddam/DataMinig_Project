@@ -1,0 +1,13 @@
+Quarter: 5 when Tied
+Number of times with ball => Player Name 
+1 => A.Crumpler
+1 => A.Dobson
+1 => B.LaFell
+1 => D.Woodhead
+1 => J.Edelman
+1 => J.White
+2 => R.Gronkowski
+4 => A.Hernandez
+5 => D.Branch
+6 => Run Play
+6 => W.Welker

@@ -1,63 +1,110 @@
 # Use this file to define functions that will output to files
-def analysis(all_data):
-    analysis = open("analysis.txt","w+")
-    for passer in all_data:
-        output_passer = True
-        for receiver in passer:
-            output_receiver = True
-            for quarter in receiver:
-                output_quarter = True
-                for completion in quarter:
-                    output_completion = True
-                    for attempt in completion:
-                        if(output_passer):
-                            analysis.write("Passer: " + attempt['passer_player_name'] + "\n")
-                            output_passer = False
-                        if(output_receiver):
-                            analysis.write("-- Receiver: " + attempt['receiver_player_name'] + "\n")
-                            output_receiver = False
-                        if(output_quarter):
-                            analysis.write("-- -- Quarter: " + attempt['qtr'] + "\n")
-                            output_quarter = False
-                        if(output_completion):
-                            comp = ""
-                            if(attempt['complete_pass'] == "1"):
-                                    comp = "Yes"
-                            else:
-                                    comp = "No" 
-                            analysis.write("-- -- -- Completed Pass?: " + comp + "\n")
-                            output_completion = False
-                        analysis.write("-- -- -- -- Yards Gained : " + attempt['yards_gained'] + " // Pass Type: " + attempt['pass_length'] + "\n")
-                    
-    analysis.close
-    print("Analysis Output Completed")
+import json
+import numpy as np
+import matplotlib.pyplot as plt
+import sys
+import os
 
-def statistics(all_data):
-    statistics = open("statistics.txt","w+")
-    for passer in all_data:
-        output_passer = True
-        for receiver in passer:
-            output_receiver = True
-            for quarter in receiver:
-                is_complete = 0
-                total_complete = 0
-                output_quarter = True
-                for completion in quarter:
-                    for attempt in completion:
-                        if(output_passer):
-                            statistics.write("Passer: " + attempt['passer_player_name'] + "\n")
-                            output_passer = False
-                        if(output_receiver):
-                            statistics.write("-- Receiver: " + attempt['receiver_player_name'] + "\n")
-                            output_receiver = False
-                        if(output_quarter):
-                            statistics.write("-- -- Quarter " + attempt['qtr'] + " Accuracy: ")
-                            output_quarter = False
-                        if(attempt['complete_pass'] == "1"):
-                            is_complete = is_complete + 1
-                            total_complete = total_complete + 1
-                        else:
-                            total_complete = total_complete + 1 
-                statistics.write("" + str(is_complete) + " / " + str(total_complete) + "\n")
-    statistics.close
-    print("Statistics Output Completed")
+stats_dir = os.curdir + "/Generated_Stats"
+try:  # create a new directory to store the files
+    os.mkdir(stats_dir)
+except OSError as file_error:  # if the directory exists then don't create a new one and don't crash
+    pass # directory exists   
+
+Teams = ["ARI","ATL","BAL","BUF","CAR","CHI","CIN","CLE","DAL","DEN","DET","GB","HOU","IND","JAC","JAX","KC","LA","LAC","MIA","MIN","NE","NO","NYG","NYJ","OAK","PHI","PIT","SD","SEA","SF","STL","TB","TEN","WAS"]
+Quarters = ["1","2","3","4","5"]
+Status = ["Winning","Losing","Tied"]
+for team in Teams:
+  try:  # create a new directory to store the files
+      os.mkdir(stats_dir + "/" + team)
+  except OSError as file_error:  # if the directory exists then don't create a new one and don't crash
+      pass # directory exists 
+  for quarter in Quarters:
+    try:  # create a new directory to store the files
+      os.mkdir(stats_dir + "/" + team + "/" + str(quarter))
+    except OSError as file_error:  # if the directory exists then don't create a new one and don't crash
+        pass # directory exists 
+    for stat in Status:
+      try:  # create a new directory to store the files
+        os.mkdir(stats_dir + "/" + team + "/" + str(quarter) + "/" + str(stat))
+      except OSError as file_error:  # if the directory exists then don't create a new one and don't crash
+          pass # directory exists 
+        
+      file_name = 'Teams/{}/{}/{}/data.json'.format(team, str(quarter), str(stat))
+      try:
+        with open(file_name, 'r') as json_file:
+          data = json.load(json_file)
+          y = []
+          indices = dict()
+          for play in data:
+              term = play['Receiver_Name']
+              if(indices.has_key(term) == False):
+                  indices.update({term:1})
+              else:
+                  i = indices.get(term)
+                  indices.update({term: i + 1})
+              y.append(indices.get(term))
+          print(indices)
+          sorted_view = [ (v,k) for k,v in indices.iteritems() ]
+          sorted_view.sort(reverse=False)
+
+          for key,value in sorted_view:
+            print(str(key) + " => " + str(value))
+  
+        output_file = open("Generated_Stats/" + team + "/" + str(quarter) + "/" + str(stat) + "/" + team + "_" + str(quarter) + "_" + str(stat) + "_passing_attempts_stats.txt","w+")
+        output_file.write("Quarter: " + str(quarter) + " when " + str(stat) + "\n")
+        output_file.write("Number of times with ball => Player Name \n")
+        for key,value in sorted_view:
+            if value == 'NA':
+                value = 'Run Play'
+            output_file.write(str(key) + " => " + str(value) + "\n")
+      except:
+        pass
+
+#### RUNS ####
+for team in Teams:
+  try:  # create a new directory to store the files
+      os.mkdir(stats_dir + "/" + team)
+  except OSError as file_error:  # if the directory exists then don't create a new one and don't crash
+      pass # directory exists 
+  for quarter in Quarters:
+    try:  # create a new directory to store the files
+      os.mkdir(stats_dir + "/" + team + "/" + str(quarter))
+    except OSError as file_error:  # if the directory exists then don't create a new one and don't crash
+        pass # directory exists 
+    for stat in Status:
+      try:  # create a new directory to store the files
+        os.mkdir(stats_dir + "/" + team + "/" + str(quarter) + "/" + str(stat))
+      except OSError as file_error:  # if the directory exists then don't create a new one and don't crash
+          pass # directory exists 
+
+      file_name = 'Teams/{}/{}/{}/data.json'.format(team, str(quarter), str(stat))
+      try:
+        with open(file_name, 'r') as json_file:
+          data = json.load(json_file)
+          y = []
+          indices = dict()
+          for play in data:
+              term = play['Runner_Gap']
+              if(indices.has_key(term) == False):
+                  indices.update({term:1})
+              else:
+                  i = indices.get(term)
+                  indices.update({term: i + 1})
+              y.append(indices.get(term))
+          print(indices)
+          sorted_view = [ (v,k) for k,v in indices.iteritems() ]
+          sorted_view.sort(reverse=False)
+
+          for key,value in sorted_view:
+            print(str(key) + " => " + str(value))
+  
+        output_file = open("Generated_Stats/" + team + "/" + str(quarter) + "/" + str(stat) + "/" + team + "_" + str(quarter) + "_" + str(stat) + "_runner_gap_stats.txt","w+")
+        output_file.write("Quarter: " + str(quarter) + " when " + str(stat) + "\n")
+        output_file.write("Number of times run to gap => Gap name \n")
+        for key,value in sorted_view:
+            if value == 'NA':
+                value = 'Pass Play'
+            output_file.write(str(key) + " => " + str(value) + "\n")
+      except:
+        pass

@@ -1,0 +1,27 @@
+Quarter: 3 when Tied
+Number of times with ball => Player Name 
+1 => B.Pascoe
+1 => D.Powe
+1 => L.Donnell
+1 => O.Darkwa
+1 => P.Hillis
+1 => P.Perkins
+1 => T.King
+2 => A.Williams
+2 => D.Harris
+2 => O.Beckham Jr.
+2 => P.Parker
+2 => S.Smith
+2 => S.Vereen
+3 => J.Ballard
+3 => O.Beckham
+3 => R.Lewis
+3 => S.Shepard
+3 => W.Tye
+4 => H.Nicks
+4 => R.Jennings
+4 => R.Randle
+4 => V.Cruz
+4 => W.Gallman
+5 => M.Manningham
+54 => Run Play

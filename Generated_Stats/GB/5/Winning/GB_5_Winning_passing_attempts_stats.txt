@@ -1,0 +1,7 @@
+Quarter: 5 when Winning
+Number of times with ball => Player Name 
+1 => G.Allison
+1 => J.Nelson
+1 => J.Williams
+2 => D.Adams
+7 => Run Play
